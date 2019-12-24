@@ -1,0 +1,3115 @@
+Team Number,Country,State,City,Postal Code,State Code,fips
+1,USA,Michigan,Pontiac,48340,MI,m26125
+4,USA,California,Van Nuys,91406,CA,c06037
+8,USA,California,Palo Alto,94301,CA,c06085
+11,USA,New Jersey,Flanders,07836,NJ,n34027
+16,USA,Arkansas,Mountain Home,72653,AR,"a05005,a05089"
+20,USA,New York,Clifton Park,12065,NY,"n36001,n36091"
+21,USA,Florida,Titusville,32796,FL,f12009
+23,USA,Massachusetts,Plymouth,02360,MA,"m25001,m25023"
+25,USA,New Jersey,North Brunswick,08902,NJ,n34023
+27,USA,Michigan,Clarkston,48346,MI,m26125
+28,USA,New York,Sag Harbor,11963,NY,n36103
+31,USA,Oklahoma,Jenks,74037,OK,o40143
+33,USA,Michigan,Auburn Hills,48326,MI,m26125
+34,USA,Alabama,Athens,35611,AL,a01083
+41,USA,New Jersey,Warren,07059,NJ,n34035
+45,USA,Indiana,Kokomo,46902,IN,"i18067,i18159"
+48,USA,Ohio,Warren,44483,OH,o39155
+51,USA,Michigan,Pontiac,48342,MI,m26125
+56,USA,New Jersey,Bound Brook,08805,NJ,"n34023,n34035"
+58,USA,Maine,South Portland,04106,ME,m23005
+59,USA,Florida,Miami,33165,FL,f12086
+60,USA,Arizona,Kingman,86401,AZ,a04015
+61,USA,Massachusetts,Upton,01568,MA,m25027
+63,USA,Pennsylvania,Erie,16506,PA,p42049
+66,USA,Michigan,Ypsilanti,48197,MI,m26161
+67,USA,Michigan,Highland,48357,MI,m26125
+68,USA,Michigan,Ortonville,48462,MI,"m26049,m26087,m26125"
+69,USA,Massachusetts,Quincy,02169,MA,m25021
+70,USA,Michigan,Goodrich,48438,MI,"m26049,m26087"
+71,USA,Indiana,Hammond,46320,IN,i18089
+74,USA,Michigan,Holland,49423,MI,"m26005,m26139"
+75,USA,New Jersey,Hillsborough,08844,NJ,n34035
+78,USA,Rhode Island,Newport,02841,RI,r44005
+79,USA,Florida,Tarpon Springs ,34688,FL,f12103
+81,USA,Illinois,Freeport,61032,IL,i17177
+85,USA,Michigan,Zeeland,49464,MI,"m26005,m26139"
+86,USA,Florida,Jacksonville,32204,FL,f12031
+87,USA,New Jersey,Mount Holly,08060,NJ,n34005
+88,USA,Massachusetts,Bridgewater,02324,MA,"m25005,m25023"
+93,USA,Wisconsin,Appleton,54915,WI,"w55015,w55087,w55139"
+94,USA,Michigan,Southfield,48033,MI,m26125
+95,USA,Vermont,White River Junction,05001,VT,v50027
+97,USA,Massachusetts,Cambridge,02138,MA,m25017
+100,USA,California,Woodside,94062,CA,c06081
+101,USA,Illinois,Chicago,60634,IL,i17031
+102,USA,New Jersey,Somerville,08876,NJ,"n34019,n34035"
+103,USA,Pennsylvania,Kintnersville,18930,PA,p42017
+107,USA,Michigan,Holland,49423,MI,"m26005,m26139"
+108,USA,Florida,Fort Lauderdale,33311,FL,f12011
+111,USA,Illinois,Arlington Heights,60005,IL,i17031
+114,USA,California,Los Altos,94022,CA,c06085
+115,USA,California,Cupertino,95014,CA,c06085
+116,USA,Virginia,Herndon,20170,VA,v51059
+117,USA,Pennsylvania,Pittsburgh,15217,PA,p42003
+118,USA,Texas,League City,77573,TX,t48167
+120,USA,Ohio,Cleveland,44115,OH,o39035
+121,USA,Rhode Island,Middletown,02842,RI,r44005
+122,USA,Virginia,Hampton,23666,VA,"v51650,v51700"
+123,USA,Michigan,Hamtramck,48212,MI,m26163
+125,USA,Massachusetts,Boston,02115,MA,m25025
+126,USA,Massachusetts,Clinton,01510,MA,m25027
+128,USA,Ohio,Grandview Heights,43212,OH,o39049
+131,USA,New Hampshire,Manchester,03104,NH,"n33011,n33013,n33015"
+133,USA,Maine,Standish,04084,ME,"m23005,m23031"
+135,USA,Indiana,Mishawaka,46545,IN,i18141
+136,USA,New Jersey,Plainfield,07060,NJ,"n34035,n34039"
+138,USA,New Hampshire,Amherst,03031,NH,n33011
+141,USA,Michigan,Holland,49424,MI,m26139
+144,USA,Ohio,Cincinnati,45251,OH,o39061
+145,USA,New York,Norwich,13815,NY,n36017
+148,USA,Texas,Greenville,75402,TX,t48231
+151,USA,New Hampshire,Nashua,03062,NH,n33011
+155,USA,Connecticut,Berlin,06037,CT,"c09003,c09009"
+156,USA,Pennsylvania,Fairview,16415,PA,p42049
+157,USA,Massachusetts,Marlborough,01752,MA,m25017
+159,USA,Colorado,Fort Collins,80521,CO,c08069
+166,USA,New Hampshire,Merrimack,03054,NH,n33011
+167,USA,Iowa,Iowa City,52246,IA,i19103
+171,USA,Wisconsin,Platteville,53818,WI,"w55043,w55049,w55065"
+172,USA,Maine,Falmouth/Gorham,04038,ME,"m23005,m23031"
+173,USA,Connecticut,Tolland,06084,CT,c09013
+175,USA,Connecticut,Enfield,06082,CT,c09003
+176,USA,Connecticut,Windsor Locks,06096,CT,c09003
+177,USA,Connecticut,South Windsor,06074,CT,"c09003,c09013"
+178,USA,Connecticut,Farmington,06032,CT,c09003
+179,USA,Florida,Riviera Beach,33404,FL,f12099
+180,USA,Florida,Stuart,34997,FL,f12085
+181,USA,Connecticut,Hartford,06106,CT,c09003
+190,USA,Massachusetts,Worcester,01609,MA,m25027
+191,USA,New York,Rochester,14605,NY,n36055
+192,USA,California,Palo Alto,94306,CA,c06085
+193,USA,New Jersey,Flanders,07836,NJ,n34027
+195,USA,Connecticut,Southington,06489,CT,"c09003,c09009"
+199,USA,California,Belmont,94002,CA,c06081
+201,USA,Michigan,Rochester,48307,MI,m26125
+203,USA,New Jersey,Sicklerville,08081,NJ,"n34007,n34015"
+204,USA,New Jersey,Voorhees,08043,NJ,"n34005,n34007"
+207,USA,California,Hawthorne,90250,CA,c06037
+213,USA,New Hampshire,Keene,03431,NH,n33005
+216,USA,Michigan,Grandville,49418,MI,"m26081,m26139"
+217,USA,Michigan,Sterling Heights,48314,MI,m26099
+219,USA,New Jersey,Washington,07882,NJ,"n34019,n34041"
+222,USA,Pennsylvania,Tunkhannock,18657,PA,"p42079,p42131"
+223,USA,New Jersey,Wanaque,07465,NJ,n34031
+224,USA,New Jersey,Piscataway,08854,NJ,"n34023,n34039"
+225,USA,Pennsylvania,York,17402,PA,p42133
+226,USA,Michigan,Troy,48098,MI,m26125
+228,USA,Connecticut,Meriden,06450,CT,c09009
+229,USA,New York,Potsdam,13699,NY,n36089
+230,USA,Connecticut,Shelton,06484,CT,c09001
+231,USA,Texas,Pasadena,77502,TX,t48201
+233,USA,Florida,Rockledge,32955,FL,f12009
+234,USA,Indiana,Indianapolis,46217,IN,i18097
+236,USA,Connecticut,Old Lyme,06371,CT,c09011
+237,USA,Connecticut,Watertown,06795,CT,c09005
+238,USA,New Hampshire,Manchester,03103,NH,"n33011,n33015"
+240,USA,Michigan,Monroe,48162,MI,m26115
+244,USA,Michigan,Grandville,49418,MI,"m26081,m26139"
+245,USA,Michigan,Rochester Hills,48306,MI,"m26099,m26125"
+246,USA,Massachusetts,Boston,02215,MA,"m25021,m25025"
+247,USA,Michigan,Berkley,48072,MI,m26125
+250,USA,New York,Colonie,12205,NY,n36001
+253,USA,California,Millbrae,94030,CA,c06081
+254,USA,California,San Jose,95126,CA,c06085
+256,USA,California,San Jose,95125,CA,c06085
+263,USA,New York,Ronkonkoma,11779,NY,n36103
+269,USA,Wisconsin,Oconomowoc,53066,WI,"w55027,w55055,w55131,w55133"
+271,USA,New York,Bay Shore,11706,NY,n36103
+272,USA,Pennsylvania,Lansdale,19446,PA,p42091
+279,USA,Ohio,Maumee,43537,OH,o39095
+280,USA,Michigan,Taylor,48180,MI,m26163
+281,USA,South Carolina,Greenville,29607,SC,s45045
+283,USA,South Carolina,Greenville,29609,SC,s45045
+287,USA,New York,Mastic Beach,11951,NY,n36103
+288,USA,Michigan,Grandville,49418,MI,"m26081,m26139"
+291,USA,Pennsylvania,Erie,16508,PA,p42049
+292,USA,Indiana,Russiaville,46979,IN,"i18015,i18023,i18067,i18159"
+293,USA,New Jersey,Pennington,08534,NJ,n34021
+294,USA,California,Redondo Beach,90277,CA,c06037
+299,USA,California,Cupertino,95014,CA,c06085
+302,USA,Michigan,Lake Orion,48360,MI,m26125
+303,USA,New Jersey,Bridgewater,08807,NJ,n34035
+308,USA,Michigan,Walled Lake,48390,MI,m26125
+313,USA,Michigan,Wayne,48184,MI,m26163
+314,USA,Michigan,Flint,48532,MI,m26049
+316,USA,New Jersey,Carneys Point,08069,NJ,n34033
+319,USA,New Hampshire,Alton,03809,NH,"n33001,n33017"
+321,USA,Pennsylvania,Philadelphia,19141,PA,p42101
+322,USA,Michigan,Flint,48504,MI,m26049
+323,USA,Arkansas,Mountain Home,72653,AR,"a05005,a05089"
+324,USA,Texas,Friendswood,77546,TX,"t48039,t48167,t48201"
+329,USA,New York,Medford,11763,NY,n36103
+330,USA,California,Hermosa Beach,90254,CA,c06037
+333,USA,New York,Brooklyn,11223,NY,n36047
+334,USA,New York,Brooklyn,11217,NY,n36047
+335,USA,New York,Brooklyn,11201,NY,n36047
+337,USA,West Virginia,Logan,25601,WV,w54045
+339,USA,Virginia,Stafford,22556,VA,"v51061,v51179"
+340,USA,New York,Churchville,14428,NY,"n36037,n36055"
+341,USA,Pennsylvania,Ambler,19002,PA,p42091
+342,USA,South Carolina,North Charleston,29418,SC,"s45019,s45035"
+343,USA,South Carolina,Seneca,29672,SC,s45073
+346,USA,Virginia,Chesterfield,23832,VA,v51041
+348,USA,Massachusetts,Norwell,02061,MA,m25023
+352,USA,New York,Carle Place,11514,NY,n36059
+353,USA,New York,Plainview,11803,NY,n36059
+354,USA,New York,Brooklyn,11201,NY,n36047
+358,USA,New York,Hauppauge,11788,NY,n36103
+359,USA,Hawaii,Waialua,96791,HI,h15003
+360,USA,Washington,Tacoma,98405,WA,w53053
+364,USA,Mississippi,Gulfport,39507,MS,m28047
+365,USA,Delaware,Wilmington,19808,DE,d10003
+368,USA,Hawaii,Honolulu,96814,HI,h15003
+378,USA,New York,Newfane,14108,NY,n36063
+379,USA,Ohio,Girard,44420,OH,o39155
+384,USA,Virginia,Henrico,23294,VA,v51087
+386,USA,Florida,Melbourne,32901,FL,f12009
+395,USA,New York,Bronx,10456,NY,n36005
+399,USA,California,Lancaster,93536,CA,"c06029,c06037"
+401,USA,Virginia,Christiansburg,24073,VA,"v51121,v51750"
+418,USA,Texas,Austin,78724,TX,t48453
+422,USA,Virginia,Richmond,23220,VA,v51760
+423,USA,Pennsylvania,Cheltenham,19095,PA,"p42091,p42101"
+433,USA,Pennsylvania,Flourtown,19031,PA,p42091
+435,USA,North Carolina,Raleigh,27603,NC,"n37101,n37183"
+442,USA,Alabama,Huntsville,35806,AL,a01089
+447,USA,Indiana,Anderson,46016,IN,i18095
+449,USA,Maryland,Silver Spring,20901,MD,m24031
+451,USA,Ohio,Maumee,43537,OH,o39095
+453,USA,Michigan,Clinton Township,48036,MI,m26099
+456,USA,Mississippi,Vicksburg,39180,MS,m28149
+457,USA,Texas,San Antonio,78224,TX,t48029
+461,USA,Indiana,West Lafayette,47906,IN,"i18157,i18171,i18181"
+467,USA,Massachusetts,Shrewsbury,01545,MA,m25027
+468,USA,Michigan,Flint,48507,MI,m26049
+469,USA,Michigan,Bloomfield Hills,48304,MI,m26125
+484,USA,Pennsylvania,Havertown,19083,PA,"p42045,p42091"
+486,USA,Pennsylvania,Wallingford,19086,PA,p42045
+488,USA,Washington,Seattle,98144,WA,w53033
+492,USA,Washington,Bellevue,98005,WA,w53033
+494,USA,Michigan,Goodrich,48438,MI,"m26049,m26087"
+496,USA,New York,Port Jefferson,11777,NY,n36103
+498,USA,Arizona,Glendale,85306,AZ,a04013
+501,USA,New Hampshire,Manchester,03102,NH,"n33011,n33013"
+503,USA,Michigan,Novi,48375,MI,m26125
+509,USA,New Hampshire,Bedford,03110,NH,n33011
+514,USA,New York,Miller Place,11764,NY,n36103
+522,USA,New York,Staten Island,10301,NY,n36085
+525,USA,Iowa,Cedar Falls,50613,IA,"i19013,i19017,i19023,i19075"
+527,USA,New York,Massapequa,11758,NY,"n36059,n36103"
+533,USA,New York,Lindenhurst,11757,NY,n36103
+537,USA,Wisconsin,Sussex,53089,WI,w55133
+538,USA,Alabama,Arab,35016,AL,"a01009,a01043,a01095,a01103"
+539,USA,Virginia,Richmond,23235,VA,"v51041,v51760"
+540,USA,Virginia,Henrico,23238,VA,"v51075,v51087"
+545,USA,New York,Levittown,11756,NY,n36059
+547,USA,Tennessee,Fayetteville,37334,TN,"t47003,t47103,t47127"
+548,USA,Michigan,Northville,48168,MI,"m26161,m26163"
+554,USA,Kentucky,Ft. Thomas,41075,KY,k21037
+555,USA,New Jersey,Montclair,07042,NJ,n34013
+558,USA,Connecticut,New Haven,06519,CT,c09009
+564,USA,New York,Middle Island,11953,NY,n36103
+568,USA,Alaska,Anchorage,99502,AK,a02020
+569,USA,New York,Westbury,11590,NY,n36059
+571,USA,Connecticut,Windsor,06095,CT,c09003
+573,USA,Michigan,Bloomfield Hills,48301,MI,m26125
+578,USA,New York,Fairport,14450,NY,"n36055,n36117"
+580,USA,California,Studio City,91604,CA,c06037
+581,USA,California,San Jose,95116,CA,c06085
+585,USA,California,Tehachapi,93561,CA,c06029
+587,USA,North Carolina,Hillsborough,27278,NC,"n37063,n37135"
+589,USA,California,La Crescenta,91214,CA,c06037
+590,USA,Mississippi,Choctaw,39350,MS,"m28069,m28079,m28099,m28159"
+597,USA,California,Los Angeles,90018,CA,c06037
+599,USA,California,Granada Hills,91344,CA,c06037
+601,USA,New York,Hampton Bays,11946,NY,n36103
+604,USA,California,San Jose,95120,CA,c06085
+606,USA,California,Los Angeles,90059,CA,c06037
+611,USA,Virginia,McLean,22101,VA,"v51013,v51059"
+612,USA,Virginia,Chantilly,20151,VA,"v51059,v51107"
+614,USA,Virginia,Alexandria,22315,VA,v51059
+617,USA,Virginia,Henrico,23075,VA,v51087
+619,USA,Virginia,Charlottesville,22902,VA,"v51003,v51540"
+620,USA,Virginia,Vienna,22181,VA,v51059
+623,USA,Virginia,Vienna,22181,VA,v51059
+624,USA,Texas,Katy,77494,TX,"t48157,t48201,t48473"
+639,USA,New York,Ithaca,14850,NY,n36109
+640,USA,New York,Jamaica,11432,NY,n36081
+647,USA,Texas,Killeen,76549,TX,"t48027,t48053,t48099"
+648,USA,Iowa,Quad Cities,52726,IA,"i19139,i19163"
+649,USA,California,Saratoga,95070,CA,c06085
+653,USA,Texas,San Antonio,78212,TX,t48029
+662,USA,Colorado,USAF Academy,80840,CO,c08041
+663,USA,Massachusetts,Whitinsville,01588,MA,m25027
+668,USA,California,San Jose,95118,CA,c06085
+670,USA,California,Cupertino,95014,CA,c06085
+677,USA,Ohio,Columbus,43209,OH,o39049
+686,USA,Maryland,Walkersville,21793,MD,m24021
+687,USA,California,Carson,90747,CA,c06037
+691,USA,California,Stevenson Ranch,91381,CA,c06037
+694,USA,New York,New York,10282,NY,n36061
+695,USA,Ohio,Beachwood,44122,OH,o39035
+696,USA,California,La Crescenta,91214,CA,c06037
+698,USA,Arizona,Chandler,85248,AZ,"a04013,a04021"
+701,USA,California,Fairfield,94533,CA,c06095
+702,USA,California,Culver City,90230,CA,c06037
+703,USA,Michigan,Saginaw,48602,MI,m26145
+704,USA,Texas,Grand Prairie,75052,TX,"t48113,t48439"
+706,USA,Wisconsin,Hartland,53029,WI,"w55131,w55133"
+708,USA,Pennsylvania,Horsham,19044,PA,"p42017,p42091"
+709,USA,Pennsylvania,Bryn Mawr,19010,PA,"p42045,p42091"
+714,USA,New Jersey,Newark,07104,NJ,n34013
+716,USA,Connecticut,Falls Village,06031,CT,c09005
+743,USA,New York,Bronx,10467,NY,n36005
+744,USA,Florida,Fort Lauderdale,33308,FL,f12011
+747,USA,New Jersey,Middlesex,08846,NJ,n34023
+751,USA,California,Portola Valley,94028,CA,"c06081,c06085"
+752,USA,New Jersey,Newark,07103,NJ,n34013
+753,USA,Oregon,Bend,97701,OR,"o41013,o41017"
+766,USA,California,Atherton,94027,CA,c06081
+801,USA,Florida,Merritt Island,32953,FL,f12009
+806,USA,New York,Brooklyn,11209,NY,n36047
+810,USA,New York,Smithtown,11787,NY,n36103
+811,USA,New Hampshire,Nashua,03060,NH,n33011
+812,USA,California,La Jolla,92093,CA,c06073
+815,USA,Michigan,Allen Park,48101,MI,m26163
+816,USA,New Jersey,Mount Holly,08060,NJ,n34005
+818,USA,Michigan,Warren,48093,MI,m26099
+829,USA,Indiana,Indianapolis,46229,IN,"i18059,i18097"
+830,USA,Michigan,Ann Arbor,48105,MI,m26161
+832,USA,Georgia,Roswell,30075,GA,"g13057,g13067,g13121"
+834,USA,Pennsylvania,Center Valley,18034,PA,p42077
+835,USA,Michigan,Beverly Hills,48025,MI,m26125
+836,USA,Maryland,Hollywood,20636,MD,m24037
+839,USA,Massachusetts,Agawam,01001,MA,m25013
+840,USA,California,San Mateo,94402,CA,c06081
+841,USA,California,Richmond,94804,CA,c06013
+842,USA,Arizona,Phoenix,85009,AZ,a04013
+846,USA,California,San Jose,95129,CA,c06085
+847,USA,Oregon,Philomath,97370,OR,"o41003,o41053"
+848,USA,California,San Pedro,90732,CA,c06037
+852,USA,California,Danville,94506,CA,c06013
+857,USA,Michigan,Houghton,49931,MI,m26061
+858,USA,Michigan,Wyoming,49509,MI,m26081
+862,USA,Michigan,Canton,48187,MI,m26163
+867,USA,California,Arcadia,91007,CA,c06037
+868,USA,Indiana,Carmel,46032,IN,"i18011,i18057"
+870,USA,New York,Southold,11971,NY,n36103
+871,USA,New York,West Islip,11795,NY,n36103
+876,USA,North Dakota,Hatton-Northwood,58267,ND,"n38035,n38091"
+877,USA,North Dakota,Cando,58324,ND,"n38071,n38095"
+884,USA,New York,Malverne,11565,NY,n36059
+885,USA,Vermont,Randolph Center,05061,VT,"v50017,v50027"
+888,USA,Maryland,Glenelg,21737,MD,m24027
+894,USA,Michigan,Flint,48503,MI,m26049
+900,USA,North Carolina,Durham,27705,NC,"n37063,n37135"
+904,USA,Michigan,Grand Rapids,49503,MI,m26081
+910,USA,Michigan,Madison Heights,48071,MI,m26125
+930,USA,Wisconsin,Mukwonago,53149,WI,"w55101,w55127,w55133"
+931,USA,Missouri,Saint Louis,63110,MO,m29510
+932,USA,Oklahoma,Tulsa,74135,OK,o40143
+935,USA,Kansas,Newton,67114,KS,"k20015,k20079,k20115"
+937,USA,Kansas,Mission,66202,KS,k20091
+938,USA,Kansas,Richmond,66080,KS,"k20003,k20059"
+945,USA,Florida,Orlando,32807,FL,f12095
+948,USA,Washington,Bellevue,98006,WA,w53033
+949,USA,Washington,Bellevue,98004,WA,w53033
+955,USA,Oregon,Corvallis,97330,OR,o41003
+957,USA,Oregon,Albany,97321,OR,"o41003,o41043"
+967,USA,Iowa,Marion,52302,IA,i19113
+968,USA,California,West Covina,91791,CA,c06037
+971,USA,California,Mountain View,94040,CA,c06085
+972,USA,California,Los Gatos,95030,CA,c06085
+973,USA,California,Atascadero,93422,CA,c06079
+977,USA,Virginia,South Boston,24592,VA,"v51083,v51143"
+980,USA,California,Sylmar,91342,CA,c06037
+987,USA,Nevada,Las Vegas,89128,NV,n32003
+988,USA,Nevada,Las Vegas,89102,NV,n32003
+991,USA,Arizona,Phoenix,85012,AZ,a04013
+996,USA,Arizona,Casa Grande,85122,AZ,a04021
+997,USA,Oregon,Corvallis,97330,OR,o41003
+999,USA,Connecticut,Cheshire,06410,CT,c09009
+1002,USA,Georgia,Marietta,30068,GA,g13067
+1011,USA,Arizona,Tucson,85741,AZ,a04019
+1014,USA,Ohio,Dublin,43017,OH,"o39041,o39049,o39159"
+1018,USA,Indiana,Indianapolis,46268,IN,"i18011,i18057,i18097"
+1023,USA,Michigan,Temperance,48182,MI,m26115
+1024,USA,Indiana,Indianapolis,46256,IN,"i18057,i18097"
+1025,USA,Michigan,Ferndale,48220,MI,m26125
+1027,USA,Massachusetts,West Springfield,01089,MA,m25013
+1038,USA,Ohio,Liberty Township,45044,OH,"o39017,o39165"
+1051,USA,South Carolina,Mullins,29574,SC,"s45033,s45067"
+1056,USA,Hawaii,Hilo,96720,HI,h15001
+1058,USA,New Hampshire,Londonderry,03053,NH,n33015
+1065,USA,Florida,Kissimmee,34741,FL,f12097
+1071,USA,Connecticut,Wolcott,06716,CT,c09009
+1072,USA,California,San Jose,95129,CA,c06085
+1073,USA,New Hampshire,Hollis,03049,NH,n33011
+1076,USA,Michigan,Ann Arbor,48103,MI,m26161
+1080,USA,Virginia,Henrico,23231,VA,"v51036,v51087,v51760"
+1086,USA,Virginia,Glen Allen,23059,VA,"v51075,v51085,v51087"
+1089,USA,New Jersey,Hightstown,08520,NJ,"n34021,n34023,n34025"
+1091,USA,Wisconsin,Hartford,53027,WI,"w55027,w55131"
+1094,USA,Missouri,O Fallon,63366,MO,m29183
+1099,USA,Connecticut,Brookfield,06804,CT,"c09001,c09005"
+1100,USA,Massachusetts,Northboro,01532,MA,"m25017,m25027"
+1102,USA,Georgia,Augusta,30901,GA,g13245
+1108,USA,Kansas,Paola,66071,KS,k20121
+1111,USA,Maryland,Edgewater,21037,MD,m24003
+1123,USA,Virginia,Fairfax,22030,VA,"v51059,v51600"
+1124,USA,Connecticut,Avon,06001,CT,c09003
+1126,USA,New York,Webster,14580,NY,"n36055,n36117"
+1138,USA,California,West Hills,91304,CA,"c06037,c06111"
+1143,USA,Pennsylvania,Clarks Summit,18411,PA,"p42069,p42079"
+1153,USA,Massachusetts,Walpole,02081,MA,m25021
+1155,USA,New York,Bronx,10468,NY,n36005
+1157,USA,Colorado,Boulder,80302,CO,c08013
+1159,USA,California,Alhambra,91803,CA,c06037
+1160,USA,California,San Marino,91108,CA,c06037
+1164,USA,New Mexico,Las Cruces,88005,NM,n35013
+1165,USA,Arizona,Phoenix,85032,AZ,a04013
+1168,USA,Pennsylvania,Malvern,19355,PA,p42029
+1178,USA,Missouri,Saint Louis,63141,MO,m29189
+1188,USA,Michigan,Royal Oak,48073,MI,m26125
+1189,USA,Michigan,Grosse Pointe,48236,MI,"m26099,m26163"
+1197,USA,California,Torrance,90505,CA,c06037
+1208,USA,Illinois,O Fallon,62269,IL,"i17119,i17163"
+1209,USA,Oklahoma,Tulsa,74106,OK,"o40113,o40143"
+1212,USA,Arizona,Chandler,85224,AZ,a04013
+1218,USA,Pennsylvania,Philadelphia,19118,PA,"p42091,p42101"
+1225,USA,North Carolina,Hendersonville,28739,NC,"n37089,n37175"
+1228,USA,New Jersey,Rahway,07065,NJ,"n34023,n34039"
+1230,USA,New York,Bronx,10461,NY,n36005
+1243,USA,Michigan,Swartz Creek,48473,MI,m26049
+1245,USA,Colorado,Louisville,80027,CO,"c08013,c08014"
+1247,USA,New Hampshire,North Sutton,03260,NH,n33013
+1248,USA,Ohio,Berea,44017,OH,o39035
+1250,USA,Michigan,Dearborn,48124,MI,m26163
+1251,USA,Florida,Tamarac,33321,FL,f12011
+1254,USA,Michigan,Lawrence,49064,MI,m26159
+1255,USA,Texas,Baytown,77520,TX,t48201
+1257,USA,New Jersey,Scotch Plains,07076,NJ,"n34035,n34039"
+1258,USA,Washington,Seattle,98116,WA,w53033
+1259,USA,Wisconsin,Pewaukee,53072,WI,w55133
+1261,USA,Georgia,Suwanee,30024,GA,"g13117,g13121,g13135"
+1262,USA,Virginia,Martinsville,24112,VA,"v51067,v51089,v51690"
+1266,USA,California,San Diego,92124,CA,c06073
+1277,USA,Massachusetts,Groton,01450,MA,m25017
+1279,USA,New Jersey,Somerville,08876,NJ,"n34019,n34035"
+1280,USA,California,Danville,94526,CA,c06013
+1287,USA,South Carolina,Myrtle Beach,29579,SC,s45051
+1288,USA,Missouri,Saint Charles,63304,MO,m29183
+1289,USA,Massachusetts,Lawrence,01843,MA,m25009
+1290,USA,Arizona,Chandler,85225,AZ,a04013
+1293,USA,South Carolina,Columbia,29212,SC,"s45063,s45079"
+1294,USA,Washington,Sammamish,98074,WA,w53033
+1296,USA,Texas,Rockwall,75087,TX,"t48085,t48397"
+1303,USA,Wyoming,Casper,82601,WY,w56025
+1306,USA,Wisconsin,Middleton,53562,WI,w55025
+1307,USA,New Hampshire,Dover,03820,NH,n33017
+1308,USA,Ohio,Cleveland,44113,OH,o39035
+1311,USA,Georgia,Kennesaw,30144,GA,g13067
+1317,USA,Ohio,Westerville,43081,OH,"o39041,o39049"
+1318,USA,Washington,Issaquah,98027,WA,w53033
+1319,USA,South Carolina,Mauldin,29662,SC,s45045
+1322,USA,Michigan,Fenton,48430,MI,"m26049,m26093,m26125"
+1323,USA,California,Madera,93637,CA,"c06019,c06039"
+1329,USA,Missouri,St. Louis,63141,MO,m29189
+1332,USA,Colorado,Collbran,81624,CO,c08077
+1339,USA,Colorado,Denver,80206,CO,c08031
+1350,USA,Rhode Island,Providence,02908,RI,r44007
+1351,USA,California,San Jose,95129,CA,c06085
+1359,USA,Oregon,Lebanon,97355,OR,o41043
+1369,USA,Florida,Tampa,33610,FL,f12057
+1370,USA,Delaware,Middletown,19709,DE,d10003
+1388,USA,California,Arroyo Grande,93420,CA,c06079
+1389,USA,Maryland,Bethesda,20817,MD,m24031
+1391,USA,Pennsylvania,West Chester,19382,PA,"p42029,p42045"
+1398,USA,South Carolina,Columbia,29203,SC,s45079
+1403,USA,New Jersey,Skillman,08558,NJ,"n34019,n34021,n34035"
+1405,USA,New York,Penfield,14526,NY,n36055
+1410,USA,Colorado,Denver,80224,CO,"c08005,c08031"
+1413,USA,Virginia,Skipwith,23968,VA,v51117
+1414,USA,Georgia,Atlanta,30305,GA,g13121
+1418,USA,Virginia,Falls Church,22043,VA,v51059
+1421,USA,Mississippi,Picayune,39466,MS,"m28045,m28109"
+1422,USA,California,Fresno,93720,CA,"c06019,c06039"
+1425,USA,Oregon,Wilsonville,97070,OR,"o41005,o41067"
+1432,USA,Oregon,Portland,97206,OR,"o41005,o41051"
+1444,USA,Missouri,Saint Louis,63123,MO,"m29189,m29510"
+1446,USA,District of Columbia,Washington,20019,DC,d11001
+1450,USA,New York,Rochester,14621,NY,n36055
+1452,USA,California,Los Angeles,90066,CA,c06037
+1458,USA,California,Danville,94526,CA,c06013
+1466,USA,Tennessee,Knoxville,37923,TN,t47093
+1468,USA,New York,Hicksville,11801,NY,n36059
+1474,USA,Massachusetts,Tewksbury,01876,MA,"m25009,m25017"
+1477,USA,Texas,Conroe,77384,TX,t48339
+1481,USA,Michigan,Farmington,48336,MI,m26125
+1492,USA,Arizona,Tempe,85281,AZ,a04013
+1493,USA,New York,Albany,12203,NY,n36001
+1495,USA,Pennsylvania,West Grove,19390,PA,p42029
+1501,USA,Indiana,Huntington,46750,IN,"i18069,i18169,i18183"
+1502,USA,Michigan,Chelsea,48118,MI,"m26075,m26161"
+1504,USA,Michigan,Okemos,48864,MI,m26065
+1506,USA,Michigan,Flint,48504,MI,m26049
+1507,USA,New York,Lockport,14094,NY,n36063
+1510,USA,Oregon,Beaverton,97229,OR,"o41051,o41067"
+1511,USA,New York,Penfield,14526,NY,n36055
+1512,USA,New Hampshire,Concord,03301,NH,n33013
+1515,USA,California,Beverly Hills,90212,CA,c06037
+1517,USA,New Hampshire,Concord,03301,NH,n33013
+1518,USA,New York,Palmyra,14522,NY,"n36069,n36117"
+1519,USA,New Hampshire,Milford,03055,NH,n33011
+1522,USA,Virginia,Mechanicsville,23116,VA,v51085
+1523,USA,Florida,Palm Beach Gardens,33410,FL,f12099
+1528,USA,Michigan,Monroe,48161,MI,m26115
+1529,USA,Indiana,Indianapolis,46227,IN,i18097
+1533,USA,North Carolina,Greensboro,27409,NC,n37081
+1537,USA,New York,Uniondale,11553,NY,n36059
+1538,USA,California,San Diego,92106,CA,c06073
+1539,USA,South Carolina,Clover,29710,SC,s45091
+1540,USA,Oregon,Portland,97225,OR,"o41051,o41067"
+1546,USA,New York,Baldwin,11510,NY,n36059
+1551,USA,New York,Naples,14512,NY,"n36051,n36069,n36101,n36123"
+1553,USA,South Carolina,Lugoff,29078,SC,"s45055,s45079"
+1554,USA,New York,Oceanside,11572,NY,n36059
+1555,USA,Indiana,Elkhart,46514,IN,i18039
+1557,USA,Florida,Eustis,32726,FL,f12069
+1559,USA,New York,Victor,14564,NY,"n36055,n36069"
+1561,USA,Oklahoma,Oklahoma City,73134,OK,o40109
+1566,USA,Idaho,Idaho Falls,83401,ID,"i16019,i16051"
+1569,USA,Idaho,Pocatello,83204,ID,"i16005,i16077"
+1571,USA,Oregon,Gresham,97030,OR,o41051
+1572,USA,California,San Diego,92111,CA,c06073
+1583,USA,Colorado,Watkins,80137,CO,"c08001,c08005"
+1584,USA,Colorado,Nederland,80466,CO,c08013
+1585,USA,New York,Shortsville,14548,NY,n36069
+1590,USA,Ohio,Lorain,44052,OH,o39093
+1591,USA,New York,Rochester,14612,NY,n36055
+1592,USA,Florida,Cocoa,32926,FL,f12009
+1595,USA,Washington,Spokane,99208,WA,w53063
+1596,USA,Michigan,Sault Sainte Marie,49783,MI,m26033
+1598,USA,Virginia,Danville,24541,VA,"v51143,v51590"
+1599,USA,Virginia,Mechanicsville,23116,VA,v51085
+1600,USA,New York,Brooklyn,11207,NY,n36047
+1601,USA,New York,Long Island City,11101,NY,n36081
+1610,USA,Virginia,Franklin,23851,VA,"v51093,v51175,v51620"
+1619,USA,Colorado,Longmont,80501,CO,c08013
+1622,USA,California,Poway,92064,CA,c06073
+1625,USA,Illinois,Winnebago,61088,IL,"i17141,i17201"
+1626,USA,New Jersey,Metuchen,08840,NJ,n34023
+1629,USA,Maryland,Accident,21520,MD,m24023
+1633,USA,Arizona,Tempe,85281,AZ,a04013
+1635,USA,New York,Elmhurst,11373,NY,n36081
+1640,USA,Pennsylvania,Downingtown,19335,PA,p42029
+1646,USA,Indiana,Lafayette,47905,IN,"i18015,i18157"
+1647,USA,New Jersey,Vincentown,08088,NJ,n34005
+1648,USA,Georgia,Atlanta,30309,GA,g13121
+1649,USA,Florida,Windermere,34786,FL,f12095
+1658,USA,Missouri,St. Louis,63127,MO,m29189
+1660,USA,New York,New York,10039,NY,n36061
+1661,USA,California,Sherman Oaks,91423,CA,c06037
+1662,USA,California,Lodi,95242,CA,c06077
+1665,USA,New York,Hudson,12534,NY,n36021
+1671,USA,California,Clovis,93619,CA,c06019
+1672,USA,New Jersey,Mahwah,07430,NJ,n34003
+1675,USA,Wisconsin,Milwaukee,53207,WI,w55079
+1676,USA,New Jersey,Montvale,07645,NJ,n34003
+1678,USA,California,Davis,95616,CA,"c06095,c06113"
+1683,USA,Georgia,Johns Creek,30097,GA,"g13117,g13121,g13135"
+1684,USA,Michigan,Lapeer,48446,MI,m26087
+1699,USA,Connecticut,Colchester,06415,CT,"c09007,c09011,c09013"
+1700,USA,California,Palo Alto,94301,CA,c06085
+1701,USA,Michigan,Detroit,48221,MI,m26163
+1706,USA,Missouri,Wentzville,63385,MO,m29183
+1708,USA,Pennsylvania,McKeesport,15132,PA,p42003
+1710,USA,Kansas,Olathe,66061,KS,k20091
+1711,USA,Michigan,Traverse City,49686,MI,m26055
+1712,USA,Pennsylvania,Ardmore,19003,PA,"p42045,p42091"
+1714,USA,Wisconsin,Milwaukee,53207,WI,w55079
+1716,USA,Wisconsin,De Pere,54115,WI,"w55009,w55087"
+1718,USA,Michigan,Armada,48005,MI,m26099
+1719,USA,Maryland,Baltimore,21208,MD,"m24005,m24510"
+1720,USA,Indiana,Matthews,46957,IN,i18053
+1721,USA,New Hampshire,Concord,03301,NH,n33013
+1723,USA,Missouri,Independence,64050,MO,m29095
+1726,USA,Arizona,Sierra Vista,85635,AZ,a04003
+1727,USA,Maryland,Lutherville Timonium,21093,MD,m24005
+1729,USA,New Hampshire,Peterborough,03458,NH,"n33005,n33011"
+1730,USA,Missouri,Lees Summit,64063,MO,m29095
+1731,USA,Virginia,Warrenton,20188,VA,v51061
+1732,USA,Wisconsin,Milwaukee,53208,WI,w55079
+1735,USA,Massachusetts,Worcester,01606,MA,m25027
+1736,USA,Illinois,Peoria,61629,IL,i17143
+1739,USA,Illinois,Chicago,60615,IL,i17031
+1740,USA,Connecticut,Ledyard,06339,CT,c09011
+1741,USA,Indiana,Greenwood,46143,IN,i18081
+1743,USA,Pennsylvania,Pittsburgh,15222,PA,p42003
+1744,USA,Florida,Naples,34104,FL,f12021
+1745,USA,Texas,Richardson,75080,TX,"t48085,t48113"
+1746,USA,Georgia,Cumming,30040,GA,"g13057,g13117"
+1747,USA,Indiana,West Lafayette,47906,IN,"i18157,i18171,i18181"
+1750,USA,Oklahoma,Stillwater,74074,OK,o40119
+1751,USA,New York,Port Jefferson Station,11776,NY,n36103
+1756,USA,Illinois,Peoria,61605,IL,i17143
+1757,USA,Massachusetts,Westwood,02090,MA,m25021
+1758,USA,South Carolina,Florence,29505,SC,s45041
+1759,USA,California,El Segundo,90245,CA,c06037
+1761,USA,Massachusetts,Lynn,01902,MA,m25009
+1763,USA,Missouri,Kansas City,64110,MO,m29095
+1764,USA,Missouri,Liberty,64068,MO,m29047
+1768,USA,Massachusetts,Bolton,01740,MA,m25027
+1769,USA,Kansas,Kansas City,66106,KS,"k20091,k20209"
+1771,USA,Georgia,Suwanee,30024,GA,"g13117,g13121,g13135"
+1775,USA,Missouri,Kansas City,64108,MO,m29095
+1777,USA,Kansas,Overland Park,66212,KS,k20091
+1778,USA,Washington,Mountlake Terrace,98043,WA,w53061
+1781,USA,Illinois,Chicago,60636,IL,i17031
+1785,USA,Missouri,Blue Springs,64015,MO,m29095
+1786,USA,New Hampshire,Dublin,03444,NH,n33005
+1787,USA,Ohio,Pepper Pike,44124,OH,o39035
+1791,USA,New Jersey,Clayton,08312,NJ,n34015
+1792,USA,Wisconsin,Oak Creek,53154,WI,w55079
+1793,USA,Virginia,Norfolk,23513,VA,v51710
+1795,USA,Georgia,Atlanta,30315,GA,"g13089,g13121"
+1796,USA,New York,Queens,11101,NY,n36081
+1799,USA,Colorado,Littleton,80127,CO,"c08031,c08059"
+1802,USA,Kansas,Kansas City,66109,KS,"k20103,k20209"
+1803,USA,New York,Port Washington,11050,NY,n36059
+1806,USA,Missouri,Smithville,64089,MO,"m29047,m29049,m29165"
+1807,USA,New Jersey,Allentown,08501,NJ,"n34005,n34021,n34025"
+1810,USA,Kansas,Shawnee,66226,KS,k20091
+1811,USA,New Jersey,Newark,07105,NJ,n34013
+1816,USA,Minnesota,Edina,55439,MN,m27053
+1817,USA,Texas,Lubbock,79409,TX,t48303
+1818,USA,Louisiana,Shreveport,71118,LA,l22017
+1825,USA,Missouri,Kansas City,64145,MO,m29095
+1827,USA,Missouri,Kansas City,64131,MO,"m29047,m29095"
+1828,USA,Arizona,Vail,85641,AZ,a04019
+1831,USA,New Hampshire,Gilford,03249,NH,n33001
+1836,USA,California,Los Angeles,90049,CA,c06037
+1847,USA,Kansas,Kansas City,66102,KS,k20209
+1868,USA,California,Mountain View,94035,CA,c06085
+1880,USA,New York,New York,10029,NY,n36061
+1885,USA,Virginia,Haymarket,20169,VA,"v51061,v51153"
+1891,USA,Idaho,Boise,83709,ID,i16001
+1895,USA,Virginia,Manassas,20110,VA,"v51153,v51683,v51685"
+1899,USA,Washington,Bellevue,98008,WA,w53033
+1902,USA,Florida,Orlando,32812,FL,f12095
+1908,USA,Virginia,Eastville,23347,VA,v51131
+1912,USA,Louisiana,Slidell,70461,LA,l22103
+1915,USA,District of Columbia,Washington,20002,DC,d11001
+1918,USA,Michigan,Fremont,49412,MI,"m26121,m26123,m26127"
+1922,USA,New Hampshire,Contoocook,03229,NH,n33013
+1923,USA,New Jersey,Plainsboro,08536,NJ,n34023
+1927,USA,Mississippi,Biloxi,39532,MS,"m28047,m28059"
+1939,USA,Missouri,Kansas City,64114,MO,"m29047,m29095"
+1940,USA,Michigan,Benton Harbor,49022,MI,"m26021,m26159"
+1965,USA,Massachusetts,Allston,02134,MA,"m25021,m25025"
+1967,USA,California,San Jose,95112,CA,c06085
+1972,USA,California,El Centro,92243,CA,c06025
+1977,USA,Colorado,Loveland,80538,CO,c08069
+1982,USA,Kansas,Shawnee,66216,KS,"k20091,k20209"
+1983,USA,Washington,Seattle,98108,WA,w53033
+1984,USA,Kansas,Overland Park,66207,KS,k20091
+1985,USA,Missouri,Florissant,63031,MO,m29189
+1986,USA,Missouri,Lees Summit,64082,MO,"m29037,m29095"
+1987,USA,Missouri,Lees Summit,64086,MO,m29095
+1989,USA,New Jersey,Vernon,07462,NJ,n34037
+1991,USA,Connecticut,Hartford,06112,CT,c09003
+1994,USA,Kansas,Kansas City,66104,KS,k20209
+1997,USA,Kansas,Roeland Park,66205,KS,k20091
+2001,USA,Missouri,Kansas City,64134,MO,m29095
+2010,USA,Ohio,Warren,44483,OH,o39155
+2016,USA,New Jersey,Ewing,08618,NJ,n34021
+2022,USA,Illinois,Aurora,60506,IL,"i17089,i17093"
+2027,USA,New York,Old Westbury,11568,NY,n36059
+2028,USA,Virginia,Hampton,23663,VA,v51650
+2035,USA,California,Carmel,93922,CA,c06053
+2036,USA,Colorado,Boulder,80305,CO,c08013
+2039,USA,Illinois,Machesney Park,61115,IL,i17201
+2040,USA,Illinois,Dunlap,61525,IL,i17143
+2046,USA,Washington,Maple Valley,98038,WA,w53033
+2048,USA,Michigan,Detroit,48202,MI,m26163
+2051,USA,Pennsylvania,Allison Park,15101,PA,p42003
+2052,USA,Minnesota,New Brighton,55112,MN,"m27003,m27123"
+2053,USA,New York,Endicott,13760,NY,"n36007,n36107"
+2054,USA,Michigan,Hopkins,49328,MI,m26005
+2059,USA,North Carolina,Apex,27502,NC,"n37037,n37183"
+2062,USA,Wisconsin,Waukesha,53186,WI,w55133
+2064,USA,Connecticut,Southbury / Middlebury,06488,CT,c09009
+2067,USA,Connecticut,Guilford,06437,CT,c09009
+2068,USA,Virginia,Manassas,20111,VA,"v51153,v51685"
+2070,USA,New Jersey,Ridgefield,07657,NJ,n34003
+2073,USA,California,Elk Grove,95624,CA,c06067
+2075,USA,Michigan,Grand Rapids,49504,MI,m26081
+2077,USA,Wisconsin,Wales,53183,WI,w55133
+2078,USA,Louisiana,Covington,70433,LA,l22103
+2079,USA,Massachusetts,Franklin,02038,MA,m25021
+2080,USA,Louisiana,Hammond,70401,LA,l22105
+2081,USA,Illinois,Peoria,61614,IL,i17143
+2083,USA,Colorado,Conifer,80433,CO,"c08035,c08059"
+2084,USA,Massachusetts,Manchester,01944,MA,m25009
+2085,USA,California,Vacaville,95688,CA,c06095
+2090,USA,Hawaii,Honolulu,96822,HI,h15003
+2095,USA,Pennsylvania,Newtown Square,19073,PA,"p42029,p42045"
+2097,USA,Washington,Tukwila,98108,WA,w53033
+2102,USA,California,Encinitas,92024,CA,c06073
+2106,USA,Virginia,Goochland,23063,VA,v51075
+2122,USA,Idaho,Boise,83709,ID,i16001
+2129,USA,Minnesota,Minneapolis,55410,MN,m27053
+2130,USA,Idaho,Bonners Ferry,83805,ID,i16021
+2135,USA,California,San Jose,95125,CA,c06085
+2136,USA,Illinois,Chicago,60623,IL,i17031
+2137,USA,Michigan,Oxford,48371,MI,"m26087,m26125"
+2141,USA,California,Concord,94518,CA,c06013
+2143,USA,Wisconsin,Eau Claire,54701,WI,"w55033,w55035"
+2144,USA,California,Atherton,94027,CA,c06081
+2145,USA,Michigan,Linden,48451,MI,"m26049,m26093"
+2147,USA,Washington,Spokane,99212,WA,w53063
+2148,USA,Washington,Spokane,99216,WA,w53063
+2151,USA,Illinois,Forest Park,60130,IL,i17031
+2152,USA,Florida,Volusia County,32127,FL,f12127
+2158,USA,Texas,Austin,78759,TX,"t48453,t48491"
+2161,USA,New York,Huntington Station,11746,NY,n36103
+2164,USA,Missouri,Harrisonville,64701,MO,m29037
+2165,USA,Oklahoma,Bartlesville,74006,OK,"o40105,o40147"
+2168,USA,Connecticut,Groton,06340,CT,c09011
+2169,USA,Minnesota,Savage,55378,MN,m27139
+2170,USA,Connecticut,Glastonbury,06033,CT,"c09003,c09013"
+2171,USA,Indiana,Crown Point,46307,IN,"i18089,i18127"
+2172,USA,Ohio,Lakewood,44107,OH,o39035
+2175,USA,Minnesota,Saint Paul,55125,MN,"m27123,m27163"
+2177,USA,Minnesota,Mendota Heights,55120,MN,m27037
+2180,USA,New Jersey,Hamilton,08690,NJ,n34021
+2181,USA,Minnesota,Blaine,55434,MN,m27003
+2183,USA,Louisiana,Boutte,70039,LA,l22089
+2186,USA,Virginia,Chantilly,20151,VA,"v51059,v51107"
+2187,USA,South Carolina,Conway,29526,SC,s45051
+2190,USA,Mississippi,Petal,39465,MS,"m28035,m28067,m28111"
+2191,USA,New Jersey,Hamilton,08619,NJ,n34021
+2194,USA,Wisconsin,Fond du Lac,54935,WI,w55039
+2197,USA,Indiana,New Carlisle,46552,IN,"i18091,i18141"
+2199,USA,Maryland,Finksburg,21048,MD,m24013
+2202,USA,Wisconsin,Brookfield,53005,WI,w55133
+2204,USA,California,Hayward,94545,CA,c06001
+2207,USA,Minnesota,White Bear Lake,55110,MN,"m27003,m27123,m27163"
+2220,USA,Minnesota,Eagan,55123-1575,MN,m27037
+2221,USA,Louisiana,Mandeville,70471,LA,l22103
+2224,USA,Michigan,Detroit,48235,MI,m26163
+2225,USA,Minnesota,Brooklyn Park,55303,MN,m27003
+2227,USA,Minnesota,Fridley,55432,MN,"m27003,m27123"
+2228,USA,New York,Honeoye Falls,14472,NY,"n36051,n36055,n36069"
+2232,USA,Minnesota,Anoka,55303,MN,m27003
+2234,USA,Pennsylvania,Newtown Square,19073,PA,"p42029,p42045"
+2239,USA,Minnesota,Hopkins,55305,MN,m27053
+2240,USA,Colorado,Denver,80238,CO,"c08001,c08031"
+2246,USA,Michigan,Johannesburg,49751,MI,"m26119,m26137"
+2252,USA,Ohio,Milan,44846,OH,"o39043,o39077"
+2259,USA,Colorado,Denver,80211,CO,c08031
+2261,USA,Colorado,Longmont,80501,CO,c08013
+2262,USA,Massachusetts,Holliston,01746,MA,m25017
+2264,USA,Minnesota,Plymouth,55446,MN,m27053
+2265,USA,New York,Bronx,10468,NY,n36005
+2333,USA,Oklahoma,Sapulpa,74066,OK,"o40037,o40143"
+2335,USA,Kansas,Prairie Village,66208,KS,k20091
+2337,USA,Michigan,Grand Blanc,48439,MI,"m26049,m26125"
+2338,USA,Illinois,Oswego,60543,IL,"i17089,i17093,i17197"
+2339,USA,California,Lancaster,93535,CA,c06037
+2340,USA,New York,Rochester,14610,NY,n36055
+2341,USA,Oklahoma,Shawnee,74804,OK,"o40125,o40133"
+2342,USA,New Hampshire,Nashua,03064,NH,n33011
+2344,USA,New York,Yonkers,10701,NY,n36119
+2345,USA,Missouri,Kearney,64060,MO,m29047
+2347,USA,New York,Copiague,11726,NY,n36103
+2352,USA,Oklahoma,Ada,74820,OK,"o40069,o40123"
+2353,USA,Missouri,Kansas City,64112,MO,m29095
+2357,USA,Missouri,Peculiar,64078,MO,m29037
+2358,USA,Illinois,Lake Zurich,60047,IL,i17097
+2359,USA,Oklahoma,Edmond,73013,OK,o40109
+2363,USA,Virginia,Newport News,23602,VA,"v51199,v51700"
+2367,USA,California,Mountain View,94040,CA,c06085
+2370,USA,Vermont,Rutland,05701,VT,v50021
+2373,USA,Oklahoma,Fort Cobb,73038,OK,o40015
+2374,USA,Oregon,Portland,97225,OR,"o41051,o41067"
+2375,USA,Arizona,Phoenix,85004,AZ,a04013
+2377,USA,Maryland,Pasadena,21122,MD,m24003
+2383,USA,Florida,Fort Lauderdale,33325,FL,f12011
+2393,USA,Tennessee,Knoxville,37923,TN,t47093
+2395,USA,Oklahoma,Oklahoma City,73162,OK,o40109
+2398,USA,Oklahoma,Tahlequah,74465,OK,o40021
+2399,USA,Ohio,Shaker Heights,44122,OH,o39035
+2403,USA,Arizona,Mesa,85215,AZ,a04013
+2404,USA,California,Altadena,91001,CA,c06037
+2405,USA,Michigan,Fruitport,49415,MI,"m26121,m26139"
+2408,USA,Missouri,Hazelwood,63042,MO,m29189
+2410,USA,Kansas,Overland Park,66223,KS,k20091
+2411,USA,Oregon,Portland,97211,OR,o41051
+2412,USA,Washington,Bellevue,98005,WA,w53033
+2415,USA,Georgia,Atlanta,30327,GA,g13121
+2421,USA,Virginia,Burke,22015,VA,v51059
+2423,USA,Massachusetts,Watertown,02472,MA,m25017
+2424,USA,Oklahoma,Bixby,74008,OK,"o40143,o40145"
+2425,USA,Florida,Tampa,33603,FL,f12057
+2429,USA,California,La Canada Flintridge,91011,CA,c06037
+2437,USA,Hawaii,Honolulu,96816,HI,h15003
+2438,USA,Hawaii,Honolulu,96826,HI,h15003
+2439,USA,Hawaii,Wailuku,96793,HI,h15009
+2441,USA,Hawaii,Honolulu,96822,HI,h15003
+2443,USA,Hawaii,Kahului,96732,HI,h15009
+2444,USA,Hawaii,Honolulu,96817,HI,h15003
+2445,USA,Hawaii,Kapolei,96707,HI,h15003
+2449,USA,Arizona,Chandler,85248,AZ,"a04013,a04021"
+2450,USA,Minnesota,St. Paul,55116,MN,m27123
+2451,USA,Illinois,Saint Charles,60174,IL,"i17043,i17089"
+2457,USA,Missouri,Lawson,64062,MO,"m29025,m29047,m29049,m29177"
+2458,USA,New Jersey,Gladstone,07934,NJ,"n34027,n34035"
+2461,USA,Oklahoma,Oklahoma City,73109,OK,o40109
+2465,USA,Hawaii,Lihue,96766,HI,h15007
+2468,USA,Texas,Austin,78746,TX,t48453
+2470,USA,Minnesota,Bloomington,55437,MN,m27053
+2471,USA,Washington,Camas,98607,WA,w53011
+2472,USA,Minnesota,Circle Pines,55014,MN,m27003
+2473,USA,California,Cupertino,95014,CA,c06085
+2474,USA,Michigan,Niles,49120,MI,"m26021,m26027"
+2477,USA,Hawaii,Waipahu,96797,HI,h15003
+2478,USA,Arizona,Mesa,85201,AZ,a04013
+2480,USA,Minnesota,Minneapolis,55406,MN,m27053
+2481,USA,Illinois,Tremont,61568,IL,i17179
+2485,USA,California,San Diego,92111,CA,c06073
+2486,USA,Arizona,Flagstaff,86004,AZ,a04005
+2487,USA,New York,West Sayville,11769,NY,n36103
+2489,USA,California,Fremont,94539,CA,c06001
+2491,USA,Minnesota,Saint Paul,55108,MN,m27123
+2493,USA,California,Riverside,92504,CA,c06065
+2495,USA,New Jersey,Hamilton,08691,NJ,"n34021,n34025"
+2496,USA,California,Irvine,92602,CA,c06059
+2498,USA,Minnesota,Minneapolis,55403,MN,m27053
+2499,USA,Minnesota,Hibbing,55746,MN,"m27061,m27137"
+2500,USA,Minnesota,Minneapolis,55412,MN,m27053
+2501,USA,Minnesota,North St. Paul,55109,MN,"m27037,m27123,m27163"
+2502,USA,Minnesota,Eden Prairie,55346,MN,m27053
+2503,USA,Minnesota,Brainerd,56401,MN,"m27021,m27035"
+2504,USA,Hawaii,Honolulu,96817,HI,h15003
+2506,USA,Wisconsin,Franklin,53132,WI,"w55079,w55133"
+2508,USA,Minnesota,Stillwater,55082,MN,m27163
+2509,USA,Minnesota,Hutchinson ,55350,MN,"m27085,m27093,m27129"
+2511,USA,Minnesota,Lakeville,55044,MN,"m27037,m27139"
+2512,USA,Minnesota,Duluth,55804,MN,m27137
+2513,USA,Minnesota,Minneapolis,55418,MN,"m27053,m27123"
+2515,USA,Minnesota,Marshall,56258,MN,"m27083,m27127"
+2518,USA,Minnesota,Inver Grove Heights,55076,MN,m27037
+2521,USA,Oregon,Eugene,97405,OR,o41039
+2522,USA,Washington,Bothell,98012,WA,w53061
+2523,USA,Vermont,Saint Johnsbury,05819,VT,"v50005,v50009"
+2525,USA,Minnesota,Plymouth,55441,MN,m27053
+2526,USA,Minnesota,Osseo,55369,MN,m27053
+2529,USA,Minnesota,Saint Paul,55107,MN,"m27053,m27123"
+2530,USA,Minnesota,Rochester,55906,MN,"m27109,m27157"
+2531,USA,Minnesota,Chaska,55318,MN,m27019
+2532,USA,Minnesota,Forest Lake,55025,MN,"m27003,m27025,m27163"
+2534,USA,Maryland,Baltimore ,21210,MD,"m24005,m24510"
+2537,USA,Maryland,Columbia,21044,MD,m24027
+2538,USA,Minnesota,Morris,56267,MN,m27149
+2539,USA,Pennsylvania,Palmyra,17078,PA,"p42043,p42075"
+2543,USA,California,Chula Vista,91915,CA,c06073
+2544,USA,Pennsylvania,Harborcreek,16421,PA,p42049
+2549,USA,Minnesota,Minneapolis,55419,MN,m27053
+2550,USA,Oregon,Oregon City,97045,OR,o41005
+2551,USA,California,Novato,94945,CA,"c06041,c06097"
+2554,USA,New Jersey,Edison,08820,NJ,"n34023,n34039"
+2556,USA,Florida,Niceville,32578,FL,"f12091,f12131"
+2557,USA,Washington,Tacoma,98408,WA,w53053
+2559,USA,Pennsylvania,Harrisburg,17109,PA,p42043
+2560,USA,Missouri,Grandview,64030,MO,m29095
+2574,USA,Minnesota,St. Anthony,55418,MN,"m27053,m27123"
+2577,USA,New Jersey,Basking Ridge,07920,NJ,"n34027,n34035"
+2579,USA,New York,Astoria,11106,NY,n36081
+2582,USA,Texas,Lufkin,75901,TX,t48005
+2583,USA,Texas,Austin,78750,TX,"t48453,t48491"
+2584,USA,California,Calabasas,91302,CA,c06037
+2585,USA,Texas,Bellaire,77401,TX,t48201
+2586,USA,Michigan,Calumet,49913,MI,"m26061,m26083"
+2587,USA,Texas,Houston,77098,TX,t48201
+2590,USA,New Jersey,Robbinsville,08691,NJ,"n34021,n34025"
+2591,USA,Michigan,Detroit,48215,MI,m26163
+2594,USA,Idaho,Nampa,83687,ID,"i16001,i16027"
+2600,USA,New Jersey,Oak Ridge,07438,NJ,"n34027,n34031"
+2601,USA,New York,Flushing,11367,NY,n36081
+2603,USA,Ohio,Medina,44256,OH,"o39093,o39103,o39153"
+2604,USA,Michigan,Capac,48014,MI,"m26087,m26147"
+2605,USA,Washington,Bellingham,98225,WA,w53073
+2606,USA,Minnesota,Rosemount,55068,MN,m27037
+2607,USA,Pennsylvania,Warminster ,18974,PA,"p42017,p42091"
+2611,USA,Michigan,Jackson,49201,MI,m26075
+2612,USA,Michigan,Waterford,48328,MI,m26125
+2613,USA,Texas,Van Horn,79855,TX,t48109
+2614,USA,West Virginia,Morgantown,26506,WV,w54061
+2619,USA,Michigan,Midland,48640,MI,m26111
+2620,USA,Michigan,Southgate,48195,MI,m26163
+2632,USA,Ohio,Amherst,44001,OH,o39093
+2635,USA,Oregon,Lake Oswego,97034,OR,"o41005,o41051"
+2637,USA,California,Rolling Hills Estates,90274,CA,c06037
+2638,USA,New York,Great Neck,11020,NY,"n36059,n36081"
+2640,USA,North Carolina,Wentworth,27375,NC,n37157
+2641,USA,Pennsylvania,Pittsburgh,15213,PA,p42003
+2642,USA,North Carolina,Greenville,27834,NC,"n37013,n37065,n37147"
+2643,USA,California,San Jose,95123,CA,c06085
+2647,USA,Arizona,Phoenix,85014,AZ,a04013
+2648,USA,Maine,Oakland,04963,ME,m23011
+2654,USA,Minnesota,Roseau,56751,MN,m27135
+2655,USA,North Carolina,Greensboro,27409,NC,n37081
+2656,USA,Pennsylvania,Monroeville,15146,PA,"p42003,p42129"
+2657,USA,New Mexico,Deming,88030,NM,n35029
+2658,USA,California,San Diego,92128,CA,c06073
+2659,USA,California,Mission Hills,91345,CA,c06037
+2662,USA,Arizona,Tolleson,85353,AZ,a04013
+2667,USA,Minnesota,Apple Valley,55124,MN,m27037
+2673,USA,Michigan,Detroit,48201,MI,m26163
+2676,USA,Michigan,Ecorse,48229,MI,m26163
+2682,USA,North Carolina,Farmville,27828,NC,"n37079,n37147"
+2687,USA,Texas,Austin,78746,TX,t48453
+2704,USA,Illinois,Downers Grove,60515,IL,i17043
+2707,USA,Missouri,Saint Louis,63133,MO,"m29189,m29510"
+2709,USA,Illinois,Chicago,60653,IL,i17031
+2710,USA,California,Rancho Palos Verdes,90275,CA,c06037
+2712,USA,Connecticut,Woodbury,06798,CT,c09005
+2713,USA,Massachusetts,Melrose,02176,MA,m25017
+2714,USA,Texas,Dallas,75006,TX,t48113
+2721,USA,Texas,Lasara,78561,TX,t48489
+2723,USA,Oklahoma,Oklahoma City,73109,OK,o40109
+2725,USA,Illinois,Chicago,60612,IL,i17031
+2729,USA,New Jersey,Marlton,08053,NJ,n34005
+2733,USA,Oregon,Portland,97202,OR,"o41005,o41051"
+2765,USA,Oklahoma,Norman,73071,OK,o40027
+2767,USA,Michigan,Kalamazoo,49009,MI,"m26077,m26159"
+2771,USA,Michigan,Grandville,49418,MI,"m26081,m26139"
+2773,USA,Oklahoma,Edmond,73013,OK,o40109
+2783,USA,Kentucky,La Grange,40031,KY,"k21103,k21185"
+2785,USA,Connecticut,Kent,06757,CT,c09005
+2789,USA,Texas,Manor,78653,TX,"t48021,t48453"
+2791,USA,New York,Latham,12110,NY,n36001
+2795,USA,Oklahoma,Broken Arrow,74011,OK,o40143
+2797,USA,Florida,Clermont,34711,FL,f12069
+2805,USA,Texas,Waxahachie,75165,TX,t48139
+2811,USA,Washington,Vancouver,98685,WA,w53011
+2813,USA,California,Saratoga,95070,CA,c06085
+2815,USA,South Carolina,Columbia,29205,SC,s45079
+2819,USA,Maryland,Oxon Hill,20745,MD,m24033
+2823,USA,Minnesota,Saint Paul,55116,MN,m27123
+2825,USA,Minnesota,Saint Paul,55127,MN,m27123
+2826,USA,Wisconsin,Oshkosh,54901,WI,w55139
+2827,USA,California,Coronado,92118,CA,c06073
+2830,USA,Wisconsin,Milwaukee,53211,WI,w55079
+2832,USA,Michigan,Livonia,48154,MI,m26163
+2834,USA,Michigan,Bloomfield Hills,48302,MI,m26125
+2836,USA,Connecticut,Woodbury,06798,CT,c09005
+2839,USA,California,Escondido,92027,CA,c06073
+2840,USA,Arizona,Paradise Valley,85253,AZ,a04013
+2844,USA,Arizona,Laveen,85339,AZ,a04013
+2846,USA,Minnesota,Saint Paul,55113,MN,"m27053,m27123"
+2847,USA,Minnesota,Fairmont,56031,MN,m27091
+2848,USA,Texas,Dallas,75244,TX,t48113
+2849,USA,Maryland,Columbia,21046,MD,m24027
+2851,USA,Michigan,Sterling Heights,48314,MI,m26099
+2853,USA,Hawaii,Mililani,96789,HI,h15003
+2854,USA,California,San Jose,95148,CA,c06085
+2855,USA,Minnesota,Saint Paul,55117,MN,m27123
+2856,USA,Kentucky,Lexington,40513,KY,"k21067,k21239"
+2861,USA,Minnesota,Lake City,55041,MN,"m27049,m27157"
+2867,USA,Indiana,Elkhart,46516,IN,i18039
+2869,USA,New York,Bethpage,11714,NY,n36059
+2872,USA,New York,Old Westbury,11568,NY,n36059
+2875,USA,New York,Cold Spring Harbor,11724,NY,"n36059,n36103"
+2876,USA,Massachusetts,Burlington,01803,MA,m25017
+2877,USA,Massachusetts,Newton,02459,MA,m25017
+2879,USA,Minnesota,Saint Louis Park,55426,MN,m27053
+2881,USA,Texas,Austin,78753,TX,t48453
+2882,USA,Texas,Katy,77449,TX,t48201
+2883,USA,Minnesota,Warroad,56763,MN,m27135
+2890,USA,Virginia,Chesapeake,23322,VA,"v51550,v51810"
+2895,USA,New York,Far Rockaway,11691,NY,n36081
+2896,USA,Hawaii,Honolulu,96817,HI,h15003
+2898,USA,Oregon,Beaverton,97006,OR,o41067
+2900,USA,District of Columbia,Washington,20037,DC,d11001
+2903,USA,Washington,Arlington,98223,WA,w53061
+2906,USA,Washington,Spanaway,98387,WA,w53053
+2907,USA,Washington,Auburn,98092,WA,"w53033,w53053"
+2909,USA,Indiana,Rochester,46975,IN,"i18049,i18085,i18099,i18103"
+2910,USA,Washington,Mill Creek,98082,WA,w53061
+2912,USA,District of Columbia,Washington,20002,DC,d11001
+2914,USA,District of Columbia,Washington,20016,DC,d11001
+2915,USA,Oregon,Portland,97219,OR,"o41005,o41051,o41067"
+2926,USA,Washington,Wapato,98951,WA,w53077
+2927,USA,Washington,Graham,98338,WA,w53053
+2928,USA,Washington,Seattle,98117,WA,w53033
+2929,USA,Washington,Puyallup,98374,WA,w53053
+2930,USA,Washington,Snohomish,98296,WA,w53061
+2944,USA,Washington,Spokane,99204,WA,w53063
+2945,USA,Colorado,Manitou Springs,80829,CO,c08041
+2950,USA,Texas,Waco,76710,TX,t48309
+2957,USA,Minnesota,Alden,56009,MN,"m27043,m27047"
+2959,USA,Michigan,Coloma,49038,MI,"m26021,m26159"
+2960,USA,Michigan,Birmingham,48009,MI,m26125
+2961,USA,District of Columbia,Washington,20001,DC,d11001
+2966,USA,Texas,Pharr,78577,TX,t48215
+2969,USA,Texas,San Antonio,78220,TX,t48029
+2972,USA,Colorado,Lafayette,80026,CO,c08013
+2973,USA,Alabama,Madison,35758,AL,a01089
+2974,USA,Georgia,Marietta,30062,GA,g13067
+2976,USA,Washington,Sammamish,98075,WA,w53033
+2977,USA,Minnesota,La Crescent,55947,MN,"m27055,m27169"
+2978,USA,Missouri,Saint Louis,63109,MO,m29510
+2980,USA,Washington,Oak Harbor,98277,WA,w53029
+2984,USA,California,La Jolla,92037,CA,c06073
+2986,USA,Oklahoma,Oklahoma City,73107,OK,o40109
+2987,USA,Minnesota,Farmington,55024,MN,m27037
+2988,USA,Virginia,Berryville,22611,VA,v51043
+2989,USA,Minnesota,Richfield,55423,MN,m27053
+2990,USA,Oregon,Turner,97392,OR,o41047
+2992,USA,Louisiana,Mandeville,70471,LA,l22103
+2993,USA,Utah,Logan,84341,UT,u49005
+2996,USA,Colorado,Colorado Springs,80904,CO,c08041
+2998,USA,Virginia,Richmond,23230,VA,"v51087,v51760"
+3003,USA,New York,Canandaigua,14424,NY,"n36069,n36123"
+3004,USA,New York,Bronx,10463,NY,"n36005,n36061"
+3005,USA,Texas,Dallas,75231,TX,t48113
+3006,USA,Utah,Salt Lake City,84103,UT,u49035
+3007,USA,Minnesota,Oakdale,55128,MN,"m27123,m27163"
+3008,USA,Hawaii,Honolulu,96821,HI,h15003
+3009,USA,Nevada,Boulder City,89005,NV,n32003
+3010,USA,Ohio,Centerburg,43011,OH,"o39041,o39083,o39089,o39117"
+3015,USA,New York,Spencerport,14559,NY,n36055
+3017,USA,New York,Fresh Meadows,11365,NY,n36081
+3018,USA,Minnesota,Saint Peter,56082,MN,"m27079,m27103"
+3019,USA,Arizona,Scottsdale,85253,AZ,a04013
+3021,USA,California,Escondido,92025,CA,c06073
+3023,USA,Minnesota,Elk River,55330,MN,"m27003,m27053,m27141,m27171"
+3024,USA,Oregon,Ashland,97520,OR,o41029
+3026,USA,Minnesota,Delano,55328,MN,"m27019,m27053,m27171"
+3028,USA,Texas,Hidalgo,78557,TX,t48215
+3029,USA,Texas,Pharr,78577,TX,t48215
+3035,USA,Texas,Corpus Christi,78404,TX,t48355
+3036,USA,Minnesota,Deer River,56636,MN,"m27021,m27061"
+3037,USA,Texas,Longview,75605,TX,"t48183,t48203,t48459"
+3038,USA,Minnesota,North Branch,55056,MN,"m27025,m27059"
+3039,USA,Louisiana,Destrehan,70047,LA,l22089
+3042,USA,Minnesota,Apple Valley,55124,MN,m27037
+3043,USA,Texas,El Paso,79912,TX,t48141
+3044,USA,New York,Ballston Spa,12020,NY,n36091
+3045,USA,California,San Mateo,94403,CA,c06081
+3049,USA,Washington,Bremerton,98337,WA,w53035
+3054,USA,Minnesota,Grand Marais,55604,MN,m27031
+3055,USA,Minnesota,Austin,55912,MN,"m27047,m27099"
+3058,USA,Minnesota,Annandale,55302,MN,m27171
+3061,USA,Illinois,Naperville,60563,IL,i17043
+3062,USA,Pennsylvania,Natrona Heights,15065,PA,"p42003,p42019"
+3067,USA,Illinois,Geneva,60134,IL,i17089
+3070,USA,Washington,Seattle,98133,WA,w53033
+3072,USA,Virginia,Wytheville,24382,VA,v51197
+3081,USA,Minnesota,Bloomington,55420,MN,m27053
+3082,USA,Minnesota,Minnetonka,55345,MN,m27053
+3090,USA,Minnesota,Winona,55987,MN,m27169
+3091,USA,Georgia,Atlanta,30312,GA,g13121
+3096,USA,Michigan,Detroit,48224,MI,m26163
+3098,USA,Michigan,Waterford,48329,MI,m26125
+3100,USA,Minnesota,Mendota Heights,55118,MN,"m27037,m27123"
+3102,USA,Minnesota,Nevis,56467,MN,m27057
+3103,USA,Texas,Houston,77024,TX,t48201
+3110,USA,Illinois,Chicago,60660,IL,i17031
+3122,USA,Minnesota,New Ulm,56073,MN,"m27013,m27015,m27103"
+3128,USA,California,San Diego,92130,CA,c06073
+3130,USA,Minnesota,Woodbury,55129,MN,m27163
+3131,USA,Oregon,Gladstone,97027,OR,o41005
+3133,USA,Arizona,Scottsdale,85257,AZ,a04013
+3134,USA,Minnesota,Cass Lake,56633,MN,"m27007,m27021,m27057"
+3136,USA,Virginia,Ashland,23005,VA,v51085
+3137,USA,New York,Bohemia,11716,NY,n36103
+3138,USA,Ohio,Dayton,45414,OH,o39113
+3139,USA,Alabama,Oxford,36203,AL,"a01015,a01121"
+3140,USA,Tennessee,Knoxville,37934,TN,t47093
+3142,USA,New Jersey,Newton,07860,NJ,"n34037,n34041"
+3145,USA,Idaho,Coeur D Alene,83814,ID,i16055
+3146,USA,Connecticut,Granby,06035,CT,c09003
+3147,USA,Indiana,Munster,46321,IN,i18089
+3151,USA,New Jersey,Sewell,08080,NJ,"n34007,n34015"
+3152,USA,Oklahoma,Idabel,74745,OK,o40089
+3157,USA,New York,Rochester,14622,NY,n36055
+3160,USA,Oklahoma,Grove,74344,OK,"o40041,o40115"
+3163,USA,Oklahoma,Henryetta,74437,OK,"o40091,o40111"
+3164,USA,Florida,Tampa,33614,FL,f12057
+3171,USA,New York,Westhampton Beach,11978,NY,n36103
+3172,USA,Kansas,Salina,67401,KS,"k20143,k20169"
+3173,USA,New York,Rochester,14618,NY,n36055
+3175,USA,Michigan,Grosse Pointe Woods,48236,MI,"m26099,m26163"
+3176,USA,Indiana,Brownsburg,46112,IN,"i18011,i18063"
+3179,USA,Oklahoma,Adair,74330,OK,"o40035,o40097"
+3180,USA,Indiana,Trafalgar,46181,IN,"i18013,i18081"
+3181,USA,New York,Pittsford,14534,NY,"n36055,n36069"
+3182,USA,Connecticut,West Hartford,06107,CT,c09003
+3184,USA,Minnesota,Burnsville,55337,MN,"m27037,m27139"
+3187,USA,Arizona,Phoenix,85018,AZ,a04013
+3189,USA,California,Placerville,95667,CA,c06017
+3192,USA,Oregon,Portland,97224,OR,o41067
+3193,USA,Ohio,Austintown,44515,OH,o39099
+3196,USA,North Carolina,Mooresville,28115,NC,"n37097,n37159"
+3197,USA,Wisconsin,Cedarburg,53012,WI,"w55089,w55131"
+3200,USA,Colorado,Centennial,80015,CO,c08005
+3201,USA,Ohio,Hamilton,45013,OH,"o39017,o39061"
+3202,USA,Minnesota,St. Paul,55106,MN,m27123
+3204,USA,New York,Jamaica Estates,11432,NY,n36081
+3205,USA,Massachusetts,Concord,01742,MA,m25017
+3206,USA,Minnesota,Woodbury ,55125,MN,"m27123,m27163"
+3212,USA,Minnesota,Granite Falls,56241,MN,"m27023,m27129,m27173"
+3215,USA,North Carolina,Greensboro,27408,NC,n37081
+3216,USA,Montana,Missoula,59801,MT,m30063
+3218,USA,Washington,Bonney Lake,98391,WA,w53053
+3219,USA,Washington,Auburn,98002,WA,w53033
+3220,USA,Washington,Spangle,99031,WA,w53063
+3223,USA,Washington,Silverdale,98383,WA,w53035
+3225,USA,Utah,West Valley City,84120,UT,u49035
+3229,USA,North Carolina,Holly Springs,27540,NC,"n37037,n37085,n37183"
+3230,USA,Utah,Salt Lake City,84101,UT,u49035
+3234,USA,Michigan,Lowell,49331,MI,"m26067,m26081"
+3236,USA,Massachusetts,Franklin,02038,MA,m25021
+3237,USA,Washington,Spanaway,98387,WA,w53053
+3238,USA,Washington,Anacortes,98221,WA,"w53055,w53057"
+3239,USA,Utah,Layton,84041,UT,u49011
+3240,USA,Texas,San Antonio,78227,TX,t48029
+3242,USA,Florida,Ocala,34480,FL,f12083
+3243,USA,Utah,Salt Lake City,84121,UT,u49035
+3244,USA,Minnesota,Saint Cloud,56303,MN,"m27009,m27145"
+3245,USA,Utah,Sandy,84093,UT,u49035
+3247,USA,Oklahoma,Shawnee,74801,OK,o40125
+3250,USA,California,Sacramento,95831,CA,c06067
+3255,USA,California,Escondido,92025,CA,c06073
+3256,USA,California,San Jose,95111,CA,c06085
+3257,USA,California,Roseville,95661,CA,"c06061,c06067"
+3258,USA,Virginia,Martinsville,24112,VA,"v51067,v51089,v51690"
+3260,USA,Pennsylvania,Pittsburgh,15212,PA,p42003
+3266,USA,Ohio,Eaton,45320,OH,o39135
+3267,USA,Minnesota,Silver Bay,55614,MN,m27075
+3268,USA,Washington,Kenmore,98028,WA,"w53033,w53061"
+3274,USA,Virginia,Harrisonburg,22801,VA,"v51165,v51660"
+3275,USA,Minnesota,Cass Lake,56633,MN,"m27007,m27021,m27057"
+3276,USA,Minnesota,New London,56273,MN,m27067
+3277,USA,Minnesota,Thief River Falls,56701,MN,"m27089,m27113"
+3278,USA,Minnesota,Detroit Lakes,56501,MN,"m27005,m27111"
+3282,USA,Texas,Dallas,75243,TX,t48113
+3284,USA,Missouri,Camdenton,65020,MO,"m29029,m29105"
+3288,USA,Wyoming,Big Piney,83113,WY,w56035
+3289,USA,Utah,Draper,84020,UT,"u49035,u49049"
+3291,USA,Minnesota,Brooklyn Park,55443,MN,m27053
+3292,USA,Minnesota,Benson,56215,MN,"m27023,m27121,m27151"
+3293,USA,Minnesota,Fergus Falls,56537,MN,"m27051,m27111"
+3294,USA,Minnesota,Pine River,56474,MN,"m27021,m27035"
+3295,USA,California,Mentone,92359,CA,c06071
+3297,USA,Minnesota,Perham,56573,MN,m27111
+3298,USA,Minnesota,Pipestone,56164,MN,"m27081,m27117,m27133"
+3299,USA,Minnesota,Chaska,55318,MN,m27019
+3300,USA,Minnesota,Ortonville,56278,MN,"m27011,m27073"
+3302,USA,Michigan,Clawson,48017,MI,m26125
+3303,USA,California,Fresno,93711,CA,c06019
+3309,USA,California,Anaheim,92801,CA,c06059
+3310,USA,Texas,Heath,75032,TX,"t48257,t48397"
+3313,USA,Minnesota,Alexandria,56308,MN,"m27041,m27121"
+3314,USA,New Jersey,Clifton,07013,NJ,n34031
+3319,USA,Alabama,Huntsville,35802,AL,a01089
+3322,USA,Michigan,Ann Arbor,48103,MI,m26161
+3323,USA,New Hampshire,Litchfield,03052,NH,n33011
+3324,USA,Ohio,Columbus,43210,OH,o39049
+3328,USA,California,North Hollywood,91601,CA,c06037
+3329,USA,Georgia,Kingsland,31548,GA,g13039
+3330,USA,Missouri,Saint Charles,63301,MO,m29183
+3335,USA,Texas,Cypress,77433,TX,t48201
+3336,USA,North Carolina,Swansboro,28584,NC,"n37031,n37133"
+3337,USA,Louisiana,Baton Rouge,70817,LA,l22033
+3340,USA,New Jersey,Union City,07087,NJ,n34017
+3341,USA,California,San Diego,92129,CA,c06073
+3344,USA,Georgia,Fayetteville,30215,GA,"g13063,g13113"
+3345,USA,Texas,San Antonio,78212,TX,t48029
+3352,USA,Illinois,Belvidere,61008,IL,"i17007,i17201"
+3355,USA,Texas,Arlington,76011,TX,t48439
+3357,USA,Michigan,Grand Rapids,49546,MI,m26081
+3359,USA,Virginia,Portsmouth,23703,VA,"v51550,v51740"
+3361,USA,Virginia,Fishersville,22939,VA,v51015
+3366,USA,Texas,Roscoe,79545,TX,"t48151,t48335,t48353"
+3370,USA,Texas,Irving,75038,TX,t48113
+3373,USA,Virginia,Warrenton,20186,VA,"v51047,v51061"
+3374,USA,Wyoming,Jackson,83001,WY,w56039
+3381,USA,Wisconsin,Valders,54245,WI,w55071
+3389,USA,Maryland,Salisbury,21804,MD,"m24045,m24047"
+3393,USA,Washington,Puyallup ,98371,WA,w53053
+3397,USA,Missouri,Saint Louis,63130,MO,"m29189,m29510"
+3405,USA,Utah,Salem,84653,UT,u49049
+3407,USA,Minnesota,Arden Hills,55112,MN,"m27003,m27123"
+3408,USA,California,Los Angeles,90006,CA,c06037
+3410,USA,Florida,Miami,33173,FL,f12086
+3414,USA,Michigan,Farmington,48336,MI,m26125
+3418,USA,Wisconsin,Sheboygan Falls,53085,WI,w55117
+3419,USA,New York,New York,10128,NY,n36061
+3451,USA,Maine,Sanford,04073,ME,m23031
+3452,USA,Michigan,Berrien Springs,49103,MI,m26021
+3454,USA,Minnesota,Saint Paul,55115,MN,m27163
+3455,USA,Virginia,Alexandria,22312,VA,"v51059,v51510"
+3457,USA,Oklahoma,Lawton,73501,OK,o40031
+3458,USA,Michigan,Holland,49423,MI,"m26005,m26139"
+3459,USA,North Carolina,Cary,27518,NC,n37183
+3461,USA,Connecticut,Bristol,06010,CT,"c09003,c09005"
+3464,USA,Connecticut,Simsbury,06070,CT,c09003
+3465,USA,Oklahoma,Mustang,73064,OK,o40017
+3467,USA,New Hampshire,Windham,03087,NH,n33015
+3468,USA,Louisiana,West Monroe,71291,LA,l22073
+3473,USA,California,Diamond Bar,91765,CA,c06037
+3476,USA,California,Irvine,92618,CA,c06059
+3481,USA,Texas,San Antonio,78249,TX,t48029
+3482,USA,California,Campbell,95008,CA,c06085
+3484,USA,Ohio,Marysville,43040,OH,"o39041,o39159"
+3487,USA,Indiana,Plainfield,46168,IN,i18063
+3488,USA,Illinois,Orland Park,60462,IL,i17031
+3489,USA,South Carolina,North Charleston,29418,SC,"s45019,s45035"
+3490,USA,South Carolina,Summerville,29486,SC,s45015
+3491,USA,California,Holtville,92250,CA,c06025
+3492,USA,West Virginia,Winfield,25213,WV,"w54039,w54079"
+3494,USA,Indiana,Bloomington,47401,IN,"i18013,i18105"
+3495,USA,California,Fresno,93706,CA,c06019
+3501,USA,California,Sunnyvale,94087,CA,c06085
+3504,USA,Pennsylvania,Pittsburgh,15213,PA,p42003
+3506,USA,North Carolina,Charlotte,28208,NC,n37119
+3507,USA,Oklahoma,Tulsa,74133,OK,o40143
+3512,USA,California,Orcutt,93455,CA,c06083
+3515,USA,New Jersey,Iselin,08830,NJ,n34023
+3525,USA,Connecticut,Waterbury,06708,CT,"c09005,c09009"
+3534,USA,Michigan,Davison,48423,MI,"m26049,m26087"
+3535,USA,Michigan,Lapeer County,48412,MI,m26087
+3536,USA,Michigan,Hartland,48353,MI,m26093
+3537,USA,Michigan,Indian River,49749,MI,m26031
+3538,USA,Michigan,Auburn Hills,48326,MI,m26125
+3539,USA,Michigan,Romeo,48065,MI,m26099
+3542,USA,Michigan,Temperance,48182,MI,m26115
+3545,USA,Texas,Jbsa Lackland,78236,TX,t48029
+3546,USA,Michigan,Grand Haven,49417,MI,m26139
+3547,USA,Michigan,Monroe,48161,MI,m26115
+3555,USA,Connecticut,Storrs Mansfield,06268,CT,c09013
+3556,USA,Florida,Lake City,32025,FL,f12023
+3559,USA,Indiana,Jasper,47546,IN,i18037
+3561,USA,Texas,San Antonio,78253,TX,"t48029,t48325"
+3562,USA,Idaho,Pocatello,83201,ID,i16005
+3566,USA,Massachusetts,Southborough,01772,MA,m25027
+3568,USA,Michigan,Linden,48451,MI,"m26049,m26093"
+3570,USA,Michigan,Alma,48801,MI,"m26057,m26073"
+3572,USA,Michigan,Norton Shores,49441,MI,m26121
+3574,USA,Washington,Seattle,98148,WA,w53033
+3577,USA,Arizona,Scottsdale,85260,AZ,a04013
+3581,USA,Georgia,Lagrange,30240,GA,"g13149,g13285"
+3588,USA,Washington,Renton,98058,WA,w53033
+3591,USA,Ohio,Westerville,43081,OH,"o39041,o39049"
+3593,USA,Oklahoma,Tulsa,74136,OK,o40143
+3596,USA,Wisconsin,South Milwaukee,53172,WI,w55079
+3597,USA,Maine,Kittery,03904,ME,m23031
+3598,USA,California,Sacramento,95831,CA,c06067
+3602,USA,Michigan,Escanaba,49829,MI,m26041
+3603,USA,Michigan,Reed City ,49677,MI,"m26085,m26123,m26133"
+3604,USA,Michigan,Brownstown,48134,MI,"m26115,m26163"
+3606,USA,Louisiana,Baton Rouge,70806,LA,l22033
+3609,USA,Maine,Portland,04101,ME,m23005
+3610,USA,Minnesota,Minneapolis,55401,MN,m27053
+3612,USA,Arkansas,Springdale,72764,AR,"a05007,a05143"
+3616,USA,Louisiana,Lafayette,70508,LA,l22055
+3617,USA,Michigan,Marquette,49855,MI,m26103
+3618,USA,Michigan,Petoskey,49770,MI,"m26029,m26031,m26047"
+3619,USA,Michigan,Detroit,48207,MI,m26163
+3620,USA,Michigan,Saint Joseph,49085,MI,m26021
+3623,USA,Massachusetts,Leominster,01453,MA,m25027
+3624,USA,New York,Huntington Station,11746,NY,n36103
+3627,USA,Florida,Sarasota,34233,FL,f12115
+3630,USA,Minnesota,Minneapolis,55422,MN,m27053
+3632,USA,Michigan,Detroit,48201,MI,m26163
+3633,USA,Minnesota,Albert Lea,56007,MN,m27047
+3634,USA,Connecticut,Bridgeport,06610,CT,c09001
+3635,USA,Georgia,Warner Robins,31088,GA,g13153
+3636,USA,Oregon,Portland,97212,OR,o41051
+3637,USA,New Jersey,Flemington,08822,NJ,"n34019,n34035"
+3641,USA,Michigan,South Lyon,48178,MI,"m26093,m26125,m26161"
+3647,USA,California,San Diego,92130,CA,c06073
+3648,USA,Colorado,Denver,80237,CO,"c08005,c08031"
+3650,USA,Maryland,La Plata,20646,MD,m24017
+3651,USA,South Carolina,Travelers Rest,29690,SC,s45045
+3653,USA,Florida,Hollywood,33029,FL,f12011
+3654,USA,Connecticut,Middletown,06457,CT,c09007
+3655,USA,Michigan,Mason,48854,MI,m26065
+3656,USA,Michigan,Dexter,48130,MI,m26161
+3658,USA,Michigan,Battle Creek,49014,MI,"m26025,m26045"
+3661,USA,North Carolina,Wadesboro,28170,NC,n37007
+3663,USA,Washington,Bothell,98011,WA,"w53033,w53061"
+3667,USA,Michigan,Port Huron,48060,MI,m26147
+3668,USA,Michigan,Whitmore Lake,48189,MI,"m26093,m26161"
+3669,USA,California,Ripon,95366,CA,c06077
+3673,USA,Oregon,Seaside,97138,OR,o41007
+3674,USA,Washington,Battle Ground,98604,WA,w53011
+3676,USA,Texas,Arlington,76016,TX,t48439
+3679,USA,Texas,San Marcos,78666,TX,"t48055,t48091,t48187,t48209"
+3680,USA,North Carolina,Statesville,28677,NC,n37097
+3681,USA,Washington,Seattle,98125,WA,w53033
+3684,USA,Washington,Seattle,98108,WA,w53033
+3688,USA,Michigan,Suttons Bay,49682,MI,m26089
+3691,USA,Minnesota,Northfield,55057,MN,"m27037,m27049,m27131"
+3692,USA,Wisconsin,Janesville,53548,WI,w55105
+3693,USA,Washington,Spokane,99207,WA,w53063
+3695,USA,Illinois,Yorkville,60560,IL,i17093
+3704,USA,California,National City,91950,CA,c06073
+3707,USA,Michigan,Brighton,48116,MI,m26093
+3711,USA,Washington,Trout Lake,98650,WA,w53039
+3712,USA,Oregon,Union,97883,OR,"o41001,o41061"
+3714,USA,Maryland,Springdale,20774,MD,m24033
+3719,USA,Connecticut,New London ,06320,CT,c09011
+3721,USA,Hawaii,Pearl CIty,96782,HI,h15003
+3723,USA,Minnesota,Spring Valley,55975,MN,"m27045,m27099"
+3728,USA,Texas,Houston,77099,TX,"t48157,t48201"
+3729,USA,Colorado,Aurora,80016,CO,"c08005,c08035"
+3734,USA,Illinois,Lake Forest,60045,IL,i17097
+3735,USA,Texas,Spring,77388,TX,t48201
+3737,USA,North Carolina,Goldsboro,27533,NC,n37191
+3740,USA,Minnesota,Sauk Rapids,56379,MN,"m27009,m27141"
+3743,USA,Texas,Salado,76571,TX,"t48027,t48491"
+3745,USA,Minnesota,Saint Paul,55106,MN,m27123
+3748,USA,Maryland,Ellicott City,21042,MD,m24027
+3749,USA,California,San Diego,92127,CA,c06073
+3750,USA,Minnesota,Badger,56714,MN,m27135
+3751,USA,Minnesota,Red Wing,55066,MN,m27049
+3753,USA,Louisiana,Baton Rouge,70816,LA,l22033
+3754,USA,Minnesota,Bemidji,56601,MN,"m27007,m27021,m27057"
+3755,USA,Minnesota,Litchfield,55355,MN,"m27085,m27093"
+3759,USA,California,INGLEWOOD,90301,CA,c06037
+3760,USA,New York,Bronx,10467,NY,n36005
+3767,USA,Michigan,Traverse City,49685,MI,m26055
+3770,USA,Michigan,Midland,48640,MI,m26111
+3773,USA,Michigan,Tecumseh,49286,MI,m26091
+3777,USA,Ohio,Lima,45801,OH,"o39003,o39011"
+3786,USA,Washington,Kent,98031,WA,w53033
+3792,USA,Missouri,Columbia,65201,MO,"m29019,m29027"
+3793,USA,Maryland,Frederick,21703,MD,m24021
+3796,USA,North Carolina,Windsor,27983,NC,n37015
+3799,USA,New York,Elmira,14904,NY,n36015
+3800,USA,Hawaii,Kailua,96734,HI,h15003
+3802,USA,Texas,Carrollton,75007,TX,"t48085,t48113,t48121"
+3807,USA,Colorado,Aurora,80012,CO,"c08005,c08031"
+3812,USA,Washington,Longview,98632,WA,"w53015,w53069"
+3814,USA,Kentucky,Florence,41091,KY,k21015
+3815,USA,Georgia,Cumming,30028,GA,"g13057,g13085,g13117"
+3821,USA,Kentucky,Belfry,41514,KY,"k21159,k21195"
+3822,USA,North Carolina,Siler City,27344,NC,"n37001,n37037,n37151"
+3824,USA,Tennessee,Knoxville,37932,TN,t47093
+3826,USA,Washington,Sequim,98382,WA,"w53009,w53031"
+3834,USA,Texas,Port Lavaca,77979,TX,"t48057,t48239,t48469"
+3838,USA,New York,Rochester,14605,NY,n36055
+3839,USA,Minnesota,Wadena,56482,MN,"m27111,m27153,m27159"
+3843,USA,Kentucky,Murray,42071,KY,"k21035,k21083"
+3844,USA,Kentucky,Corbin,40701,KY,"k21121,k21125,k21235"
+3847,USA,Texas,Houston,77036,TX,t48201
+3848,USA,Minnesota,Kenyon,55946,MN,"m27039,m27049,m27131,m27147"
+3853,USA,Arizona,Phoenix,85044,AZ,a04013
+3859,USA,California,Elk Grove,95757,CA,c06067
+3863,USA,California,Newbury Park,91320,CA,c06111
+3865,USA,Indiana,South Bend,46613,IN,i18141
+3871,USA,Minnesota,Worthington,56187,MN,"m27063,m27105"
+3875,USA,Michigan,Kentwood,49508,MI,m26081
+3876,USA,Washington,Mabton,98935,WA,"w53039,w53077"
+3878,USA,Hawaii,Kealakekua ,96750,HI,h15001
+3880,USA,Hawaii,Kailua Kona,96740,HI,h15001
+3881,USA,Hawaii,Kailua Kona,96740,HI,h15001
+3882,USA,Hawaii,Lahaina,96761,HI,h15009
+3883,USA,Minnesota,Cottage Grove,55016,MN,m27163
+3889,USA,Arizona,Yuma,85365,AZ,a04027
+3925,USA,California,Ventura,93001,CA,c06111
+3926,USA,Minnesota,Saint Paul,55109,MN,"m27037,m27123,m27163"
+3928,USA,Iowa,Ames,50011,IA,i19169
+3929,USA,Pennsylvania,Philadelphia,19130,PA,p42101
+3930,USA,Maine,Jay,04239,ME,"m23001,m23007,m23017"
+3931,USA,Oklahoma,Chickasha,73018,OK,o40051
+3932,USA,Florida,Boca Raton,33434,FL,f12099
+3936,USA,Indiana,Michigan City,46360,IN,"i18091,i18127"
+3937,USA,Arkansas,Searcy,72143,AR,"a05023,a05145"
+3939,USA,Virginia,Buchanan,24066,VA,"v51023,v51163"
+3940,USA,Indiana,Kokomo,46901,IN,"i18017,i18067,i18103"
+3941,USA,Maryland,Aberdeen Proving Ground,21005,MD,m24025
+3944,USA,Arizona,Tempe,85282,AZ,a04013
+3946,USA,Louisiana,Slidell,70458,LA,l22103
+3947,USA,Indiana,Knightstown,46148,IN,"i18059,i18065,i18139"
+3950,USA,New York,Glen Head,11545,NY,n36059
+3951,USA,New York,Honeoye,14466,NY,"n36051,n36069"
+3952,USA,California,Fullerton,92831,CA,c06059
+3953,USA,California,Eastvale,92880,CA,"c06065,c06071"
+3954,USA,Pennsylvania,Emlenton,16373,PA,"p42019,p42031,p42121"
+3957,USA,Pennsylvania,New Bethlehem,16242,PA,"p42005,p42031"
+3958,USA,Massachusetts,Boston,02125,MA,m25025
+3959,USA,Alabama,Somerville,35670,AL,"a01043,a01103"
+3965,USA,California,Santee,92071,CA,c06073
+3966,USA,Tennessee,Knoxville,37902,TN,t47093
+3970,USA,California,Fresno,93726,CA,c06019
+3974,USA,Pennsylvania,Wyncote,19095,PA,"p42091,p42101"
+3976,USA,South Carolina,Hopkins,29061,SC,s45079
+3984,USA,Tennessee,Johnson City,37604,TN,"t47019,t47179"
+3991,USA,Louisiana,Baton Rouge,70816,LA,l22033
+3993,USA,California,Newhall,91321,CA,c06037
+3997,USA,Texas,San Antonio,78278,TX,t48029
+3998,USA,Georgia,Statesboro,30458,GA,g13031
+4003,USA,Michigan,Allendale,49401,MI,m26139
+4004,USA,Michigan,Muskegon,49442,MI,m26121
+4005,USA,Oklahoma,Fort Gibson,74434,OK,"o40021,o40101,o40145"
+4006,USA,New York,Central Islip,11722,NY,n36103
+4008,USA,Indiana,Petersburg,47567,IN,i18125
+4009,USA,Minnesota,Duluth,55807,MN,m27137
+4011,USA,Wisconsin,La Crosse,54601,WI,w55063
+4012,USA,New York,Staten Island,10312,NY,n36085
+4013,USA,Florida,Orlando,32804,FL,f12095
+4014,USA,California,San Marcos,92078,CA,c06073
+4019,USA,California,Studio City,91604,CA,c06037
+4020,USA,Tennessee,Kingsport,37664,TN,t47163
+4021,USA,Wisconsin,Onalaska,54650-3142,WI,w55063
+4024,USA,Florida,Winter Park,32792,FL,"f12095,f12117"
+4026,USA,Georgia,Decatur,30030,GA,g13089
+4027,USA,Pennsylvania,State College,16803,PA,p42027
+4028,USA,Ohio,Cincinnati,45249,OH,"o39017,o39061,o39165"
+4034,USA,New Hampshire,Pelham,03076,NH,n33011
+4035,USA,New Jersey,Orange,07050,NJ,n34013
+4041,USA,Maine,Gardiner,04345,ME,"m23011,m23023"
+4043,USA,Oregon,McMinnville,97128,OR,o41071
+4048,USA,Massachusetts,Westborough,01581,MA,m25027
+4049,USA,Pennsylvania,Saxonburg,16056,PA,p42019
+4050,USA,Pennsylvania,Chambersburg,17202,PA,p42055
+4051,USA,Oregon,Portland,97267,OR,o41005
+4054,USA,Wisconsin,La Crosse,54601,WI,w55063
+4055,USA,Connecticut,Winchester,06098,CT,c09005
+4056,USA,California,Colton,92324,CA,"c06065,c06071"
+4057,USA,Oregon,Klamath Falls,97601,OR,o41035
+4060,USA,Washington,Chehalis,98532,WA,w53041
+4061,USA,Washington,Pullman,99163,WA,w53075
+4063,USA,Texas,Del Rio,78840,TX,"t48137,t48465"
+4064,USA,Florida,Ocala,34470,FL,f12083
+4065,USA,Florida,Minneola,34715,FL,f12069
+4068,USA,Colorado,Monument,80132,CO,c08041
+4073,USA,South Carolina,Myrtle Beach,29579,SC,s45051
+4074,USA,South Carolina,Murrells Inlet,29576,SC,"s45043,s45051"
+4075,USA,South Carolina,Conway,29526,SC,s45051
+4079,USA,California,Cypress,90630,CA,"c06037,c06059"
+4080,USA,Georgia,Tucker,30084,GA,"g13089,g13135"
+4083,USA,South Carolina,Dorchester,29437,SC,s45035
+4085,USA,Ohio,Reynoldsburg,43068,OH,"o39045,o39049,o39089"
+4087,USA,Louisiana,New Orleans,70122,LA,l22071
+4089,USA,Washington,Duvall,98019,WA,"w53033,w53061"
+4093,USA,New York,Orleans County,14411,NY,n36073
+4096,USA,Illinois,Champaign,61822,IL,i17019
+4097,USA,Massachusetts,Northampton,01060,MA,m25015
+4099,USA,Maryland,Poolesville,20837,MD,m24031
+4103,USA,Indiana,Avon,46123,IN,i18063
+4104,USA,Washington,Cheney,99004,WA,"w53063,w53075"
+4107,USA,Mississippi,Gulfport,39503,MS,m28047
+4110,USA,Oregon,Brookings,97415,OR,o41015
+4111,USA,Arizona,Mesa,85212,AZ,"a04013,a04021"
+4112,USA,Georgia,Cumming ,30041,GA,g13117
+4114,USA,California,Hemet,92543,CA,c06065
+4118,USA,Florida,Gainesville,32601,FL,f12001
+4119,USA,Ohio,Avon,44011,OH,o39093
+4121,USA,Ohio,North Canton,44720,OH,"o39151,o39153"
+4122,USA,New York,Ossining,10562,NY,n36119
+4123,USA,California,Bellflower,90706,CA,c06037
+4125,USA,Oregon,Umatilla,97882,OR,"o41049,o41059"
+4127,USA,Oregon,Vernonia,97064,OR,"o41009,o41067"
+4130,USA,Michigan,Richmond,48062,MI,m26099
+4131,USA,Washington,Renton,98059,WA,w53033
+4135,USA,California,Modesto,95355,CA,c06099
+4139,USA,California,San Diego,92131,CA,c06073
+4141,USA,California,Santa Ana,92707,CA,c06059
+4143,USA,Illinois,Metamora,61548,IL,"i17179,i17203"
+4145,USA,Ohio,Columbus,43235,OH,"o39041,o39049"
+4146,USA,Arizona,Scottsdale,85250,AZ,a04013
+4150,USA,Pennsylvania,Murrysville,15668,PA,p42129
+4151,USA,Massachusetts,Weymouth,02190,MA,m25021
+4153,USA,New Mexico,Los Alamos,87544,NM,"n35028,n35043"
+4156,USA,Illinois,Springfield,62704,IL,i17167
+4159,USA,California,San Francisco,94132,CA,c06075
+4160,USA,California,San Diego,92109,CA,c06073
+4161,USA,California,Yucaipa,92399,CA,"c06065,c06071"
+4166,USA,Minnesota,Mora,55051,MN,"m27065,m27115"
+4169,USA,Massachusetts,Sudbury,01776,MA,m25017
+4171,USA,California,Seaside,93955,CA,c06053
+4173,USA,Washington,Mount Vernon,98273,WA,w53057
+4174,USA,Minnesota,Hector,55342,MN,"m27093,m27129"
+4175,USA,Idaho,Driggs,83422,ID,"i16065,i16081"
+4176,USA,Massachusetts,North Easton,02356,MA,"m25005,m25021"
+4179,USA,Florida,Cantonment,32533,FL,f12033
+4180,USA,Washington,Seattle,98115,WA,w53033
+4181,USA,Minnesota,Blackduck,56630,MN,"m27007,m27061"
+4182,USA,Minnesota,Minneota,56264,MN,"m27081,m27083,m27173"
+4183,USA,Arizona,Tucson,85716,AZ,a04019
+4186,USA,California,Alameda,94501,CA,c06001
+4187,USA,Illinois,Mount Vernon,62864,IL,i17081
+4188,USA,Georgia,Columbus,31906,GA,g13215
+4189,USA,Georgia,Jefferson,30549,GA,g13157
+4192,USA,Texas,Flower Mound,75022,TX,"t48121,t48439"
+4193,USA,Georgia,Austell,30106,GA,"g13067,g13097"
+4195,USA,Georgia,Rome,30161,GA,"g13015,g13115"
+4198,USA,Minnesota,Waconia,55387,MN,"m27019,m27053"
+4201,USA,California,El Segundo,90245,CA,c06037
+4203,USA,New York,Oneonta,13820,NY,"n36025,n36077"
+4205,USA,Washington,Sedro Woolley,98284,WA,"w53057,w53073"
+4206,USA,Texas,Fort Worth,76103,TX,t48439
+4207,USA,Minnesota,Victoria,55386,MN,"m27019,m27053"
+4212,USA,Illinois,Galesburg,61401,IL,"i17095,i17131,i17187"
+4213,USA,Illinois,Bloomington,61704,IL,i17113
+4215,USA,Minnesota,Saint Paul,55121,MN,m27037
+4216,USA,Michigan,Jackson,49202,MI,m26075
+4217,USA,Minnesota,Nashwauk,55769,MN,"m27061,m27137"
+4219,USA,Texas,San Antonio,78218,TX,t48029
+4225,USA,Minnesota,Saint Paul,55130,MN,m27123
+4226,USA,Minnesota,Albany,56307,MN,"m27097,m27145"
+4229,USA,Minnesota,Saint Paul,55117,MN,m27123
+4230,USA,Minnesota,Duluth,55811,MN,m27137
+4232,USA,Illinois,Alton,62002,IL,"i17117,i17119"
+4237,USA,Michigan,Stevensville,49127,MI,m26021
+4238,USA,Minnesota,Belgrade,56312,MN,"m27067,m27145"
+4239,USA,Minnesota,Willmar,56201,MN,m27067
+4240,USA,Georgia,Albany,31705,GA,"g13095,g13205,g13321"
+4241,USA,Illinois,Joliet,60436,IL,i17197
+4242,USA,District of Columbia,Washington,20003,DC,d11001
+4243,USA,South Carolina,Charleston,29401,SC,s45019
+4246,USA,Illinois,Troy,62294,IL,"i17119,i17163"
+4247,USA,Wisconsin,Milwaukee,53209,WI,w55079
+4255,USA,California,Monterey,93940,CA,c06053
+4256,USA,Missouri,TOWN AND COUNTRY,63017,MO,m29189
+4260,USA,Minnesota,Blue Earth Area,56013,MN,"m27043,m27091"
+4263,USA,New York,New York,10002,NY,n36061
+4265,USA,Tennessee,Oak Ridge,37830,TN,"t47001,t47093,t47145"
+4267,USA,South Carolina,Myrtle Beach,29588,SC,s45051
+4269,USA,Ohio,Columbus,43209,OH,o39049
+4270,USA,Hawaii,Honolulu,96816,HI,h15003
+4272,USA,Indiana,Lafayette,47909,IN,i18157
+4276,USA,California,Huntington Beach,92649,CA,c06059
+4277,USA,Minnesota,New Hope,55428,MN,m27053
+4281,USA,New Jersey,Somerset,08873,NJ,n34035
+4283,USA,Ohio,Granville,43023,OH,o39089
+4284,USA,Ohio,Cincinnati,45248,OH,o39061
+4285,USA,Pennsylvania,Honesdale,18431,PA,p42127
+4286,USA,Virginia,Mechanicsville,23111,VA,"v51085,v51127"
+4290,USA,North Carolina,Charlotte,28217,NC,n37119
+4291,USA,North Carolina,Henderson,27537,NC,"n37069,n37181,n37185"
+4292,USA,Illinois,Lockport,60441,IL,i17197
+4293,USA,Colorado,Highlands Ranch,80129,CO,"c08005,c08035"
+4295,USA,Texas,Lufkin,75904,TX,"t48005,t48455"
+4296,USA,Illinois,Gurnee,60031,IL,i17097
+4299,USA,New York,Brooklyn,11231,NY,n36047
+4301,USA,Texas,Odessa,79761,TX,t48135
+4306,USA,Tennessee,Franklin,37064,TN,"t47037,t47187"
+4309,USA,Washington,Snohomish,98290,WA,w53061
+4311,USA,Massachusetts,Swampscott,01907,MA,m25009
+4314,USA,Illinois,Springfield ,62703,IL,i17167
+4322,USA,California,Orange,92869,CA,c06059
+4325,USA,Michigan,Cassopolis,49031,MI,m26027
+4327,USA,Michigan,Battle Creek,49015,MI,"m26025,m26077"
+4328,USA,Texas,Richmond,77406,TX,t48157
+4329,USA,Missouri,Saint Peters,63376,MO,m29183
+4330,USA,Missouri,Saint Louis,63124,MO,m29189
+4332,USA,Texas,Edinburg,78541,TX,t48215
+4336,USA,Louisiana,Lafayette,70506,LA,l22055
+4337,USA,Michigan,Holton,49425,MI,"m26121,m26123,m26127"
+4342,USA,Pennsylvania,Kennett Square,19348,PA,p42029
+4348,USA,Utah,Tooele,84074,UT,u49045
+4356,USA,Missouri,Chaffee,63740,MO,"m29031,m29201"
+4360,USA,Minnesota,Moorhead,56560,MN,m27027
+4361,USA,New Jersey,Roxbury Township,07876,NJ,n34027
+4362,USA,Michigan,Brighton,48116,MI,m26093
+4364,USA,Texas,Stephenville,76401,TX,t48143
+4373,USA,Pennsylvania,Jenkintown,19046,PA,"p42091,p42101"
+4375,USA,Michigan,Ishpeming,49849,MI,m26103
+4376,USA,Michigan,Charlevoix,49720,MI,"m26009,m26029,m26047"
+4377,USA,Michigan,Boyne City,49712,MI,"m26009,m26029"
+4378,USA,Texas,El Paso,79935,TX,t48141
+4380,USA,Michigan,Detroit,48202,MI,m26163
+4381,USA,Michigan,Richland,49083,MI,"m26015,m26077"
+4382,USA,Michigan,Saginaw,48601,MI,m26145
+4383,USA,New York,Brooklyn,11213,NY,n36047
+4384,USA,Michigan,Troy,48083,MI,m26125
+4386,USA,Colorado,Brush,80723,CO,"c08087,c08121"
+4388,USA,Colorado,Fort Collins,80525,CO,c08069
+4390,USA,Michigan,Dearborn,48126,MI,m26163
+4391,USA,Michigan,Gladstone,49837,MI,m26041
+4392,USA,Michigan,Brimley,49715,MI,m26033
+4395,USA,Michigan,Dundee,48131,MI,m26115
+4398,USA,Michigan,Traverse City,49684,MI,"m26019,m26055,m26089"
+4405,USA,Michigan,Canton,48187,MI,m26163
+4408,USA,Michigan,Battle Creek,49017,MI,"m26015,m26025,m26077"
+4409,USA,Michigan,Niles,49120,MI,"m26021,m26027"
+4412,USA,Texas,San Antonio,78209,TX,t48029
+4414,USA,California,Ventura,93003,CA,c06111
+4415,USA,California,Cerritos,90703,CA,c06037
+4418,USA,Colorado,Highlands Ranch,80129,CO,"c08005,c08035"
+4450,USA,Washington,Olympia,98501,WA,w53067
+4451,USA,South Carolina,Laurens,29360,SC,s45059
+4453,USA,Michigan,Marshall,49068,MI,m26025
+4454,USA,Pennsylvania,Philadelphia,19103,PA,p42101
+4455,USA,Missouri,Warrensburg,64093,MO,m29101
+4456,USA,District of Columbia,Washington,20015,DC,d11001
+4458,USA,New York,Center Moriches,11934,NY,n36103
+4459,USA,Georgia,Lithia Springs,30122,GA,"g13067,g13097"
+4461,USA,Washington,Des Moines,98198,WA,w53033
+4462,USA,Tennessee,Kingston,37763,TN,t47145
+4464,USA,Maryland,Laurel,20707,MD,"m24031,m24033"
+4466,USA,Virginia,Culpeper,22701,VA,"v51047,v51113,v51137"
+4467,USA,Pennsylvania,Canonsburg,15317,PA,"p42003,p42125"
+4468,USA,Georgia,Atlanta,30312,GA,g13121
+4469,USA,Washington,Federal Way,98003,WA,w53033
+4470,USA,California,Placentia,92870,CA,c06059
+4471,USA,Florida,Hollywood,33021,FL,f12011
+4472,USA,Virginia,Woodbridge,22192,VA,v51153
+4473,USA,Maine,Farmingdale,04344,ME,m23011
+4480,USA,Minnesota,Upsala,56384,MN,m27097
+4482,USA,Michigan,Kalamazoo,49048,MI,m26077
+4485,USA,Indiana,Danville,46122,IN,i18063
+4486,USA,California,Vista,92083,CA,c06073
+4488,USA,Oregon,Hillsboro,97124,OR,"o41051,o41067"
+4496,USA,Arizona,Gilbert,85297,AZ,a04013
+4499,USA,Colorado,Fort Collins,80528,CO,c08069
+4500,USA,Missouri,Clayton,63105,MO,"m29189,m29510"
+4501,USA,California,Santa Monica,90404,CA,c06037
+4504,USA,Tennessee,Maryville,37803,TN,t47009
+4505,USA,Maryland,Owings Mills,21117,MD,m24005
+4506,USA,Minnesota,Saint Paul,55109,MN,"m27037,m27123,m27163"
+4508,USA,New York,Schuylerville,12871,NY,n36091
+4509,USA,Georgia,Sugar Hill,30518,GA,"g13135,g13139"
+4511,USA,Minnesota,Plymouth,55446,MN,m27053
+4512,USA,Washington,Everett,98203,WA,w53061
+4513,USA,Washington,Medical Lake,99022,WA,w53063
+4514,USA,Maryland,Huntingtown,20639,MD,m24009
+4516,USA,Georgia,Roswell,30075,GA,"g13057,g13067,g13121"
+4521,USA,Ohio,Harrison,45030,OH,"o39017,o39061"
+4522,USA,Missouri,Sedalia,65301,MO,"m29053,m29159"
+4523,USA,Oklahoma,Mayes County ,74361,OK,"o40097,o40131"
+4528,USA,New York,Queens,11367,NY,n36081
+4531,USA,Wisconsin,Two Rivers,54241,WI,w55071
+4533,USA,South Carolina,Mt Pleasant,29466,SC,"s45015,s45019"
+4534,USA,North Carolina,Wilmington,28403,NC,n37129
+4536,USA,Minnesota,Saint Paul,55104,MN,m27123
+4539,USA,Minnesota,Frazee,56544,MN,"m27005,m27111"
+4541,USA,Maryland,Severn,21144,MD,m24003
+4546,USA,New Hampshire,Dover,03820,NH,n33017
+4547,USA,Pennsylvania,Johnstown,15905,PA,"p42021,p42111"
+4549,USA,Minnesota,South Saint Paul,55075,MN,m27037
+4550,USA,Colorado,Greenwood Village ,80111,CO,"c08005,c08031"
+4557,USA,Connecticut,Middletown,06457,CT,c09007
+4561,USA,North Carolina,Research Triangle Park,27709,NC,n37063
+4562,USA,Florida,Dunnellon,34432,FL,f12083
+4564,USA,Maine,Brewer,04412,ME,m23019
+4565,USA,Arizona,Mesa,85208,AZ,a04013
+4567,USA,New York,Seaford,11783,NY,n36059
+4568,USA,Michigan,North Adams,49262,MI,m26059
+4571,USA,New York,New York,10029,NY,n36061
+4572,USA,Connecticut,Redding,06896,CT,c09001
+4573,USA,New Jersey,South River,08882,NJ,n34023
+4575,USA,Pennsylvania,Prospect Park,19076,PA,p42045
+4576,USA,Tennessee,Knoxville,37938,TN,"t47001,t47093,t47173"
+4578,USA,California,Los Angeles,90045,CA,c06037
+4579,USA,Washington,Federal Way,98003,WA,w53033
+4580,USA,Indiana,Indianapolis,46214,IN,i18097
+4582,USA,South Carolina,Myrtle Beach,29577,SC,s45051
+4583,USA,California,San Diego,92101,CA,c06073
+4585,USA,Utah,Midvale,84047,UT,u49035
+4587,USA,Texas,Houston,77040,TX,t48201
+4592,USA,Florida,Hollywood,33024,FL,f12011
+4593,USA,South Dakota,Rapid City,57701,SD,"s46093,s46103"
+4598,USA,Utah,Sandy,84094,UT,u49035
+4601,USA,Ohio,Canfield,44406,OH,o39099
+4607,USA,Minnesota,Becker,55308,MN,m27141
+4610,USA,Texas,Bastrop,78602,TX,t48021
+4611,USA,Ohio,Lewis Center,43035,OH,o39041
+4616,USA,California,San Diego,92154,CA,c06073
+4619,USA,California,Huntington Beach,92647,CA,c06059
+4622,USA,Florida,Land O Lakes,34639,FL,f12101
+4623,USA,Minnesota,Little Falls,56345,MN,m27097
+4624,USA,Minnesota,Owatonna,55060,MN,m27147
+4630,USA,Tennessee,Clinton,37716,TN,t47001
+4632,USA,Minnesota,Monticello,55362,MN,m27171
+4637,USA,Pennsylvania,Philadelphia,19136,PA,p42101
+4638,USA,Maryland,Germantown,20874,MD,m24031
+4639,USA,Texas,Katy,77494,TX,"t48157,t48201,t48473"
+4640,USA,New York,new york,10026,NY,n36061
+4641,USA,Texas,Red Oak,75154,TX,"t48113,t48139"
+4643,USA,California,Oroville,95966,CA,"c06007,c06115"
+4645,USA,Illinois,Chicago,60618,IL,i17031
+4646,USA,Iowa,Des Moines,50311,IA,i19153
+4648,USA,Minnesota,Jordan,55352,MN,m27139
+4652,USA,New Jersey,Ramsey,07446,NJ,n34003
+4653,USA,New Jersey,Ramsey,07446,NJ,n34003
+4655,USA,Illinois,Rockton,61072,IL,i17201
+4656,USA,Minnesota,Two Harbors,55616,MN,"m27075,m27137"
+4662,USA,Oregon,Scappoose,97056,OR,"o41009,o41051,o41067"
+4663,USA,Minnesota,Belle Plaine,56011,MN,"m27019,m27079,m27139,m27143"
+4664,USA,Minnesota,Andover,55304,MN,m27003
+4665,USA,Minnesota,Glencoe,55336,MN,"m27085,m27143"
+4669,USA,California,San Francisco,94109,CA,c06075
+4674,USA,Minnesota,Bemidji,56601,MN,"m27007,m27021,m27057"
+4680,USA,Michigan,Detroit,48209,MI,m26163
+4681,USA,Washington,Everett,98208,WA,w53061
+4682,USA,Washington,Seattle,98103,WA,w53033
+4683,USA,Washington,Marysville ,98271,WA,w53061
+4692,USA,Washington,Toutle,98649,WA,w53015
+4693,USA,Minnesota,Rockford,55373,MN,"m27053,m27171"
+4694,USA,Texas,Amarillo,79106,TX,"t48375,t48381"
+4698,USA,California,Sacramento,95864,CA,c06067
+4701,USA,Georgia,Savannah,31406,GA,g13051
+4702,USA,Illinois,Chicago,60640,IL,i17031
+4703,USA,Minnesota,Menahga,56464,MN,"m27005,m27021,m27057,m27111,m27159"
+4711,USA,California,Camarillo,93010,CA,c06111
+4715,USA,Michigan,Cooks,49817,MI,"m26041,m26153"
+4717,USA,Texas,Lubbock,79401,TX,t48303
+4728,USA,Minnesota,Cold Spring,56320,MN,m27145
+4730,USA,Georgia,Albany,31701,GA,"g13095,g13177"
+4734,USA,Texas,Lubbock,79413,TX,t48303
+4737,USA,Michigan,West Bloomfield,48323,MI,m26125
+4738,USA,California,San Diego,92119,CA,c06073
+4740,USA,Tennessee,Nashville,37216,TN,t47037
+4741,USA,Minnesota,Redwood Falls,56283,MN,"m27127,m27129"
+4748,USA,South Carolina,Charleston,29403,SC,s45019
+4749,USA,Georgia,Alpharetta,30022,GA,g13121
+4750,USA,New Jersey,Pennsauken,08109,NJ,n34007
+4758,USA,Michigan,Detroit,48206,MI,m26163
+4761,USA,Massachusetts,Reading,01867,MA,m25017
+4763,USA,California,Fullerton,92833,CA,c06059
+4764,USA,Tennessee,Memphis,38111,TN,t47157
+4765,USA,California,Los Altos Hills,94022,CA,c06085
+4768,USA,Michigan,Detroit,48228,MI,m26163
+4773,USA,New York,Bronx,10475,NY,"n36005,n36119"
+4776,USA,Michigan,Howell,48843,MI,m26093
+4778,USA,Minnesota,Chanhassen,55317,MN,"m27019,m27053"
+4779,USA,Michigan,Marine City,48039,MI,m26147
+4780,USA,Ohio,Cleveland,44129,OH,o39035
+4786,USA,Wisconsin,Milwaukee,53217,WI,"w55079,w55089"
+4787,USA,Illinois,Chicago,60625,IL,i17031
+4795,USA,North Carolina,Chapel Hill,27514,NC,n37135
+4796,USA,Massachusetts,Hyde Park,02136,MA,"m25021,m25025"
+4799,USA,Texas,Lazbuddie,79053,TX,t48369
+4804,USA,Wisconsin,Port Washington,53074,WI,w55089
+4809,USA,Missouri,Marceline,64658,MO,"m29041,m29115,m29121"
+4810,USA,Michigan,Clinton Township,48038,MI,m26099
+4811,USA,Michigan,Madison Heights,48071,MI,m26125
+4815,USA,Michigan,Center Line,48015,MI,m26099
+4816,USA,North Carolina,Raleigh,27613,NC,"n37063,n37183"
+4818,USA,North Dakota,West Fargo,58078,ND,n38017
+4819,USA,Michigan,Mount Pleasant,48858,MI,"m26073,m26111"
+4821,USA,District of Columbia,Washington,20011,DC,d11001
+4823,USA,South Carolina,Loris,29569,SC,s45051
+4827,USA,Michigan,Negaunee,49866,MI,m26103
+4828,USA,North Carolina,Raleigh,27606,NC,n37183
+4829,USA,North Carolina,Chapel Hill,27516,NC,"n37037,n37135"
+4835,USA,Michigan,Manistique,49854,MI,"m26041,m26153"
+4838,USA,Michigan,River Rouge,48218,MI,m26163
+4840,USA,Michigan,Redford,48240,MI,m26163
+4845,USA,Minnesota,Duluth,55811,MN,m27137
+4847,USA,South Carolina,Green Sea,29545,SC,s45051
+4851,USA,Michigan,Detroit,48214,MI,m26163
+4854,USA,Michigan,Detroit,48219,MI,"m26125,m26163"
+4855,USA,Michigan,South Haven,49090,MI,"m26005,m26159"
+4859,USA,Minnesota,Byron,55920,MN,"m27039,m27109"
+4904,USA,California,San Mateo,94403,CA,c06081
+4905,USA,Massachusetts,Ayer,01432,MA,m25017
+4906,USA,Maine,Waterville,04901,ME,m23011
+4908,USA,Massachusetts,Duxbury,02332,MA,m25023
+4909,USA,Massachusetts,Billerica,01821,MA,m25017
+4910,USA,Georgia,Marietta,30062,GA,g13067
+4911,USA,Washington,Seattle,98133,WA,w53033
+4913,USA,California,Anaheim,92801,CA,c06059
+4915,USA,Washington,Bainbridge Island,98110,WA,w53035
+4918,USA,Washington,Port Townsend,98368,WA,w53031
+4919,USA,California,Lemon Grove,91945,CA,c06073
+4924,USA,Tennessee,Chattanooga,37406,TN,t47065
+4925,USA,New Hampshire,Wolfeboro,03894,NH,n33003
+4926,USA,Indiana,Columbus,47201,IN,"i18005,i18013,i18071"
+4929,USA,Massachusetts,Haverhill,01830,MA,m25009
+4930,USA,New York,Buffalo,14216,NY,n36029
+4931,USA,Illinois,Edwardsville,62025,IL,i17119
+4935,USA,North Carolina,Charlotte,28273,NC,n37119
+4941,USA,Georgia,Macon,31210,GA,"g13021,g13207"
+4944,USA,Colorado,Grand Junction,81503,CO,c08077
+4949,USA,Maryland,Riverdale,20737,MD,m24033
+4956,USA,Michigan,Whitehall,49461,MI,m26121
+4958,USA,New Hampshire,Langdon,03609,NH,n33005
+4959,USA,Missouri,Kansas City,64156,MO,"m29047,m29095"
+4961,USA,Michigan,Almont,48003,MI,"m26087,m26147"
+4964,USA,California,Los Angeles,90033,CA,c06037
+4965,USA,South Carolina,Anderson,29621,SC,s45007
+4967,USA,Michigan,Belmont,49306,MI,m26081
+4970,USA,Michigan,Harris,49845,MI,m26109
+4973,USA,California,San Francisco,94115,CA,c06075
+4978,USA,Louisiana,Baton Rouge,70810,LA,l22033
+4980,USA,Washington,Kettle Falls,99141,WA,"w53019,w53065"
+4982,USA,Indiana,Fort Wayne,46814,IN,"i18003,i18183"
+4983,USA,Michigan,Mancelona,49659,MI,"m26009,m26079"
+4984,USA,California,Temecula,92592,CA,"c06065,c06073"
+4987,USA,Massachusetts,Worcester,01604,MA,m25027
+4988,USA,Michigan,Cedarville,49719,MI,"m26033,m26097"
+4990,USA,California,Hillsborough,94010,CA,c06081
+4991,USA,Pennsylvania,Bridgeville,15017,PA,"p42003,p42125"
+4994,USA,Michigan,Kingston,48741,MI,"m26151,m26157"
+4998,USA,Michigan,Flint,48502,MI,m26049
+4999,USA,California,Long Beach,90803,CA,c06037
+5000,USA,Massachusetts,Hingham,02043,MA,"m25021,m25023"
+5002,USA,Tennessee,Collierville,38017,TN,"t47047,t47157"
+5003,USA,Wisconsin,Onalaska,54650,WI,w55063
+5005,USA,Tennessee,Chattanooga,37411,TN,t47065
+5006,USA,Arkansas,Fayetteville,72753,AR,a05143
+5010,USA,Indiana,Fishers,46038,IN,i18057
+5012,USA,California,Palmdale,93550,CA,c06037
+5013,USA,Missouri,Kansas City,64153,MO,m29165
+5016,USA,New York,Huntington,11743,NY,n36103
+5019,USA,Wisconsin,West Salem,54669,WI,w55063
+5022,USA,Tennessee,Jonesborough,37659,TN,"t47163,t47179"
+5025,USA,California,San Diego,92130,CA,c06073
+5026,USA,California,Burlingame,94010,CA,c06081
+5027,USA,California,San Jose,95111,CA,c06085
+5030,USA,New York,Utica,13502,NY,"n36043,n36065"
+5041,USA,Iowa,West Branch,52358,IA,"i19031,i19103"
+5045,USA,Tennessee,Memphis,38117,TN,t47157
+5046,USA,Michigan,Memphis,48041,MI,"m26099,m26147"
+5047,USA,Texas,El Paso,79907,TX,t48141
+5048,USA,Michigan,Imlay City,48444,MI,"m26087,m26147"
+5049,USA,Nevada,Las Vegas,89156,NV,n32003
+5050,USA,Michigan,Carleton,48117,MI,"m26115,m26163"
+5052,USA,Texas,Cedar Park,78613,TX,"t48453,t48491"
+5053,USA,Michigan,Waterford,48329,MI,m26125
+5056,USA,Michigan,Buchanan,49107,MI,m26021
+5057,USA,Texas,Dallas,75203,TX,t48113
+5058,USA,Tennessee,Chattanooga,37404,TN,t47065
+5059,USA,Arizona,Globe,85501,AZ,a04007
+5060,USA,Missouri,Farmington,63640,MO,"m29123,m29186,m29187"
+5063,USA,South Carolina,Aynor,29511,SC,s45051
+5065,USA,Michigan,Detroit,48212,MI,m26163
+5066,USA,Michigan,Saline,48176,MI,"m26091,m26161"
+5067,USA,Michigan,Ann Arbor,48108,MI,m26161
+5069,USA,Michigan,Edwardsburg,49112,MI,m26027
+5070,USA,Texas,Houston,77245,TX,t48201
+5071,USA,Utah,Draper,84020,UT,"u49035,u49049"
+5072,USA,Michigan,De Tour Village,49725,MI,m26033
+5074,USA,Georgia,Norcross,30093,GA,"g13089,g13135"
+5082,USA,Missouri,Kansas City,64118,MO,"m29047,m29095,m29165"
+5084,USA,Michigan,Corunna,48817,MI,m26155
+5085,USA,Oregon,Blachly,97412,OR,o41039
+5086,USA,Michigan,Cadillac,49601,MI,"m26085,m26113,m26165"
+5089,USA,California,Los Angeles,90042,CA,c06037
+5090,USA,Michigan,Trenton,48183,MI,m26163
+5096,USA,Wisconsin,Germantown,53022,WI,"w55089,w55131,w55133"
+5098,USA,Missouri,Kansas City,64116,MO,m29047
+5099,USA,New York,Northport,11768,NY,n36103
+5102,USA,California,Santa Maria,93454,CA,"c06079,c06083"
+5103,USA,Texas,New Braunfels,78130,TX,"t48091,t48187,t48209"
+5104,USA,California,Pacific Grove,93950,CA,c06053
+5107,USA,California,Upland,91786,CA,"c06037,c06071"
+5109,USA,Georgia,Johns Creek,30022,GA,g13121
+5110,USA,Michigan,Elk Rapids,49629,MI,m26009
+5112,USA,Rhode Island,North Scituate,02857,RI,r44007
+5113,USA,New Jersey,Moorestown,08057,NJ,n34005
+5114,USA,Michigan,Fenton,48430,MI,"m26049,m26093,m26125"
+5115,USA,Maryland,Silver Spring,20906,MD,m24031
+5119,USA,Kansas,Lawrence,66046,KS,k20045
+5123,USA,New York,Yonkers,10705,NY,"n36005,n36119"
+5124,USA,California,Torrance,90503,CA,c06037
+5125,USA,Illinois,Chicago,60609,IL,i17031
+5126,USA,Missouri,Riverside,64150,MO,"m29047,m29165"
+5130,USA,South Carolina,LIttle River,29566,SC,s45051
+5132,USA,Georgia,Winder,30680,GA,"g13013,g13135,g13157,g13219"
+5134,USA,California,Clovis,93619,CA,c06019
+5136,USA,California,Santa Ynez,93460,CA,c06083
+5137,USA,California,San Marcos,92069,CA,c06073
+5141,USA,Missouri,Kansas City,64119,MO,"m29047,m29095"
+5142,USA,Connecticut,West Haven,06516,CT,c09009
+5143,USA,Minnesota,Grand Rapids,55744,MN,m27061
+5145,USA,Florida,Gainesville,32608,FL,f12001
+5147,USA,Missouri,Fulton,65251,MO,m29027
+5148,USA,Wisconsin,New Berlin,53146,WI,w55133
+5149,USA,New York,Troy,12180,NY,n36083
+5150,USA,Michigan,Flint,48506,MI,m26049
+5152,USA,Michigan,Otsego,49078,MI,"m26005,m26077,m26159"
+5155,USA,Michigan,Ubly,48475,MI,"m26063,m26151"
+5156,USA,Michigan,Pigeon,48755,MI,m26063
+5159,USA,Utah,Salt Lake City,84121,UT,u49035
+5160,USA,North Carolina,Cary,27513,NC,n37183
+5161,USA,Michigan,Plainwell,49080,MI,"m26005,m26015,m26077"
+5162,USA,Michigan,Big Rapids,49307,MI,"m26107,m26123"
+5166,USA,Michigan,Freeland,48623,MI,"m26017,m26111,m26145"
+5167,USA,Michigan,Marysville,48040,MI,m26147
+5168,USA,Louisiana,New Orleans,70119,LA,l22071
+5171,USA,California,Monterey,93940,CA,c06053
+5172,USA,Minnesota,Greenbush,56726,MN,m27135
+5173,USA,Michigan,Fennville,49408,MI,m26005
+5176,USA,Missouri,Saint Louis,63130,MO,"m29189,m29510"
+5181,USA,Pennsylvania,Wyndmoor,19038,PA,p42091
+5182,USA,Michigan,Dowagiac,49047,MI,"m26021,m26027,m26159"
+5183,USA,Michigan,Gaylord,49735,MI,m26137
+5186,USA,Tennessee,Antioch,37013,TN,t47037
+5188,USA,Indiana,Terre Haute,47803,IN,"i18021,i18167"
+5189,USA,Kansas,Kansas City,66101,KS,k20209
+5190,USA,North Carolina,Cary,27519,NC,"n37037,n37183"
+5193,USA,Michigan,Saginaw,48602,MI,m26145
+5194,USA,Michigan,Gobles,49055,MI,"m26005,m26159"
+5196,USA,Florida,Pompano Beach,33076,FL,f12011
+5197,USA,Michigan,Detroit,48208,MI,m26163
+5198,USA,Oregon,Grants Pass,97526,OR,"o41029,o41033"
+5199,USA,California,San Juan Capistrano,92675,CA,c06059
+5202,USA,New York,New Rochelle,10804,NY,n36119
+5203,USA,Michigan,Sanford,48657,MI,m26111
+5204,USA,Michigan,Three Rivers,49093,MI,"m26027,m26149"
+5205,USA,Michigan,Concord,49237,MI,"m26025,m26075"
+5212,USA,Texas,Denton,76203,TX,t48121
+5213,USA,Michigan,Saint Ignace,49781,MI,m26097
+5214,USA,Michigan,Saint Clair Shores,48080-2183,MI,"m26099,m26163"
+5215,USA,Michigan,Frankenmuth,48734,MI,"m26145,m26157"
+5216,USA,Michigan,Essexville,48732,MI,m26017
+5217,USA,Michigan,Dearborn,48126,MI,m26163
+5219,USA,Georgia,East Point,30344,GA,"g13063,g13121"
+5222,USA,Michigan,Saginaw,48602,MI,m26145
+5224,USA,Michigan,Standish,48658,MI,"m26011,m26017"
+5225,USA,Michigan,Eastpointe,48021,MI,m26099
+5227,USA,Michigan,Schoolcraft,49087,MI,"m26077,m26149,m26159"
+5229,USA,Michigan,Saginaw,48603,MI,m26145
+5230,USA,Michigan,Alpena ,49707,MI,"m26007,m26141"
+5231,USA,Michigan,Shepherd,48883,MI,"m26057,m26073,m26111"
+5232,USA,Minnesota,Hermantown,55811,MN,m27137
+5234,USA,Michigan,Elsie,48831,MI,"m26037,m26057,m26145,m26155"
+5235,USA,Michigan,Chesaning,48616,MI,"m26145,m26155"
+5238,USA,Michigan,Otisville,48463,MI,"m26049,m26087"
+5239,USA,Michigan,Harper Woods,48225,MI,m26163
+5242,USA,Texas,Dallas,75214,TX,t48113
+5243,USA,Virginia,Clifton,20124,VA,v51059
+5247,USA,Michigan,East Jordan,49727,MI,"m26009,m26029"
+5248,USA,Michigan,Hastings,49058,MI,m26015
+5250,USA,California,Sacramento,95827,CA,c06067
+5253,USA,Minnesota,Bigfork,56628,MN,m27061
+5254,USA,New York,Trumansburg,14886,NY,"n36097,n36099,n36109"
+5256,USA,Michigan,Lake Odessa,48849,MI,"m26015,m26045,m26067"
+5257,USA,Michigan,Coleman,48618,MI,"m26051,m26073,m26111"
+5260,USA,Michigan,Owosso,48867,MI,"m26145,m26155"
+5261,USA,Texas,Humble,77338,TX,t48201
+5263,USA,Michigan,Riverview,48193,MI,m26163
+5265,USA,Maine,Portland,04103,ME,m23005
+5268,USA,Kansas,Olathe,66062,KS,k20091
+5274,USA,California,Sacramento,95827,CA,c06067
+5275,USA,Minnesota,New Prague,56071,MN,"m27079,m27131,m27139"
+5276,USA,Florida,Tampa,33612,FL,f12057
+5278,USA,Minnesota,Minneapolis,55408,MN,m27053
+5279,USA,Virginia,Altavista,24517,VA,v51031
+5282,USA,Michigan,Durand,48429,MI,"m26049,m26155"
+5283,USA,Florida,Tampa,33610,FL,f12057
+5285,USA,California,Palos Verdes Estates,90274,CA,c06037
+5290,USA,Minnesota,Forest Lake,55025,MN,"m27003,m27025,m27163"
+5293,USA,Georgia,Duluth,30096,GA,g13135
+5295,USA,Washington,Shelton,98584,WA,w53045
+5298,USA,New York,Astoria,11106,NY,n36081
+5299,USA,Minnesota,Red Wing,55066,MN,m27049
+5310,USA,New Jersey,East Orange,07017,NJ,n34013
+5314,USA,Michigan,Pellston,49769,MI,"m26031,m26047"
+5316,USA,Michigan,Saranac,48881,MI,m26067
+5317,USA,South Carolina,Blythewood,29016,SC,"s45039,s45079"
+5326,USA,Missouri,St. Louis,63131,MO,m29189
+5327,USA,South Carolina,Winnsboro,29180,SC,"s45039,s45079"
+5329,USA,Florida,Miami,33199,FL,f12086
+5332,USA,Georgia,Decatur,30030,GA,g13089
+5338,USA,Virginia,Leesburg,20175,VA,v51107
+5339,USA,Minnesota,Houston,55943,MN,"m27055,m27169"
+5340,USA,Minnesota,Minneapolis,55403,MN,m27053
+5348,USA,Minnesota,Cokato,55321,MN,"m27093,m27171"
+5350,USA,Illinois,Chicago,60612,IL,i17031
+5401,USA,Pennsylvania,Bensalem,19020,PA,p42017
+5402,USA,Indiana,Walton,46994,IN,i18017
+5403,USA,Indiana,Bedford,47421,IN,"i18093,i18105"
+5404,USA,Pennsylvania,Lansdale,19446,PA,p42091
+5407,USA,Pennsylvania,Conshohocken,19428,PA,p42091
+5410,USA,Florida,Pompano Beach,33073,FL,f12011
+5411,USA,Texas,Prosper,75078,TX,"t48085,t48121"
+5413,USA,Ohio,Shelby,44875,OH,"o39033,o39139"
+5414,USA,Texas,Pearland,77584,TX,"t48039,t48157"
+5417,USA,Texas,Allen,75013,TX,t48085
+5418,USA,Ohio,Hubbard,44425,OH,"o39099,o39155"
+5419,USA,California,Berkeley,94704,CA,c06001
+5420,USA,New Jersey,Bridgeton,08302,NJ,"n34011,n34033"
+5421,USA,New York,New York,10075,NY,n36061
+5422,USA,Massachusetts,Westford,01886,MA,m25017
+5424,USA,Michigan,Midland,48642,MI,"m26017,m26111"
+5427,USA,Texas,Katy,77494,TX,"t48157,t48201,t48473"
+5429,USA,Nevada,Las Vegas,89113,NV,n32003
+5430,USA,California,Pittsburg,94565,CA,c06013
+5431,USA,Texas,Plano,75075,TX,t48085
+5434,USA,Minnesota,Faribault,55021,MN,"m27131,m27147"
+5436,USA,Michigan,Rochester,48306,MI,"m26099,m26125"
+5437,USA,Arkansas,Booneville,72927,AR,"a05083,a05127,a05131"
+5438,USA,New Jersey,Jersey City,07302,NJ,n34017
+5442,USA,Illinois,Washington,61571,IL,"i17179,i17203"
+5448,USA,Michigan,Big Rapids,49307,MI,"m26107,m26123"
+5450,USA,Oregon,Saint Helens,97051,OR,o41009
+5454,USA,Arkansas,Rogers,72758,AR,a05007
+5457,USA,New Jersey,Burlington,08016,NJ,n34005
+5458,USA,California,Woodland,95695,CA,c06113
+5459,USA,Massachusetts,Ipswich,01938,MA,m25009
+5460,USA,Michigan,Lapeer,48446,MI,m26087
+5461,USA,Idaho,Boise,83704,ID,i16001
+5462,USA,Michigan,Paw Paw,49079,MI,m26159
+5464,USA,Minnesota,Cambridge,55008,MN,"m27025,m27059"
+5465,USA,Arizona,Chandler,85224,AZ,a04013
+5467,USA,Michigan,Dearborn,48126,MI,m26163
+5468,USA,Oregon,Bend,97703,OR,o41017
+5470,USA,Michigan,Coopersville,49404,MI,"m26121,m26139"
+5472,USA,Florida,Delray Beach,33484,FL,f12099
+5473,USA,Michigan,Grand Rapids,49512,MI,m26081
+5474,USA,California,San Diego,92117,CA,c06073
+5477,USA,California,San Diego,92123,CA,c06073
+5478,USA,Michigan,Detroit,48234,MI,m26163
+5480,USA,Nevada,Reno,89509,NV,n32031
+5482,USA,Georgia,Atlanta,30327,GA,g13121
+5484,USA,Indiana,South Bend,46628,IN,i18141
+5486,USA,Michigan,Lake Linden,49945,MI,"m26061,m26083"
+5490,USA,Pennsylvania,Bethlehem,18020,PA,p42095
+5491,USA,Massachusetts,Winchendon,01475,MA,m25027
+5492,USA,Kentucky,Louisville,40208,KY,k21111
+5493,USA,Colorado,Englewood,80113,CO,c08005
+5494,USA,Massachusetts,Holbrook,02343,MA,m25021
+5496,USA,California,Vacaville,95687,CA,c06095
+5498,USA,Michigan,Grosse Ile,48138,MI,m26163
+5499,USA,California,Berkeley,94704,CA,c06001
+5500,USA,California,Long Beach,90810,CA,c06037
+5501,USA,Michigan,Burr Oak,49030,MI,"m26023,m26149"
+5502,USA,Michigan,Jonesville,49242,MI,m26059
+5503,USA,Texas,Smithville,78957,TX,"t48021,t48149"
+5504,USA,Michigan,Pinconning ,48650,MI,"m26011,m26017"
+5505,USA,Michigan,Alpena,49707,MI,"m26007,m26141"
+5507,USA,California,San Francisco,94121,CA,c06075
+5509,USA,Michigan,Midland,48642,MI,"m26017,m26111"
+5510,USA,California,Los Angeles,90034,CA,c06037
+5511,USA,North Carolina,Cary,27519,NC,"n37037,n37183"
+5514,USA,California,Carlsbad,92009,CA,c06073
+5517,USA,Michigan,Burton,48519,MI,m26049
+5518,USA,North Carolina,Apex,27539,NC,n37183
+5523,USA,Michigan,Grass Lake,49240,MI,"m26075,m26161"
+5524,USA,Michigan,Birch Run,48415,MI,"m26049,m26145,m26157"
+5525,USA,Michigan,Lincoln,48742,MI,m26001
+5527,USA,Michigan,Flint,48503,MI,m26049
+5530,USA,Michigan,Ann Arbor,48105,MI,m26161
+5531,USA,Michigan,Dearborn,48124,MI,m26163
+5532,USA,Michigan,Detroit,48202,MI,m26163
+5533,USA,Michigan,Clio,48420,MI,"m26049,m26145,m26157"
+5534,USA,Michigan,Onaway,49765,MI,"m26031,m26141"
+5535,USA,Michigan,New Buffalo,49117,MI,m26021
+5538,USA,Michigan,Saginaw,48609,MI,m26145
+5539,USA,Arizona,Tucson,85706,AZ,a04019
+5541,USA,Minnesota,Shakopee,55379,MN,m27139
+5542,USA,Minnesota,Buffalo,55313,MN,m27171
+5544,USA,North Carolina,Vass,28394,NC,n37125
+5546,USA,Virginia,Petersburg,23803,VA,"v51041,v51053,v51149,v51730"
+5547,USA,Michigan,Hale,48739,MI,"m26069,m26129"
+5549,USA,Virginia,Falls Church,22043,VA,v51059
+5550,USA,Oklahoma,Bethany,73008,OK,o40109
+5555,USA,Michigan,Warren,48091,MI,m26099
+5556,USA,Massachusetts,Amesbury,01913,MA,m25009
+5557,USA,Florida,Miami,33156,FL,f12086
+5559,USA,Michigan,Camden,49232,MI,m26059
+5560,USA,Michigan,Central Lake,49622,MI,m26009
+5561,USA,Michigan,Flushing,48433,MI,"m26049,m26155"
+5562,USA,Michigan,Maple City,49664,MI,"m26019,m26089"
+5563,USA,Massachusetts,Lynn,01902,MA,m25009
+5567,USA,Michigan,Milan,48160,MI,"m26091,m26115,m26161"
+5568,USA,Arkansas,Bentonville,72712,AR,a05007
+5572,USA,Texas,San Antonio,78213,TX,t48029
+5576,USA,Iowa,Spirit Lake,51360,IA,i19059
+5577,USA,Michigan,Detroit,48209,MI,m26163
+5578,USA,Oklahoma,Oklahoma City,73111,OK,"o40027,o40109"
+5583,USA,Missouri,Saint Louis,63108,MO,m29510
+5585,USA,New York,Edmeston,13335,NY,n36077
+5586,USA,Wisconsin,Kiel,53042,WI,"w55015,w55071,w55117"
+5587,USA,Virginia,Alexandria,22302,VA,"v51059,v51510"
+5588,USA,Washington,Seattle,98112,WA,w53033
+5590,USA,New York,Buffalo,14223,NY,n36029
+5599,USA,New York,Bayside,11364,NY,n36081
+5603,USA,Michigan,Auburn,48611,MI,m26017
+5607,USA,North Carolina,Raleigh,27614,NC,n37183
+5608,USA,Georgia,Marietta,30066,GA,"g13057,g13067"
+5610,USA,Michigan,Saugatuck,49453,MI,m26005
+5612,USA,Michigan,Burton,48509,MI,m26049
+5613,USA,New Mexico,Alamogordo,88310,NM,n35035
+5616,USA,Florida,Fort Walton Beach,32547,FL,f12091
+5619,USA,Michigan,Detroit,48235,MI,m26163
+5621,USA,Oklahoma,Edmond,73003,OK,o40109
+5622,USA,Michigan,Stanton,48888,MI,m26117
+5623,USA,Michigan,Galesburg,49053,MI,m26077
+5624,USA,New Jersey,South Plainfield,07080,NJ,"n34023,n34039"
+5626,USA,Minnesota,Norwood Young America,55368,MN,"m27019,m27085"
+5627,USA,California,San Diego,92154,CA,c06073
+5632,USA,Georgia,Appling,30802,GA,"g13073,g13189"
+5633,USA,Maine,Bath,04530,ME,m23023
+5634,USA,California,Lakewood,90713,CA,c06037
+5637,USA,Minnesota,Minneapolis,55411,MN,m27053
+5638,USA,Minnesota,Madison,56256,MN,"m27073,m27173"
+5641,USA,Michigan,Byron,48418,MI,"m26049,m26093,m26155"
+5651,USA,Georgia,Atlanta,30316,GA,"g13089,g13121"
+5653,USA,Minnesota,Babbitt,55706,MN,m27137
+5657,USA,Wyoming,Lusk,82225,WY,"w56015,w56027"
+5658,USA,Minnesota,Stephen,56757,MN,m27089
+5659,USA,New York,Bridgehampton,11932,NY,n36103
+5660,USA,Michigan,Burton,48519,MI,m26049
+5661,USA,Michigan,Whittemore,48770,MI,"m26011,m26069,m26129"
+5662,USA,Michigan,Dryden,48428,MI,"m26087,m26125"
+5666,USA,New Jersey,Trenton,08611,NJ,n34021
+5667,USA,Ohio,New Albany,43054,OH,"o39041,o39049,o39089"
+5669,USA,California,Rosemead,91770,CA,c06037
+5674,USA,Michigan,Eaton Rapids,48827,MI,"m26045,m26065,m26075"
+5675,USA,Michigan,Mattawan,49071,MI,"m26077,m26159"
+5676,USA,Michigan,Hillsdale,49242,MI,m26059
+5678,USA,California,Valley Glen,91606,CA,c06037
+5679,USA,North Carolina,Winston Salem,27101,NC,n37067
+5681,USA,Texas,San Antonio,78252,TX,t48029
+5682,USA,Texas,Mesquite,75150,TX,t48113
+5683,USA,Washington,Auburn,98002,WA,w53033
+5684,USA,New Jersey,Trenton,08610,NJ,"n34005,n34021"
+5685,USA,Michigan,Litchfield,49252,MI,"m26023,m26025,m26059,m26075"
+5686,USA,Connecticut,Simsbury,06070,CT,c09003
+5687,USA,Maine,Portland,04101,ME,m23005
+5688,USA,Michigan,Pittsford,49271,MI,m26059
+5690,USA,Minnesota,Esko,55733,MN,"m27017,m27137"
+5695,USA,Michigan,Redford,48239,MI,m26163
+5697,USA,Michigan,Bridgeport,48722,MI,m26145
+5700,USA,California,San Francisco,94131,CA,c06075
+5702,USA,Michigan,Wilson,49896,MI,m26109
+5704,USA,Michigan,Lansing,48906,MI,"m26037,m26045,m26065"
+5706,USA,Michigan,Newberry,49868,MI,"m26033,m26095"
+5708,USA,Michigan,Ann Arbor,48103,MI,m26161
+5709,USA,Michigan,Rudyard,49780,MI,"m26033,m26097"
+5710,USA,Michigan,Charlotte,48813,MI,"m26025,m26045"
+5712,USA,Michigan,Hemlock,48626,MI,"m26111,m26145"
+5714,USA,Michigan,Brimley,49715,MI,m26033
+5720,USA,Minnesota,Hinckley,55037,MN,"m27065,m27115"
+5722,USA,Florida,Santa Rosa Beach,32459,FL,f12131
+5724,USA,Virginia,Salem,24153,VA,"v51161,v51770,v51775"
+5726,USA,Texas,San Antonio,78214,TX,t48029
+5727,USA,North Carolina,Spindale,28160,NC,n37161
+5728,USA,California,Santa Rosa,95409,CA,c06097
+5729,USA,Arkansas,De Witt,72042,AR,a05001
+5730,USA,Missouri,Monett,65708,MO,"m29009,m29109"
+5732,USA,New Jersey,Bloomfield,07003,NJ,n34013
+5734,USA,Georgia,Augusta,30906,GA,g13245
+5735,USA,Massachusetts,Wayland,01778,MA,m25017
+5736,USA,New York,Kings Park,11754,NY,n36103
+5740,USA,Pennsylvania,Cranberry Township,16066,PA,p42019
+5744,USA,Tennessee,Knoxville,37914,TN,t47093
+5746,USA,Connecticut,Deep River,06417,CT,c09007
+5752,USA,Massachusetts,Beverly,01915,MA,m25009
+5753,USA,Florida,St. Augustine,32084,FL,"f12031,f12109"
+5754,USA,Texas,San Antonio,78235,TX,t48029
+5756,USA,Michigan,Detroit,48216,MI,m26163
+5762,USA,North Carolina,Louisburg,27549,NC,n37069
+5763,USA,Colorado,Broomfield,80023,CO,"c08001,c08014"
+5774,USA,Michigan,Flint,48505,MI,m26049
+5777,USA,South Carolina,Sumter,29150,SC,s45085
+5783,USA,New Mexico,Eunice,88231,NM,n35025
+5785,USA,Louisiana,Baton Rouge,70808,LA,l22033
+5801,USA,Missouri,Independence,64058,MO,m29095
+5802,USA,California,Los Angeles,90033,CA,c06037
+5803,USA,Washington,Seattle,98188,WA,w53033
+5804,USA,Virginia,Henrico,23229,VA,v51087
+5805,USA,California,Rancho Santa Margarita,92688,CA,c06059
+5806,USA,New York,Bronx,10471,NY,n36005
+5809,USA,Missouri,Kansas City,64114,MO,"m29047,m29095"
+5810,USA,California,Santa Fe Springs,90670,CA,c06037
+5811,USA,Ohio,Dayton,45409,OH,o39113
+5813,USA,New Hampshire,Concord,03301,NH,n33013
+5816,USA,Florida,Orlando,32809,FL,f12095
+5817,USA,California,Sanger,93657,CA,c06019
+5818,USA,California,Santa Barbara,93101,CA,c06083
+5822,USA,Illinois,Chicago,60608,IL,i17031
+5826,USA,Wisconsin,Chippewa Falls,54729,WI,"w55017,w55035"
+5827,USA,Washington,Kirkland,98033,WA,w53033
+5828,USA,Georgia,Albany,31707,GA,"g13095,g13177"
+5829,USA,Texas,Houston,77055,TX,t48201
+5830,USA,Maryland,Gambrills,21054,MD,m24003
+5835,USA,California,Newport Coast,92657,CA,c06059
+5836,USA,Missouri,Saint Louis,63135,MO,m29189
+5837,USA,Iowa,Waterloo,50703,IA,i19013
+5840,USA,Georgia,Dawson,39842,GA,"g13037,g13095,g13177,g13273"
+5841,USA,Maryland,Frederick,21701,MD,m24021
+5842,USA,Florida,New Port Richey,34654,FL,f12101
+5843,USA,Michigan,East China,48054,MI,m26147
+5846,USA,Massachusetts,North Dartmouth,02747,MA,m25005
+5847,USA,Illinois,Bradley,60915,IL,i17091
+5848,USA,Georgia,Edison,39846,GA,"g13037,g13061,g13243"
+5851,USA,California,Downey,90241,CA,c06037
+5852,USA,California,Merced,95340,CA,c06047
+5853,USA,Michigan,Ypsilanti,48197,MI,m26161
+5854,USA,North Carolina,Asheville,28804,NC,n37021
+5856,USA,Connecticut,Waterbury,06705,CT,c09009
+5857,USA,California,Walnut,91789,CA,c06037
+5858,USA,Alabama,Huntsville,35806,AL,a01089
+5860,USA,Michigan,Algonac,48001,MI,m26147
+5863,USA,Louisiana,Brusly,70719,LA,l22121
+5866,USA,Texas,Wolfforth,79382,TX,t48303
+5869,USA,California,Quartz Hill,93536,CA,"c06029,c06037"
+5871,USA,Idaho,Boise,83725-1155,ID,i16001
+5872,USA,Florida,Davie,33325,FL,f12011
+5875,USA,Nevada,Fernley,89408,NV,"n32001,n32019"
+5878,USA,Michigan,Mackinac Island,49757,MI,m26097
+5881,USA,New York,Albany,12203,NY,n36001
+5888,USA,Texas,Lubbock,79410,TX,t48303
+5889,USA,Oklahoma,Tulsa,74114,OK,o40143
+5891,USA,New York,New York,10035,NY,n36061
+5892,USA,Texas,Houston,77004,TX,t48201
+5894,USA,Texas,Edinburg,78541,TX,t48215
+5895,USA,New Jersey,Hightstown,08520,NJ,"n34021,n34023,n34025"
+5900,USA,Georgia,Dalton,30721,GA,"g13129,g13213,g13313"
+5901,USA,Michigan,Detroit,48210,MI,m26163
+5902,USA,New Hampshire,Portsmouth,03801,NH,n33015
+5903,USA,Wisconsin,Westby,54667,WI,"w55063,w55123"
+5906,USA,Nebraska,Bennington,68007,NE,"n31055,n31177"
+5907,USA,Michigan,Novi,48374,MI,m26125
+5908,USA,Texas,Stafford,77477,TX,"t48157,t48201"
+5913,USA,Minnesota,Pequot Lakes,56472,MN,"m27021,m27035"
+5914,USA,Minnesota,Caledonia,55921,MN,m27055
+5915,USA,Michigan,Detroit,48216,MI,m26163
+5918,USA,Missouri,Kansas City,64111,MO,m29095
+5919,USA,North Carolina,Smithfield,27577,NC,n37101
+5920,USA,Washington,Palouse,99161,WA,w53075
+5923,USA,Texas,Angleton,77515,TX,t48039
+5924,USA,California,San Francisco,94116,CA,c06075
+5926,USA,Michigan,Port Huron,48060,MI,m26147
+5927,USA,Michigan,Zeeland,49464,MI,"m26005,m26139"
+5929,USA,Minnesota,Lake Park,56554,MN,"m27005,m27027"
+5930,USA,Oklahoma,Newcastle,73065,OK,"o40051,o40087,o40109"
+5933,USA,Utah,Salt Lake City,84102,UT,u49035
+5934,USA,Illinois,DeKalb,60115,IL,i17037
+5935,USA,Iowa,Grinnell,50112,IA,"i19099,i19157"
+5937,USA,Washington,Mercer Island,98040,WA,w53033
+5940,USA,California,Redwood City,94065,CA,c06081
+5943,USA,New York,Carmel,10512,NY,"n36027,n36079"
+5944,USA,Indiana,Mooresville,46158,IN,"i18063,i18109"
+5945,USA,Maryland,Fulton,20759,MD,m24027
+5949,USA,Florida,Delray Beach,33445,FL,f12099
+5950,USA,Virginia,Dry Fork,24549,VA,v51143
+5954,USA,Virginia,Victoria,23974,VA,v51111
+5957,USA,Virginia,Newport News,23605,VA,"v51650,v51700"
+5960,USA,Texas,Mission,78572,TX,t48215
+5962,USA,Massachusetts,Lowell,01853,MA,m25017
+5963,USA,Michigan,Grand Rapids,49504,MI,m26081
+5964,USA,New York,Voorheesville,12186,NY,n36001
+5965,USA,Louisiana,Marrero,70072,LA,l22051
+5966,USA,California,Huntington Beach,92648,CA,c06059
+5968,USA,Kansas,Manhattan,66502,KS,"k20061,k20149,k20161,k20197"
+5970,USA,Oregon,Beaverton,97005,OR,o41067
+5971,USA,Louisiana,Metairie,70001,LA,l22051
+5973,USA,Ohio,Gates Mills,44040,OH,"o39035,o39055"
+5974,USA,Utah,Salt Lake City,84123,UT,u49035
+5975,USA,Oregon,Portland,97201,OR,o41051
+5976,USA,Wisconsin,Waukesha,53186,WI,w55133
+5977,USA,Oregon,Portland,97217,OR,o41051
+5980,USA,Michigan,Grand Rapids,49506,MI,m26081
+5982,USA,Michigan,Merrill,48637,MI,"m26057,m26111,m26145"
+5986,USA,Texas,San Antonio,78215,TX,t48029
+5989,USA,Michigan,Ewen,49925,MI,m26131
+5991,USA,Minnesota,Westbrook,56183,MN,"m27033,m27101"
+5992,USA,New Jersey,West Orange,07052,NJ,n34013
+5997,USA,Louisiana,St. Gabriel,70776,LA,l22047
+5998,USA,Minnesota,International Falls,56649,MN,m27071
+5999,USA,Minnesota,Milaca,56353,MN,"m27059,m27065,m27095,m27097"
+6000,USA,California,Los Angeles,90036,CA,c06037
+6002,USA,Michigan,Kalamazoo,49006,MI,m26077
+6004,USA,North Carolina,Smithfield,27577,NC,n37101
+6005,USA,Michigan,Custer,49405,MI,m26105
+6013,USA,Michigan,Detroit,48235,MI,m26163
+6016,USA,New Jersey,Hackettstown,07840,NJ,"n34027,n34041"
+6019,USA,Michigan,Metamora,48455,MI,"m26087,m26125"
+6020,USA,Michigan,Bay City,48706,MI,m26017
+6021,USA,Virginia,Sussex,23884,VA,v51183
+6022,USA,Minnesota,Blooming Prairie,55917,MN,"m27039,m27047,m27099,m27147"
+6023,USA,Georgia,Atlanta,30312,GA,g13121
+6026,USA,Oklahoma,Broken Arrow,74012,OK,o40143
+6027,USA,Ohio,Newark,43055,OH,o39089
+6029,USA,Michigan,Lincoln Park,48146,MI,m26163
+6032,USA,Ohio,Dayton,45449,OH,o39113
+6033,USA,Michigan,Mount Pleasant,48858,MI,"m26073,m26111"
+6036,USA,California,Palo Alto,94301,CA,c06085
+6039,USA,California,Pebble Beach,93953,CA,c06053
+6043,USA,Michigan,Allegan,49010,MI,"m26005,m26159"
+6044,USA,Minnesota,Moose Lake,55767,MN,"m27017,m27115"
+6045,USA,Minnesota,Sartell,56377,MN,"m27009,m27145"
+6047,USA,Minnesota,Proctor,55810,MN,"m27017,m27137"
+6053,USA,Michigan,Colon,49040,MI,"m26023,m26149"
+6055,USA,Arkansas,Batesville,72501,AR,"a05063,a05065"
+6057,USA,Michigan,Dearborn,48124,MI,m26163
+6059,USA,California,Livermore,94551,CA,"c06001,c06013"
+6060,USA,California,Rosamond,93560,CA,"c06029,c06037"
+6065,USA,Michigan,Grand Rapids,49544,MI,"m26081,m26139"
+6066,USA,Michigan,McBain,49657,MI,"m26113,m26133,m26165"
+6067,USA,Michigan,Saint Charles,48655,MI,m26145
+6068,USA,Mississippi,Indianola,38751,MS,"m28133,m28151"
+6071,USA,Michigan,Bay City,48708,MI,"m26017,m26145"
+6072,USA,California,Newport Beach,92660,CA,c06059
+6073,USA,Michigan,Saginaw,48604,MI,"m26017,m26145"
+6074,USA,Michigan,Roscommon,48653,MI,"m26039,m26143"
+6075,USA,Michigan,Leland,49654,MI,m26089
+6076,USA,Washington,Northport,99157,WA,w53065
+6077,USA,Michigan,Posen,49776,MI,"m26007,m26141"
+6078,USA,Michigan,Holt,48842,MI,"m26045,m26065"
+6079,USA,Michigan,Powers,49874,MI,m26109
+6081,USA,Michigan,Manchester,48158,MI,"m26075,m26161"
+6084,USA,Ohio,Cincinnati,45224,OH,o39061
+6085,USA,Michigan,Brown City,48416,MI,"m26087,m26147,m26151"
+6086,USA,Michigan,Mt. Morris,48458,MI,m26049
+6087,USA,Michigan,Ellsworth,49729,MI,"m26009,m26029"
+6088,USA,Michigan,Stephenson,49887,MI,m26109
+6089,USA,Michigan,Dearborn Heights,48125,MI,m26163
+6090,USA,Michigan,Wayland,49348,MI,"m26005,m26015,m26081"
+6091,USA,Michigan,Deckerville,48427,MI,m26151
+6092,USA,Michigan,Quincy,49082,MI,"m26023,m26059"
+6093,USA,Michigan,Sandusky,48471,MI,m26151
+6094,USA,Michigan,Montague,49437,MI,"m26121,m26127"
+6096,USA,Michigan,Detroit,48207,MI,m26163
+6097,USA,Michigan,Brethren,49619,MI,m26101
+6098,USA,Michigan,Beaver Island,49782,MI,m26029
+6099,USA,Michigan,Detroit,48205,MI,m26163
+6100,USA,Michigan,Morley,49336,MI,"m26107,m26117,m26123"
+6101,USA,Michigan,Ann Arbor,48105,MI,m26161
+6102,USA,Michigan,Blanchard,49310,MI,"m26073,m26107,m26117"
+6103,USA,Louisiana,Plaquemine,70764,LA,"l22047,l22121"
+6107,USA,Alabama,Huntsville,35810,AL,a01089
+6111,USA,Texas,Houston,77020,TX,t48201
+6112,USA,Michigan,Munising,49862,MI,m26003
+6113,USA,Michigan,Menominee,49858,MI,m26109
+6114,USA,Michigan,Hamilton,49419,MI,m26005
+6116,USA,Michigan,Garden City,48135,MI,m26163
+6117,USA,Michigan,Pontiac,48342,MI,m26125
+6120,USA,Michigan,New Haven,48048,MI,m26099
+6121,USA,Michigan,Grayling,49738,MI,"m26039,m26079,m26137"
+6122,USA,Michigan,Bear Lake,49614,MI,m26101
+6127,USA,Arizona,Bisbee,85603,AZ,a04003
+6128,USA,Michigan,Hart,49420,MI,"m26105,m26127"
+6129,USA,Washington,Spokane,99208,WA,w53063
+6131,USA,Arkansas,North Little Rock,72118,AR,a05119
+6132,USA,Minnesota,Crosby,56441,MN,m27035
+6133,USA,Texas,North Richland Hills,76180,TX,t48439
+6137,USA,Michigan,Constantine,49042,MI,"m26027,m26149"
+6138,USA,Michigan,Centreville,49032,MI,m26149
+6139,USA,Georgia,Dublin,31040,GA,g13175
+6144,USA,Texas,El Paso,79903,TX,t48141
+6145,USA,Florida,Crawfordville,32327,FL,"f12073,f12129"
+6146,USA,Minnesota,Dawson,56232,MN,m27073
+6147,USA,Minnesota,Mound,55364,MN,m27053
+6150,USA,Michigan,Adrian,49221,MI,m26091
+6152,USA,Michigan,DEARBORN HEIGHTS,48127,MI,m26163
+6153,USA,Maine,Farmington,04938,ME,"m23007,m23025"
+6155,USA,Texas,San Antonio,78201,TX,t48029
+6157,USA,Kentucky,Benton,42025,KY,"k21035,k21083,k21157"
+6160,USA,Minnesota,Barnum,55707,MN,m27017
+6161,USA,Maine,Gray,04039,ME,m23005
+6164,USA,Iowa,Dike,50624,IA,i19075
+6166,USA,Wisconsin,Holmen,54636,WI,w55063
+6167,USA,South Carolina,Hemingway,29554,SC,"s45041,s45043,s45089"
+6171,USA,Texas,Plano,75075,TX,t48085
+6172,USA,Maine,Fairfield,04937,ME,"m23011,m23025"
+6174,USA,California,Winters,95694,CA,"c06095,c06113"
+6175,USA,Minnesota,Eden Valley-Watkins,55329,MN,"m27093,m27145"
+6177,USA,Georgia,Atlanta,30314,GA,g13121
+6180,USA,Texas,Mission,78573,TX,t48215
+6181,USA,Ohio,Archbold,43502,OH,"o39051,o39069,o39171"
+6184,USA,Florida,Tallahassee,32308,FL,f12073
+6186,USA,Arkansas,Hope,71801,AR,a05057
+6189,USA,Virginia,Amelia Court House,23002,VA,"v51007,v51135"
+6190,USA,Michigan,Canton,48187,MI,m26163
+6193,USA,Michigan,Bay City,48708,MI,"m26017,m26145"
+6194,USA,Virginia,Cumberland,23040,VA,"v51029,v51049"
+6195,USA,New York,Brooklyn,11235,NY,n36047
+6201,USA,Massachusetts,Somerville,02143,MA,"m25017,m25025"
+6213,USA,Maryland,Bowie,20715,MD,m24033
+6214,USA,North Carolina,Burgaw,28425,NC,n37141
+6215,USA,North Carolina,Apex,27539,NC,n37183
+6217,USA,Minnesota,Cannon Falls,55009,MN,"m27037,m27049"
+6219,USA,Tennessee,Blountville,37617,TN,t47163
+6220,USA,California,Los Alamitos,90720,CA,c06059
+6222,USA,South Carolina,Hemingway,29554,SC,"s45041,s45043,s45089"
+6223,USA,Wisconsin,Menomonee Falls,53051,WI,w55133
+6224,USA,Maine,Auburn,04210,ME,m23001
+6226,USA,New Jersey,Burlington,08016,NJ,n34005
+6237,USA,Illinois,Neponset,61345,IL,i17011
+6238,USA,California,San Jose,95113,CA,c06085
+6239,USA,Maryland,Bowie,20715,MD,m24033
+6240,USA,North Carolina,Warrenton,27589,NC,"n37069,n37185"
+6241,USA,California,San Jose,95131,CA,c06085
+6300,USA,New York,Lake Placid,12946,NY,n36031
+6301,USA,Massachusetts,Taunton,02780,MA,m25005
+6302,USA,Tennessee,Greeneville,37745,TN,"t47059,t47073"
+6305,USA,California,Fresno,93730,CA,c06019
+6312,USA,Virginia,Christchurch,23031,VA,v51119
+6315,USA,Texas,Laredo,78041,TX,t48479
+6317,USA,Iowa,Davenport,52804,IA,i19163
+6318,USA,Wisconsin,Freedom,54130,WI,"w55009,w55015,w55087"
+6321,USA,Texas,Leander,78641,TX,"t48453,t48491"
+6322,USA,Florida,Orange Park,32073,FL,"f12019,f12031"
+6324,USA,New Hampshire,Salem,03079,NH,n33015
+6325,USA,Georgia,Alpharetta,30005,GA,"g13117,g13121"
+6326,USA,Maryland,Baltimore,21202,MD,m24510
+6327,USA,Pennsylvania,Prospect Park,19076,PA,p42045
+6328,USA,Massachusetts,Littleton,01460,MA,"m25017,m25027"
+6329,USA,Maine,Bucksport,04416,ME,m23009
+6332,USA,North Carolina,Durham,27705,NC,"n37063,n37135"
+6333,USA,Connecticut,Putnam,06260,CT,c09015
+6334,USA,Virginia,Midlothian,23113,VA,"v51041,v51145,v51760"
+6337,USA,Maine,Pittsfield,04967,ME,m23025
+6340,USA,Georgia,Atlanta,30319,GA,"g13089,g13121"
+6341,USA,Georgia,Acworth,30102,GA,"g13015,g13057,g13067"
+6343,USA,Washington,Ridgefield,98642,WA,w53011
+6344,USA,Michigan,Yale,48097,MI,"m26147,m26151"
+6345,USA,Michigan,Watersmeet,49969,MI,m26053
+6346,USA,Connecticut,Norwalk,06851,CT,c09001
+6350,USA,Washington,Enumclaw,98022,WA,"w53033,w53053"
+6352,USA,Arizona,Surprise,85382,AZ,a04013
+6355,USA,Ohio,Cleveland,44130,OH,o39035
+6357,USA,Texas,Dripping Springs,78620,TX,"t48031,t48209,t48453"
+6358,USA,Idaho,Buhl,83316,ID,"i16047,i16083"
+6359,USA,Nebraska,Aurora,68818,NE,"n31035,n31081"
+6366,USA,South Carolina,Simpsonville,29681,SC,"s45045,s45059"
+6367,USA,Massachusetts,Dorchester Center,02124,MA,m25025
+6369,USA,Texas,McKinney,75070,TX,t48085
+6372,USA,Arizona,Gilbert,85233,AZ,a04013
+6377,USA,Texas,Austin,78759,TX,"t48453,t48491"
+6379,USA,Iowa,Pleasant Hill,50327,IA,i19153
+6381,USA,Wisconsin,Sheboygan,53083,WI,w55117
+6391,USA,Missouri,Saint Louis,63122,MO,m29189
+6398,USA,California,Santa Paula,93060,CA,c06111
+6400,USA,Montana,Manhattan,59741,MT,"m30031,m30057"
+6401,USA,New York,New City,10956,NY,n36087
+6410,USA,California,Salinas,93906,CA,c06053
+6411,USA,Utah,Sandy,84070,UT,u49035
+6412,USA,Iowa,Cedar Rapids,52401,IA,i19113
+6413,USA,Arizona,Chandler,85244,AZ,a04013
+6418,USA,California,San Francisco,94122,CA,c06075
+6419,USA,Iowa,West Des Moines,50265,IA,"i19153,i19181"
+6420,USA,Iowa,Muscatine,52761,IA,"i19115,i19139"
+6421,USA,Wisconsin,Muskego,53150,WI,"w55101,w55133"
+6422,USA,New York,Rocky Point,11778,NY,n36103
+6423,USA,New York,East Setauket,11733,NY,n36103
+6424,USA,Missouri,Knob Noster,65336,MO,"m29101,m29159"
+6425,USA,Michigan,Coldwater,49036,MI,m26023
+6426,USA,North Carolina,Durham,27707,NC,"n37063,n37135"
+6428,USA,Michigan,Coopersville,49404,MI,"m26121,m26139"
+6442,USA,Oregon,Pendleton,97801,OR,o41059
+6443,USA,Oregon,Hillsboro,97124,OR,"o41051,o41067"
+6445,USA,Oregon,Salem,97301,OR,o41047
+6451,USA,Indiana,Whiteland,46184,IN,i18081
+6453,USA,Minnesota,Kelliher,56650,MN,m27007
+6455,USA,Iowa,Waterloo,50701,IA,i19013
+6463,USA,New York,Port Ewen,12466,NY,n36111
+6464,USA,Oklahoma,Seminole,74868,OK,o40133
+6465,USA,Oregon,Bend,97703,OR,o41017
+6471,USA,Georgia,Leesburg,31763,GA,"g13095,g13177"
+6473,USA,Florida,Orlando,32808,FL,f12095
+6474,USA,California,Fairfield,94533,CA,c06095
+6479,USA,Arizona,Tempe,85284,AZ,a04013
+6484,USA,New York,Greenwich,12834,NY,n36115
+6488,USA,Texas,Houston,77084,TX,t48201
+6489,USA,Louisiana,Zachary,70791,LA,"l22033,l22037"
+6490,USA,New York,Geneva,14456,NY,"n36069,n36099,n36123"
+6492,USA,Arkansas,Pangburn,72121,AR,"a05023,a05145"
+6498,USA,Indiana,Newburgh,47630,IN,i18173
+6499,USA,California,Orange,92867,CA,c06059
+6500,USA,North Carolina,Raleigh,27615,NC,n37183
+6502,USA,North Carolina,Durham,27705,NC,"n37063,n37135"
+6503,USA,Washington,Seattle,98122,WA,w53033
+6504,USA,Virginia,Falls Church,22042,VA,"v51059,v51610"
+6506,USA,California,Salinas,93901,CA,c06053
+6512,USA,North Carolina,Bolivia,28422,NC,n37019
+6515,USA,California,Calexico,92231,CA,c06025
+6517,USA,Tennessee,Knoxville,37920,TN,"t47009,t47093,t47155"
+6519,USA,Nevada,Las Vegas,89113,NV,n32003
+6526,USA,Texas,Garland,75040,TX,t48113
+6527,USA,Florida,Lake Mary,32746,FL,f12117
+6528,USA,Michigan,Gibraltar,48173,MI,m26163
+6529,USA,Massachusetts,Roxbury Crossing,02120,MA,m25025
+6530,USA,Arizona,Phoenix,85020,AZ,a04013
+6532,USA,Michigan,Detroit,48201,MI,m26163
+6533,USA,Michigan,Beaverton,48612,MI,"m26035,m26051,m26111"
+6535,USA,California,Huntington Beach,92646,CA,c06059
+6538,USA,Michigan,Ypsilanti,48197,MI,m26161
+6542,USA,Kansas,Pittsburg,66762,KS,"k20021,k20037"
+6543,USA,Virginia,Oakton,22124,VA,v51059
+6545,USA,Michigan,Tawas City,48763,MI,"m26011,m26069"
+6547,USA,Texas,Magnolia,77353,TX,t48339
+6548,USA,Michigan,Perry,48872,MI,"m26065,m26093,m26155"
+6550,USA,Michigan,Evart,49631,MI,"m26107,m26133"
+6552,USA,Michigan,Houghton Lake,48629,MI,m26143
+6553,USA,California,Oxnard,93036,CA,c06111
+6556,USA,Michigan,Waldron,49288,MI,"m26059,m26091"
+6557,USA,Michigan,Baraga,49908,MI,m26013
+6558,USA,Michigan,Lanse,49946,MI,m26013
+6560,USA,California,Irvine,92603,CA,c06059
+6561,USA,Michigan,Scottville,49454,MI,m26105
+6565,USA,North Carolina,Arapahoe,28510,NC,n37137
+6566,USA,Michigan,Madison Heights,48071,MI,m26125
+6567,USA,Michigan,Saint Clair Shores,48082,MI,m26099
+6568,USA,Michigan,Decatur,49045,MI,"m26027,m26159"
+6569,USA,Michigan,Ontonagon,49953,MI,m26131
+6570,USA,Michigan,Ottawa Lake,49267,MI,"m26091,m26115"
+6573,USA,Michigan,Alanson,49706,MI,"m26031,m26047"
+6574,USA,Wisconsin,Whitewater,53190,WI,"w55055,w55105,w55127"
+6580,USA,Michigan,Marshall,49068,MI,m26025
+6581,USA,Michigan,Hancock,49930,MI,m26061
+6582,USA,Michigan,Vestaburg,48891,MI,"m26057,m26073,m26117"
+6583,USA,Michigan,Plymouth,48170,MI,"m26161,m26163"
+6584,USA,Maryland,Kensington,20895,MD,m24031
+6586,USA,Arkansas,Texarkana,71854,AR,a05091
+6588,USA,Michigan,Lawton,49065,MI,"m26027,m26077,m26159"
+6589,USA,Michigan,Bloomingdale,49026,MI,"m26005,m26159"
+6590,USA,New York,Brooklyn,11208,NY,"n36047,n36081"
+6591,USA,Michigan,Stockbridge,49285,MI,"m26065,m26075,m26093,m26161"
+6592,USA,Michigan,Lansing,48915,MI,m26065
+6593,USA,New York,Richmond Hill,11418,NY,n36081
+6594,USA,Michigan,Lansing,48911,MI,"m26045,m26065"
+6595,USA,Michigan,Lansing,48915,MI,m26065
+6597,USA,Michigan,Saginaw,48603,MI,m26145
+6599,USA,Michigan,Northport,49670,MI,m26089
+6600,USA,Michigan,Baldwin,49304,MI,m26085
+6610,USA,Michigan,Burton,48529,MI,m26049
+6611,USA,Michigan,Au Gres,48703,MI,m26011
+6612,USA,California,Antioch,94531,CA,c06013
+6615,USA,Michigan,Belleville,48111,MI,"m26115,m26161,m26163"
+6616,USA,Michigan,Detroit,48209,MI,m26163
+6618,USA,Michigan,Flat Rock,48134,MI,"m26115,m26163"
+6619,USA,California,Livermore,94550,CA,"c06001,c06085,c06099"
+6620,USA,Rhode Island,North Smithfield,02876,RI,r44007
+6621,USA,New York,Chatham,12037,NY,n36021
+6624,USA,Wisconsin,Marinette,54143,WI,w55075
+6626,USA,South Carolina,Andrews,29510,SC,"s45043,s45089"
+6627,USA,Michigan,Niles,49120,MI,"m26021,m26027"
+6628,USA,Minnesota,Kerkhoven,56252,MN,"m27023,m27067,m27151"
+6630,USA,Iowa,La Porte City,50651,IA,"i19011,i19013,i19019,i19171"
+6631,USA,Michigan,Reese,48757,MI,"m26017,m26145,m26157"
+6635,USA,Michigan,Jackson,49201,MI,m26075
+6636,USA,New York,Jamaica,11432,NY,n36081
+6637,USA,Michigan,Carney,49812,MI,m26109
+6638,USA,Michigan,Middleton,48856,MI,m26057
+6639,USA,North Carolina,Hickory,28601,NC,"n37003,n37023,n37027,n37035"
+6640,USA,Arkansas,Mayflower,72106,AR,"a05045,a05119"
+6642,USA,Michigan,Harrison,48625,MI,"m26035,m26113"
+6643,USA,Wisconsin,Racine,53405,WI,w55101
+6644,USA,California,Rocklin,95765,CA,c06061
+6645,USA,Texas,Crosby,77532,TX,t48201
+6646,USA,Texas,Belton,76513,TX,t48027
+6648,USA,New York,Ozone Park,11417,NY,"n36047,n36081"
+6651,USA,Illinois,Sterling,61081,IL,"i17103,i17195"
+6655,USA,Texas,Arlington,76014,TX,t48439
+6656,USA,Arizona,Payson,85541,AZ,a04007
+6657,USA,California,Visalia,93277,CA,c06107
+6658,USA,California,Los Angeles,90041,CA,c06037
+6659,USA,California,Escondido,92026,CA,c06073
+6660,USA,Missouri,Saint Louis,63119,MO,"m29189,m29510"
+6662,USA,California,Pleasant Hill,94523,CA,c06013
+6664,USA,Texas,Pharr,78577,TX,t48215
+6665,USA,California,Monterey,93940,CA,c06053
+6667,USA,Pennsylvania,Chester,19013,PA,p42045
+6668,USA,California,Hesperia,92345,CA,c06071
+6670,USA,Wisconsin,Milwaukee,53207,WI,w55079
+6672,USA,Texas,Irving,75039,TX,t48113
+6674,USA,Arizona,Phoenix,85043,AZ,a04013
+6677,USA,Mississippi,Pascagoula,39567,MS,m28059
+6680,USA,Idaho,Pocatello,83209,ID,i16005
+6682,USA,New Mexico,Alamogordo,88310,NM,n35035
+6685,USA,Florida,West Palm Beach,33411,FL,f12099
+6686,USA,Florida,West Palm Beach,33411,FL,f12099
+6690,USA,New Hampshire,Concord,03303,NH,n33013
+6691,USA,New Hampshire,Wolfeboro,03894,NH,n33003
+6692,USA,California,San Bernardino,92404,CA,c06071
+6695,USA,California,San Marcos,92078,CA,c06073
+6696,USA,Oregon,Corbett,97019,OR,"o41005,o41051"
+6704,USA,Hawaii,Honolulu,96822,HI,h15003
+6705,USA,Georgia,Atlanta,30338,GA,"g13089,g13121"
+6707,USA,Minnesota,Renville,56284,MN,"m27067,m27127,m27129"
+6709,USA,Minnesota,Big Lake,55309,MN,m27141
+6711,USA,California,Atwater,95301,CA,c06047
+6712,USA,Georgia,Chatsworth,30705,GA,"g13123,g13213"
+6715,USA,Georgia,Hephzibah,30815,GA,"g13033,g13245"
+6716,USA,Georgia,Augusta,30904,GA,g13245
+6718,USA,California,Oakland,94611,CA,"c06001,c06013"
+6721,USA,Indiana,Indianapolis,46205,IN,i18097
+6722,USA,Florida,New Port Richey,34653,FL,f12101
+6723,USA,Massachusetts,Williamstown,01267,MA,m25003
+6726,USA,North Carolina,Warrenton,27589,NC,"n37069,n37185"
+6729,USA,North Carolina,Lumberton,28360,NC,n37155
+6730,USA,Oklahoma,Oklahoma City,73134,OK,o40109
+6731,USA,Massachusetts,Belmont,02478,MA,m25017
+6732,USA,Wisconsin,Bruce,54819,WI,w55107
+6733,USA,Texas,Pharr,78577,TX,t48215
+6742,USA,Michigan,Westland,48185,MI,m26163
+6743,USA,Florida,Fort Myers,33916,FL,f12071
+6744,USA,Missouri,Saint Louis,63125,MO,"m29189,m29510"
+6746,USA,New York,Syosset,11791,NY,"n36059,n36103"
+6749,USA,Minnesota,Hopkins,55343,MN,m27053
+6750,USA,Georgia,McDonough,30253,GA,g13151
+6751,USA,Texas,Dallas,75208,TX,t48113
+6753,USA,Michigan,Midland,48640,MI,m26111
+6754,USA,Texas,Edinburg,78541,TX,t48215
+6758,USA,Minnesota,Kasson,55944,MN,"m27039,m27109"
+6762,USA,New Hampshire,Hillsborough,03244,NH,"n33011,n33019"
+6763,USA,New Hampshire,Manchester,03103,NH,"n33011,n33015"
+6764,USA,California,Fillmore,93015,CA,c06111
+6768,USA,Texas,Denison,75020,TX,t48181
+6800,USA,Texas,Austin,78750,TX,"t48453,t48491"
+6802,USA,Virginia,Cedar Bluff,24609,VA,"v51167,v51185"
+6804,USA,California,Livingston,95334,CA,c06047
+6805,USA,Nebraska,Omaha,68114,NE,n31055
+6806,USA,New York,Mineola,11501,NY,n36059
+6807,USA,Wisconsin,Racine,53402,WI,w55101
+6808,USA,Pennsylvania,Warminster,18974,PA,"p42017,p42091"
+6809,USA,Oklahoma,Enid,73703,OK,o40047
+6811,USA,Connecticut,Washington,06793,CT,c09005
+6814,USA,California,Santa Rosa,95404,CA,c06097
+6817,USA,Missouri,Rolla,65401,MO,"m29065,m29125,m29161"
+6821,USA,California,San Bernardino,91752,CA,"c06065,c06071"
+6822,USA,California,San Jose,95135,CA,c06085
+6823,USA,Wisconsin,Milwaukee,53217,WI,"w55079,w55089"
+6824,USA,Nevada,Las Vegas,89101,NV,n32003
+6825,USA,Nevada,North Las Vegas,89084,NV,n32003
+6829,USA,Georgia,Suwanee,30024,GA,"g13117,g13121,g13135"
+6830,USA,Texas,Pharr,78577,TX,t48215
+6831,USA,Oregon,Hood River,97031,OR,o41027
+6833,USA,Arizona,Phoenix,85012,AZ,a04013
+6834,USA,Ohio,Etna,43018,OH,o39089
+6840,USA,Arkansas,Kirby,71950,AR,a05109
+6843,USA,Missouri,Lees Summit,64064,MO,m29095
+6844,USA,Utah,Provo,84604,UT,"u49049,u49051"
+6845,USA,Oregon,Astoria,97103,OR,o41007
+6846,USA,Tennessee,Murfreesboro,37130,TN,t47149
+6850,USA,Florida,Ocala,34471,FL,f12083
+6855,USA,Arkansas,Arkadelphia,71923,AR,"a05019,a05039,a05059"
+6858,USA,Kentucky,Louisville,40291,KY,k21111
+6860,USA,New Jersey,Paterson,07501,NJ,n34031
+6861,USA,Michigan,Livonia,48154,MI,m26163
+6862,USA,Michigan,Detroit,48228,MI,m26163
+6863,USA,Maryland,Laurel,20723,MD,m24027
+6868,USA,New York,Hilton,14468,NY,n36055
+6870,USA,New York,Buffalo,14260,NY,n36029
+6871,USA,Arizona,Queen Creek,85142,AZ,"a04013,a04021"
+6873,USA,New York,New York,10033,NY,n36061
+6877,USA,Michigan,Grand Rapids,49525,MI,m26081
+6880,USA,New York,Yorktown Heights,10598,NY,"n36079,n36119"
+6882,USA,Virginia,Fredericksburg,22405,VA,v51179
+6883,USA,California,Santa Rosa,95409,CA,c06097
+6884,USA,California,Hollister,95023,CA,"c06069,c06085"
+6885,USA,California,San Diego,92116,CA,c06073
+6886,USA,Missouri,Warsaw,65355,MO,m29015
+6887,USA,Georgia,Dalton,30720,GA,g13313
+6888,USA,North Carolina,Hildebran,28637,NC,n37023
+6889,USA,Iowa,Bloomfield,52537,IA,"i19051,i19179"
+6892,USA,New York,Wellsville,14895,NY,n36003
+6893,USA,Maryland,Greenbelt,20710,MD,m24033
+6894,USA,North Carolina,Mount Holly,28120,NC,n37071
+6895,USA,New Hampshire,Walpole,03608,NH,n33005
+6897,USA,New Jersey,East Brunswick,08816,NJ,n34023
+6899,USA,North Carolina,Franklin,28734,NC,"n37043,n37113"
+6900,USA,Oklahoma,Maud,74854,OK,"o40125,o40133"
+6901,USA,Texas,Frisco,75035,TX,"t48085,t48121"
+6904,USA,California,Los Angeles,90002,CA,c06037
+6905,USA,Georgia,Alpharetta,30005,GA,"g13117,g13121"
+6906,USA,Illinois,Chicago,60608,IL,i17031
+6908,USA,North Carolina,Cary,27511,NC,n37183
+6910,USA,Georgia,Hoschton,30548,GA,"g13013,g13135,g13139,g13157"
+6911,USA,New York,Orangeburg,10962,NY,n36087
+6912,USA,Minnesota,Saint Paul,55110,MN,"m27003,m27123,m27163"
+6914,USA,Michigan,Melvindale,48122,MI,m26163
+6916,USA,Ohio,Columbus,43229,OH,o39049
+6918,USA,California,Napa,94558,CA,"c06055,c06095,c06097"
+6919,USA,Georgia,Albany,31721,GA,"g13007,g13095,g13177,g13273"
+6921,USA,New Jersey,Pennsauken,08110,NJ,"n34005,n34007"
+6922,USA,Arizona,Nogales,85621,AZ,a04023
+6923,USA,Louisiana,Saint Francisville,70775,LA,l22125
+6925,USA,Georgia,College Park,30337,GA,"g13063,g13121"
+6926,USA,California,Clovis,93611,CA,c06019
+6927,USA,Ohio,Columbus,43221,OH,o39049
+6928,USA,Tennessee,Greeneville,37743,TN,"t47029,t47059"
+6932,USA,North Carolina,Sylva,28779,NC,"n37087,n37099,n37113"
+6933,USA,Vermont,Bethel,05032,VT,"v50017,v50027"
+6934,USA,California,Camarillo,93012,CA,c06111
+6935,USA,Texas,Ingram,78025,TX,t48265
+6936,USA,Ohio,Dayton,45434,OH,o39057
+6937,USA,Tennessee,Chattanooga,37404,TN,t47065
+6938,USA,California,Los Angeles,90066,CA,c06037
+6943,USA,New Jersey,Newark,07104,NJ,n34013
+6944,USA,Georgia,Cumming,30028,GA,"g13057,g13085,g13117"
+6945,USA,New Jersey,Blairstown,07825,NJ,"n34037,n34041"
+6954,USA,Michigan,Dearborn,48128,MI,m26163
+6956,USA,Indiana,Westfield,46074,IN,i18057
+6957,USA,Nevada,Henderson,89015,NV,n32003
+6958,USA,Michigan,Warren,48093,MI,m26099
+6959,USA,Washington,Centralia,98531,WA,"w53041,w53067"
+6960,USA,California,Riverside,92507,CA,c06065
+6961,USA,South Carolina,Spartanburg,29306,SC,"s45021,s45083"
+6962,USA,California,Mountain View,94041,CA,c06085
+6963,USA,Michigan,Remus,49340,MI,"m26073,m26107"
+6964,USA,Ohio,Columbus,43221,OH,o39049
+6969,USA,New York,West Nyack,10994,NY,n36087
+6974,USA,New Mexico,Socorro,87801,NM,n35053
+6981,USA,California,Concord,94521,CA,c06013
+6993,USA,Texas,Lubbock ,79415,TX,t48303
+6995,USA,California,Escondido,92029,CA,c06073
+7004,USA,New York,Ossining,10562,NY,n36119
+7016,USA,New York,Putnam Valley,10579,NY,n36079
+7017,USA,Arizona,Mesa,85212,AZ,"a04013,a04021"
+7019,USA,Minnesota,Minneapolis,55410,MN,m27053
+7020,USA,Michigan,Iron Mountain,49801,MI,m26043
+7021,USA,Wisconsin,Arcadia,54612,WI,"w55011,w55121"
+7026,USA,Florida,Fort Lauderdale,33334,FL,f12011
+7027,USA,New York,Parish,13131,NY,n36075
+7028,USA,Minnesota,Saint Michael,55376,MN,m27171
+7029,USA,North Carolina,Laurinburg,28352,NC,"n37155,n37165"
+7030,USA,New York,Lake Placid,12946,NY,n36031
+7031,USA,New York,Delanson,12053,NY,"n36001,n36057,n36093,n36095"
+7032,USA,Oregon,La Pine,97739,OR,"o41017,o41035"
+7034,USA,Oregon,West Linn,97068,OR,o41005
+7036,USA,New York,Brooklyn,11217,NY,n36047
+7038,USA,Minnesota,Minneapolis,55432,MN,"m27003,m27123"
+7041,USA,Minnesota,Carlton,55718,MN,m27017
+7042,USA,California,Long Beach,90813,CA,c06037
+7043,USA,Ohio,Rocky River,44116,OH,o39035
+7045,USA,New Jersey,Denville,07834,NJ,n34027
+7048,USA,North Dakota,Fargo,58102,ND,n38017
+7054,USA,Michigan,Grand Rapids,49548,MI,m26081
+7055,USA,Ohio,Bay Village,44140,OH,o39035
+7056,USA,Michigan,Fowlerville,48836,MI,"m26093,m26155"
+7057,USA,California,Orange Cove,93646,CA,"c06019,c06107"
+7060,USA,Georgia,Gainesville,30501,GA,g13139
+7063,USA,Texas,San Antonio,78244,TX,t48029
+7064,USA,Kansas,Lansing,66048,KS,"k20103,k20209"
+7068,USA,Minnesota,Saint Francis,55070,MN,"m27003,m27059"
+7072,USA,Alabama,Opelika,36801,AL,"a01017,a01081"
+7073,USA,Michigan,Grand Rapids,49506,MI,m26081
+7075,USA,Arkansas,Pleasant Plains,72568,AR,"a05063,a05145"
+7076,USA,Georgia,Augusta,30909,GA,"g13073,g13245"
+7077,USA,Nevada,Las Vegas,89110,NV,n32003
+7084,USA,Michigan,Hillman,49746,MI,"m26007,m26119,m26141"
+7085,USA,South Carolina,Pawleys Island,29585,SC,s45043
+7088,USA,Texas,Somerset,78069,TX,"t48013,t48029"
+7091,USA,Texas,Dallas,75226,TX,t48113
+7094,USA,Mississippi,Bay Saint Louis,39520,MS,m28045
+7103,USA,Wisconsin,Manitowoc,54220,WI,w55071
+7104,USA,Georgia,Savannah,31406,GA,g13051
+7106,USA,Arkansas,Mulberry,72947,AR,"a05033,a05047"
+7107,USA,Florida,Boca Raton,33434,FL,f12099
+7109,USA,Michigan,Clare,48617,MI,"m26035,m26073"
+7110,USA,New Jersey,Haddon Heights,08035,NJ,n34007
+7111,USA,Alabama,Madison,35756,AL,"a01083,a01089"
+7115,USA,Texas,Houston,77004,TX,t48201
+7117,USA,Missouri,De Soto,63020,MO,"m29099,m29187,m29221"
+7118,USA,Washington,Shoreline,98155,WA,w53033
+7119,USA,Texas,Dallas,75208,TX,t48113
+7120,USA,Texas,Dallas,75210,TX,t48113
+7121,USA,Texas,Keller,76248,TX,t48439
+7123,USA,Arkansas,Mount Vernon,72111,AR,"a05045,a05145"
+7125,USA,Texas,Glen Rose,76043,TX,"t48035,t48425"
+7126,USA,New Hampshire,Newmarket,03857,NH,"n33015,n33017"
+7127,USA,Massachusetts,Longmeadow,01106,MA,m25013
+7133,USA,New Hampshire,Farmington,03835,NH,n33017
+7137,USA,California,Concord,94518,CA,c06013
+7138,USA,Texas,Fischer,78623,TX,"t48091,t48209"
+7141,USA,Iowa,Fort Madison,52627,IA,i19111
+7142,USA,Iowa,Des Moines,50313,IA,i19153
+7143,USA,Michigan,Detroit,48207,MI,m26163
+7144,USA,Michigan,Okemos,48864,MI,m26065
+7145,USA,Michigan,Detroit,48208,MI,m26163
+7147,USA,Michigan,Ann Arbor,48104,MI,m26161
+7150,USA,Michigan,West Branch,48661,MI,m26129
+7151,USA,Utah,Herriman,84096,UT,u49035
+7152,USA,Florida,Boca Raton,33431,FL,f12099
+7153,USA,Connecticut,Manchester,06042,CT,"c09003,c09013"
+7154,USA,Michigan,Kingsford,49802,MI,m26043
+7155,USA,Michigan,Manton,49663,MI,"m26113,m26165"
+7156,USA,Michigan,Norway,49870,MI,m26043
+7157,USA,California,Brea,92821,CA,c06059
+7160,USA,Michigan,Ludington,49431,MI,m26105
+7165,USA,Ohio,Sandusky,44870,OH,o39043
+7166,USA,Michigan,Laingsburg,48848,MI,"m26037,m26155"
+7168,USA,Michigan,Detroit,48211,MI,m26163
+7171,USA,Michigan,Wolverine,49799,MI,"m26031,m26047"
+7172,USA,Michigan,Oscoda,48750,MI,"m26001,m26069"
+7174,USA,Michigan,Dearborn Heights,48127,MI,m26163
+7175,USA,Michigan,Clinton,49236,MI,"m26091,m26161"
+7178,USA,Michigan,Walled Lake,48390,MI,m26125
+7179,USA,Texas,Garland,75040,TX,t48113
+7180,USA,Minnesota,Minneapolis,55407,MN,m27053
+7183,USA,Nevada,Las Vegas,89135,NV,n32003
+7185,USA,California,Glendora,91741,CA,c06037
+7187,USA,Michigan,Delton,49046,MI,m26015
+7188,USA,Michigan,Warren,48088,MI,m26099
+7191,USA,Michigan,Melvindale,48122,MI,m26163
+7192,USA,Michigan,Croswell,48422,MI,m26151
+7193,USA,Florida,Fort Myers,33916,FL,f12071
+7195,USA,Michigan,Portland,48875,MI,"m26037,m26067"
+7196,USA,Michigan,Detroit,48210,MI,m26163
+7197,USA,Michigan,Jackson,49201,MI,m26075
+7198,USA,Indiana,Monticello,47960,IN,"i18015,i18131,i18181"
+7202,USA,Michigan,Morrice,48857,MI,m26155
+7203,USA,Michigan,Battle Creek,49017,MI,"m26015,m26025,m26077"
+7204,USA,Oregon,Prospect,97536,OR,o41029
+7206,USA,Michigan,Center Line,48015,MI,m26099
+7208,USA,Michigan,Charlevoix,49720,MI,"m26009,m26029,m26047"
+7209,USA,Michigan,Homer,49245,MI,"m26023,m26025,m26059,m26075"
+7210,USA,Michigan,Greenville,48838,MI,"m26067,m26081,m26117"
+7211,USA,Michigan,Holly,48442,MI,"m26049,m26093,m26125"
+7212,USA,New Hampshire,Lebanon,03766,NH,n33009
+7213,USA,Michigan,Gladwin,48624,MI,"m26035,m26051,m26129,m26143"
+7214,USA,Arizona,Marana,85743,AZ,a04019
+7216,USA,Florida,North Miami Beach,33162,FL,f12086
+7218,USA,Michigan,Southfield,48033,MI,m26125
+7219,USA,Michigan,Olivet,49076,MI,"m26025,m26045"
+7220,USA,Michigan,Brighton,48116,MI,m26093
+7221,USA,Michigan,Jackson,49201,MI,m26075
+7222,USA,Michigan,Parma,49269,MI,m26075
+7223,USA,Michigan,Vermontville,49096,MI,m26045
+7224,USA,Michigan,Hazel Park,48030,MI,m26125
+7225,USA,Michigan,Milford,48380,MI,"m26093,m26125"
+7226,USA,Michigan,Lansing,48917,MI,"m26045,m26065"
+7229,USA,California,Sacramento,95821,CA,c06067
+7230,USA,California,Irvine,92604,CA,c06059
+7232,USA,Michigan,Detroit,48227,MI,m26163
+7234,USA,Michigan,Wyoming,49509,MI,m26081
+7235,USA,Minnesota,Redlake,56671,MN,m27007
+7237,USA,Illinois,Bridgeview,60455,IL,i17031
+7243,USA,Colorado,Denver,80239,CO,"c08001,c08031"
+7244,USA,Michigan,Atlanta,49709,MI,m26119
+7245,USA,California,San Lorenzo,94580,CA,c06001
+7247,USA,Michigan,Fair Haven,48023,MI,m26147
+7248,USA,Michigan,Wyoming,49519,MI,m26081
+7250,USA,Michigan,Oscoda,48750,MI,"m26001,m26069"
+7251,USA,New York,Salamanca,14779,NY,n36009
+7254,USA,Michigan,Potterville,48876,MI,m26045
+7255,USA,Missouri,Charleston,63834,MO,"m29133,m29201"
+7256,USA,Michigan,Kalamazoo,49008,MI,m26077
+7257,USA,Minnesota,Sauk Centre,56378,MN,"m27121,m27145,m27153"
+7258,USA,Minnesota,Minneapolis,55420,MN,m27053
+7260,USA,Arkansas,Rogers,72756,AR,"a05007,a05087"
+7263,USA,Arkansas,Pine Bluff,71601,AR,"a05069,a05079"
+7264,USA,Texas,New Braunfels,78130,TX,"t48091,t48187,t48209"
+7265,USA,North Carolina,Hampstead,28443,NC,n37141
+7266,USA,Massachusetts,North Brookfield,01535,MA,m25027
+7270,USA,North Carolina,Burgaw,28425,NC,n37141
+7271,USA,New Mexico,Roswell,88203,NM,n35005
+7272,USA,New York,New York,10019,NY,n36061
+7273,USA,Minnesota,Zumbrota,55992,MN,m27049
+7274,USA,Pennsylvania,Pittsburgh,15216,PA,p42003
+7275,USA,Louisiana,New Orleans,70115,LA,"l22051,l22071"
+7288,USA,Louisiana,New Orleans,70114,LA,"l22051,l22071"
+7289,USA,Michigan,Fowler,48835,MI,"m26037,m26057"
+7301,USA,Idaho,Saint Maries,83861,ID,"i16009,i16055,i16079"
+7303,USA,Texas,Haslet,76052,TX,"t48121,t48439,t48497"
+7308,USA,California,Los Altos,94024,CA,c06085
+7309,USA,Iowa,Storm Lake,50588,IA,"i19021,i19161"
+7311,USA,Minnesota,Virginia,55792,MN,m27137
+7312,USA,Texas,Tomball,77375,TX,t48201
+7313,USA,Tennessee,Cordova,38016,TN,t47157
+7314,USA,New Hampshire,Franklin,03235,NH,n33013
+7315,USA,Georgia,Albany,31707,GA,"g13095,g13177"
+7316,USA,Louisiana,New Orleans,70118,LA,l22071
+7318,USA,New York,Nanuet,10954,NY,n36087
+7319,USA,Texas,Garland,75040,TX,t48113
+7321,USA,Texas,Irving,75061,TX,t48113
+7323,USA,California,Oxnard,93036,CA,c06111
+7324,USA,California,Oxnard,93033,CA,c06111
+7326,USA,California,Oxnard,93030,CA,c06111
+7327,USA,California,Oxnard,93036,CA,c06111
+7330,USA,Virginia,Dendron,23839,VA,v51181
+7331,USA,Louisiana,Baton Rouge,70802,LA,l22033
+7400,USA,New York,Melville,11747,NY,n36103
+7401,USA,California,Concord,94520,CA,c06013
+7406,USA,Tennessee,Cleveland,37312,TN,t47011
+7407,USA,Connecticut,Wallingford,06492,CT,c09009
+7408,USA,Florida,Boca Raton,33432,FL,f12099
+7409,USA,Florida,Boca Raton,33486,FL,f12099
+7410,USA,Texas,Clute,77531,TX,t48039
+7411,USA,Iowa,Cedar Falls,50613,IA,"i19013,i19017,i19023,i19075"
+7412,USA,Louisiana,Metairie,70003,LA,l22051
+7413,USA,California,Marina,93933,CA,c06053
+7414,USA,Pennsylvania,Collegeville,19426,PA,p42091
+7415,USA,California,West Hills,91307,CA,"c06037,c06111"
+7416,USA,New Hampshire,Bethlehem,03574,NH,"n33007,n33009"
+7417,USA,Illinois,Williamsfield,61489,IL,"i17095,i17143"
+7418,USA,Texas,Channelview,77530,TX,t48201
+7419,USA,California,Dublin,94568,CA,"c06001,c06013"
+7422,USA,Nevada,Las Vegas,89142,NV,n32003
+7423,USA,Nevada,Las Vegas,89147,NV,n32003
+7424,USA,Nevada,Las Vegas,89123,NV,n32003
+7425,USA,Nevada,Henderson,89014,NV,n32003
+7426,USA,Nevada,Las Vegas,89120,NV,n32003
+7427,USA,Georgia,Milton,30009,GA,g13121
+7428,USA,Alabama,Fort Payne,35967,AL,"a01019,a01049"
+7429,USA,Virginia,Midlothian,23112,VA,"v51041,v51145"
+7430,USA,Arkansas,Marion,72364,AR,a05035
+7431,USA,Florida,Melbourne,32940,FL,f12009
+7432,USA,Minnesota,Loretto,55357,MN,m27053
+7434,USA,Ohio,Dayton,45459,OH,"o39057,o39113"
+7435,USA,Missouri,Saint Charles,63301,MO,m29183
+7436,USA,Utah,South Jordan,84095,UT,u49035
+7438,USA,Massachusetts,Sherborn,01770,MA,m25017
+7440,USA,Texas,Livingston,77351,TX,t48373
+7441,USA,California,Chula Vista,91910,CA,c06073
+7442,USA,Florida,Port Saint Lucie,34952,FL,f12111
+7443,USA,North Carolina,Spring Lake,28390,NC,"n37051,n37085"
+7445,USA,California,Palo Alto,94301,CA,c06085
+7446,USA,Alabama,Harvest,35749,AL,"a01083,a01089"
+7447,USA,California,Irvine,92618,CA,c06059
+7448,USA,Oregon,Adair Village,97330,OR,o41003
+7449,USA,Georgia,Acworth,30102,GA,"g13015,g13057,g13067"
+7450,USA,Florida,Kissimmee,34744,FL,f12097
+7451,USA,Georgia,Cumming,30040,GA,"g13057,g13117"
+7452,USA,Illinois,Dupo,62239,IL,i17163
+7454,USA,Indiana,Evansville,47725,IN,"i18051,i18163"
+7455,USA,California,Harbor City,90710,CA,c06037
+7457,USA,Indiana,Indianapolis,46225,IN,i18097
+7460,USA,Ohio,Sylvania,43560,OH,o39095
+7461,USA,Washington,Redmond,98053,WA,w53033
+7462,USA,Connecticut,Danbury,06811,CT,c09001
+7463,USA,North Carolina,Apex,27502,NC,"n37037,n37183"
+7464,USA,Oklahoma,Norman,73026,OK,o40027
+7467,USA,Arkansas,West Memphis,72301,AR,a05035
+7468,USA,California,San Francisco,94124,CA,c06075
+7470,USA,Georgia,Sylvester,31791,GA,"g13095,g13321"
+7472,USA,Missouri,Saint Louis,63123,MO,"m29189,m29510"
+7473,USA,Oklahoma,Tecumseh,74873,OK,o40125
+7474,USA,Mississippi,Jackson,39211,MS,m28049
+7477,USA,Indiana,Mishawaka,46544,IN,i18141
+7479,USA,Colorado,Elizabeth,80107,CO,c08039
+7482,USA,California,Riverside,92507,CA,c06065
+7483,USA,Arkansas,Viola,72583,AR,a05049
+7484,USA,Kentucky,Fort Campbell,42223,KY,k47125
+7485,USA,Colorado,Craig,81625,CO,c08081
+7486,USA,Ohio,Hudson,44236,OH,"o39133,o39153"
+7487,USA,Florida,West Palm Beach,33409,FL,f12099
+7488,USA,Florida,Delray Beach,33444,FL,f12099
+7489,USA,Florida,Delray Beach,33444,FL,f12099
+7490,USA,Florida,West Palm Beach,33404,FL,f12099
+7491,USA,Michigan,Burton,48457,MI,"m26049,m26145"
+7492,USA,Texas,The Woodlands,77384,TX,t48339
+7494,USA,Texas,Missouri City,77459,TX,t48157
+7495,USA,Michigan,Mount Pleasant,48858,MI,"m26073,m26111"
+7496,USA,Illinois,Mascoutah,62258,IL,"i17027,i17163"
+7499,USA,Georgia,Tifton,31793,GA,g13277
+7500,USA,Florida,Fort Lauderdale,33312,FL,f12011
+7501,USA,Michigan,Brooklyn,49230,MI,"m26075,m26091,m26161"
+7502,USA,Indiana,Middlebury,46540,IN,"i18039,i18087"
+7503,USA,Texas,Frisco,75034,TX,"t48085,t48121"
+7504,USA,New York,Brewster,10509,NY,"n36079,n36119"
+7506,USA,Texas,Arlington,76010,TX,t48439
+7510,USA,Texas,Houston,77080,TX,t48201
+7511,USA,Texas,Waco,76703,TX,t48309
+7512,USA,Alabama,Mobile,36609,AL,a01097
+7514,USA,Georgia,Atlanta,30312,GA,g13121
+7515,USA,West Virginia,Parkersburg,26101,WV,w54107
+7516,USA,Kentucky,Louisville,40203,KY,k21111
+7518,USA,Texas,Houston,77057,TX,t48201
+7519,USA,Florida,Clewiston,33440,FL,"f12051,f12099"
+7521,USA,Texas,Laredo,78045,TX,t48479
+7525,USA,Tennessee,Nashville,37207,TN,t47037
+7528,USA,California,Morgan Hill,95037,CA,c06085
+7530,USA,Minnesota,Watertown,55388,MN,"m27019,m27053,m27171"
+7531,USA,Iowa,Dubuque,52002,IA,i19061
+7533,USA,Texas,El Paso,79905,TX,t48141
+7534,USA,Texas,Fort Worth,76133,TX,t48439
+7535,USA,Texas,Arlington,76011,TX,t48439
+7537,USA,Colorado,Henderson,80640,CO,c08001
+7538,USA,Georgia,Lawrenceville,30043,GA,g13135
+7540,USA,New Mexico,Sandia Park,87047,NM,"n35001,n35043,n35049"
+7541,USA,Minnesota,Mapleton,56065,MN,"m27013,m27043,m27161"
+7547,USA,Arizona,Glendale,85302,AZ,a04013
+7548,USA,Hawaii,Kailua,96734,HI,h15003
+7553,USA,Michigan,Wixom,48393,MI,m26125
+7560,USA,Illinois,Chicago,60616,IL,i17031
+7562,USA,Louisiana,Natchitoches,71457,LA,"l22069,l22127"
+7568,USA,Arkansas,Marianna,72360,AR,"a05077,a05123"
+7573,USA,Texas,Muleshoe,79347,TX,"t48017,t48069,t48279,t48369"
+7578,USA,North Dakota,Jamestown,58401,ND,n38093
+7587,USA,New Jersey,Metuchen,08840,NJ,n34023
+7596,USA,Minnesota,Rushford,55971,MN,"m27045,m27055,m27169"
+7597,USA,Michigan,Fraser,48026,MI,m26099
+7598,USA,Michigan,Wixom,48393,MI,m26125
+7599,USA,Pennsylvania,Philadelphia,19141,PA,p42101
+7602,USA,Michigan,Scottville,49454,MI,m26105
+7607,USA,California,Palmdale,93551,CA,c06037
+7608,USA,Illinois,Chicago,60610,IL,i17031
+7616,USA,Texas,Sweeny,77480,TX,"t48039,t48321"
+7617,USA,Indiana,Carmel,46032,IN,"i18011,i18057"
+7619,USA,Wisconsin,Manitowoc,54220,WI,w55071
+7620,USA,Arizona,Anthem,85086,AZ,a04013
+7621,USA,Texas,Spring Branch,78070,TX,"t48031,t48091,t48259"
+7627,USA,Washington,Monroe,98272,WA,w53061
+7634,USA,Utah,Sandy,84094,UT,u49035
+7638,USA,Michigan,Ironwood,49938,MI,m26053
+7646,USA,Iowa,Cresco,52136,IA,"i19089,i19191"
+7648,USA,Louisiana,New Orleans,70125,LA,l22071
+7649,USA,New Mexico,Santa Fe,87505,NM,n35049
+7651,USA,New York,Bethlehem,12159,NY,n36001
+7652,USA,Florida,Miami Beach,33139,FL,f12086
+7654,USA,Nevada,Henderson,89052,NV,n32003
+7655,USA,Arkansas,Hamburg,71646,AR,"a05003,a05043"
+7656,USA,Michigan,Michigan Center,49254,MI,m26075
+7657,USA,Indiana,Evansville,47711,IN,i18163
+7658,USA,Michigan,Kalamazoo,49009,MI,"m26077,m26159"
+7660,USA,Michigan,Ann Arbor,48105,MI,m26161
+7661,USA,Louisiana,New Orleans,70115,LA,"l22051,l22071"
+7662,USA,Missouri,Lebanon,65536,MO,"m29029,m29059,m29105"
+7663,USA,California,Fresno,93723,CA,c06019
+7665,USA,Michigan,Grand Ledge,48837,MI,"m26037,m26045,m26067"
+7667,USA,California,Napa,94559,CA,c06055
+7668,USA,New York,New York,10028,NY,n36061
+7670,USA,Pennsylvania,Claysville,15323,PA,p42125
+7671,USA,North Carolina,Creedmoor,27522,NC,"n37077,n37183"
+7674,USA,New Hampshire,Rochester,03867,NH,n33017
+7675,USA,North Carolina,Gatesville,27938,NC,n37073
+7676,USA,Georgia,Thomson,30824,GA,"g13073,g13189,g13301"
+7677,USA,Minnesota,Swanville,56382,MN,"m27097,m27153"
+7686,USA,California,Lafayette,94549,CA,c06013
+7689,USA,Michigan,Muskegon,49441,MI,m26121
+7691,USA,Texas,Tomball,77375,TX,t48201
+7692,USA,Michigan,Southfield,48075,MI,"m26125,m26163"
+7693,USA,Kentucky,Morehead,40351,KY,"k21011,k21043,k21063,k21069,k21205"
+7694,USA,Connecticut,West Hartford,06117,CT,c09003
+7695,USA,Indiana,Highland,46322,IN,i18089
+7696,USA,Washington,Grandview,98930,WA,"w53005,w53077"
+7702,USA,Arkansas,Clarendon,72029,AR,a05095
+7703,USA,Arizona,Cave Creek,85331,AZ,a04013
+7704,USA,Texas,Dallas,75233,TX,t48113
+7705,USA,Texas,Sugar Land,77478,TX,t48157
+7708,USA,Texas,Terrell,75160,TX,"t48231,t48257,t48397"
+7713,USA,Michigan,Felch,49831,MI,m26043
+7714,USA,District of Columbia,Washington,20009,DC,d11001
+7715,USA,North Carolina,Elizabeth City,27909,NC,"n37029,n37139"
+7716,USA,Michigan,Detroit,48235,MI,m26163
+7718,USA,New York,Ulster Park,12487,NY,n36111
+7724,USA,Hawaii,Hoolehua,96729,HI,h15009
+7728,USA,Florida,Windermere,34786,FL,f12095
+7730,USA,New York,Thiells,10984,NY,n36087
+7737,USA,Colorado,Denver,80249,CO,"c08001,c08031"
+7739,USA,North Carolina,Tarboro,27886,NC,"n37065,n37083,n37147"
+7744,USA,Oklahoma,Collinsville,74021,OK,"o40131,o40143,o40147"
+7746,USA,Missouri,Saint Louis,63107,MO,m29510
+7747,USA,Missouri,Saint Louis,63125,MO,"m29189,m29510"
+7749,USA,Texas,Dallas,75212,TX,t48113
+7750,USA,Texas,Alpine,79830,TX,t48043
+7751,USA,Michigan,West Branch,48661,MI,m26129
+7754,USA,Florida,Saint Augustine,32092,FL,f12109
+7755,USA,Arizona,Casa Grande,85122,AZ,a04021
+7759,USA,New York,Irvington,10533,NY,n36119
+7760,USA,Connecticut,Pomfret,06258,CT,c09015
+7762,USA,Michigan,Warren,48088,MI,m26099
+7763,USA,North Carolina,Carrboro,27510,NC,n37135
+7766,USA,Arkansas,Heber Springs,72543,AR,a05023
+7767,USA,Arkansas,Little Rock,72223,AR,a05119
+7768,USA,Michigan,Iron River,49935,MI,m26071
+7769,USA,Michigan,Royal Oak,48073,MI,m26125
+7770,USA,Maryland,Bel Air,21014,MD,m24025
+7772,USA,Michigan,Montrose,48457,MI,"m26049,m26145"
+7773,USA,Missouri,Park Hills,63601,MO,m29187
+7774,USA,Florida,Jacksonville,32208,FL,f12031
+7776,USA,Washington,Okanogan,98840,WA,w53047
+7777,USA,California,Greenfield,93927,CA,c06053
+7778,USA,California,Bakersfield,93312,CA,c06029
+7782,USA,Michigan,Rock,49880,MI,"m26041,m26103"
+7783,USA,Michigan,Orchard Lake,48324,MI,m26125
+7784,USA,Michigan,Vassar,48768,MI,"m26145,m26157"
+7785,USA,Iowa,Shenandoah,51601,IA,"i19071,i19145"
+7788,USA,Michigan,Inkster,48141,MI,m26163
+7789,USA,Michigan,Detroit,48211,MI,m26163
+7790,USA,Michigan,Harbor Springs,49740,MI,m26047
+7791,USA,Michigan,Clinton Township,48089,MI,m26099
+7794,USA,Michigan,Marion,49665,MI,"m26035,m26113,m26133"
+7795,USA,Massachusetts,Winthrop,02152,MA,m25025
+7797,USA,Minnesota,Cloquet,55720,MN,"m27017,m27137"
+7798,USA,Arkansas,Helena,72342,AR,a05107
+7802,USA,Nevada,Dayton,89403,NV,"n32019,n32029"
+7803,USA,Washington,Omak,98841,WA,w53047
+7804,USA,Arkansas,Cabot,72023,AR,"a05045,a05085,a05119"
+7807,USA,Michigan,Garden City,48135,MI,m26163
+7808,USA,Michigan,Kalkaska,49646,MI,m26079
+7809,USA,Michigan,Bangor,49013,MI,m26159
+7810,USA,Michigan,Muskegon,49442,MI,m26121
+7811,USA,Michigan,Battle Creek,49017,MI,"m26015,m26025,m26077"
+7812,USA,Michigan,Ionia,48846,MI,m26067
+7813,USA,Michigan,New Haven,48048,MI,m26099
+7814,USA,Michigan,Three Oaks,49128,MI,m26021
+7815,USA,North Carolina,Spencer,28159,NC,n37159
+7816,USA,Michigan,Ishpeming,49849,MI,m26103
+7817,USA,Michigan,Lansing,48912,MI,m26065
+7818,USA,Michigan,Williamston,48895,MI,m26065
+7820,USA,Michigan,Detroit,48238,MI,m26163
+7822,USA,Massachusetts,South Hamilton,01982,MA,m25009
+7823,USA,Michigan,Rogers City,49779,MI,m26141
+7824,USA,Georgia,Savannah,31408,GA,g13051
+7826,USA,Michigan,Marquette,49855,MI,m26103
+7827,USA,Michigan,Crystal Falls,49920,MI,"m26043,m26071"
+7833,USA,Florida,West Palm Beach,33405,FL,f12099
+7834,USA,Louisiana,Monroe,71201,LA,l22073
+7836,USA,Mississippi,Natchez,39120,MS,"m28001,m28063"
+7837,USA,Texas,San Antonio,78213,TX,t48029
+7842,USA,Arkansas,Lake Village,71653,AR,a05017
+7846,USA,Arkansas,Barton,72312,AR,a05107
+7847,USA,California,San Francisco,94116,CA,c06075
+7848,USA,Illinois,Pontiac,61764,IL,i17105
+7849,USA,Minnesota,Saint Paul,55108,MN,m27123
+7850,USA,Minnesota,Coon Rapids,55443,MN,m27053
+7853,USA,New Jersey,Elizabeth,07202,NJ,n34039
+7854,USA,Michigan,Mount Clemens,48043,MI,m26099
+7855,USA,Michigan,Mesick,49668,MI,"m26101,m26165"
+7856,USA,Michigan,Detroit,48202,MI,m26163
+7858,USA,Minnesota,Olivia,56277,MN,"m27067,m27129"
+7859,USA,Michigan,Romulus,48174,MI,m26163
+7861,USA,Michigan,Alba,49611,MI,m26009
+7864,USA,Minnesota,Cook,55723,MN,"m27061,m27137"
+7865,USA,Michigan,Detroit,48210,MI,m26163
+7868,USA,Arkansas,Forrest City,72335,AR,"a05077,a05123"
+7869,USA,Connecticut,New Haven,06511,CT,c09009
+7871,USA,California,South Gate,90280,CA,c06037
+7872,USA,Texas,Wimberley,78676,TX,"t48031,t48091,t48209"
+7874,USA,Louisiana,Monroe,71202,LA,l22073
+7875,USA,Minnesota,Saint Paul,55104,MN,m27123
+7877,USA,New Jersey,Camden,08102,NJ,n34007
+7878,USA,Arkansas,Pine Bluff,71603,AR,"a05025,a05053,a05069,a05079"
+7879,USA,Maryland,Hanover,21076,MD,"m24003,m24027"
+7880,USA,Nevada,Las Vegas,89101,NV,n32003
+7883,USA,Georgia,Augusta,30906,GA,g13245
+7885,USA,Ohio,Elyria,44035,OH,o39093
+7886,USA,Maryland,Frederick,21701,MD,m24021
+7887,USA,California,Camarillo,93012,CA,c06111
+7890,USA,North Carolina,Raleigh,27614,NC,n37183
+7891,USA,Colorado,Longmont,80501,CO,c08013
+7893,USA,Minnesota,Maple Lake,55358,MN,m27171
+7894,USA,Michigan,Flint,48504,MI,m26049
+7895,USA,Idaho,Homedale,83628,ID,i16073
+7896,USA,Arkansas,Osceola,72370,AR,a05093
+7897,USA,Arizona,Winslow,86047,AZ,"a04005,a04017"
+7898,USA,Hawaii,Honolulu,96818,HI,h15003
+7899,USA,Louisiana,Gibsland,71028,LA,"l22013,l22027"
+7900,USA,Wisconsin,Racine,53406,WI,w55101
+7903,USA,New York,Rochester,14613,NY,n36055
+7905,USA,Utah,Clearfield,84015,UT,u49011
+7906,USA,Utah,Salt Lake City,84118,UT,u49035
+7907,USA,New Hampshire,Whitefield,03598,NH,"n33007,n33009"
+7908,USA,Arkansas,Marvell,72366,AR,"a05077,a05095,a05107"
+7909,USA,Utah,Salt Lake City,84115,UT,u49035
+7910,USA,Arkansas,Crossett,71635,AR,a05003
+7911,USA,Michigan,Belding,48809,MI,"m26067,m26081,m26117"
+7913,USA,New Hampshire,Bristol,03222,NH,n33009
+7914,USA,Louisiana,Monroe,71201,LA,l22073
+7915,USA,Wisconsin,Ripon,54971,WI,"w55039,w55047,w55139"
+8044,USA,Louisiana,Denham Springs,70726,LA,l22063
+8048,USA,California,Palo Alto,94303,CA,"c06081,c06085"
+8055,USA,Texas,Frisco,75035,TX,"t48085,t48121"
+8090,USA,North Carolina,Roxboro,27573,NC,n37145
