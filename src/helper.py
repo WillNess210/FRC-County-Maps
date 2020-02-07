@@ -64,6 +64,11 @@ def expandTeamsInCountyIntoBlankByClosest(teams_in_county, county_location_info_
         filled_teams_in_county[county] = home_counties[closest_home_county[county]]
     return filled_teams_in_county
 
+
+def custom_hash(s):
+    ord3 = lambda x : '%.3d' % ord(x)
+    return int(''.join(map(ord3, s)))
+
 class RoboColor:
     def __init__(self, color_override_loc):
         colordf = pd.read_csv(color_override_loc)
@@ -78,7 +83,10 @@ class RoboColor:
         if not disable_teamcolors and str(teamnum) in self.teamcolors:
             print("Preloading color for " + str(teamnum) + " - " + self.teamcolors[str(teamnum)] + ".")
             return self.teamcolors[str(teamnum)]
-        teamhash = hash(str(teamnum) * 100)
+        string_to_hash = str(teamnum) * 100
+        if len(string_to_hash) > 50:
+            string_to_hash = string_to_hash[:50]
+        teamhash = custom_hash(string_to_hash)
         R = ((teamhash // (256 * 256)) % 161) + 75
         G = ((teamhash // (256)) % 161) + 75
         B = ((teamhash // 1) % 161) + 75
@@ -86,3 +94,4 @@ class RoboColor:
     
     def getContestedRGB(self):
         return "rgb(255,255,255)"
+    

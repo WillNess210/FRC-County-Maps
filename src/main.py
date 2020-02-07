@@ -5,9 +5,9 @@ frc_county_data_loc = "/home/will/Documents/Projects/frc_counties/data/frc_teams
 team_custom_colors_loc = "/home/will/Documents/Projects/frc_counties/data/team_colors.csv"
 county_location_info_loc = "/home/will/Documents/Projects/frc_counties/data/counties_loc.csv"
 
-dest_density_map_loc = "/home/will/Documents/Projects/frc_counties/frc_county_density.svg"
-dest_undefeated_map_loc = "/home/will/Documents/Projects/frc_counties/frc_undefeated2_map.svg"
-dest_imperialism_map_loc = "/home/will/Documents/Projects/frc_counties/frc_imperialism_map.svg"
+dest_density_map_loc = "/home/will/Documents/Projects/portfolio_website/WillNess210.github.io/frc/county_maps/frc_county_density.svg"
+dest_undefeated_map_loc = "/home/will/Documents/Projects/portfolio_website/WillNess210.github.io/frc/undefeated/2019/week7/frc_undefeated_map.svg"
+dest_imperialism_map_loc = "/home/will/Documents/Projects/portfolio_website/WillNess210.github.io/frc/imperialism/2019/week7/frc_imperialism_map.svg"
 
 def generateDensityCountyMap():
     densityMap = DensityCountyMap(svg_loc, dest_density_map_loc, frc_county_data_loc)
@@ -22,6 +22,6 @@ def generateImperialismCountyMap():
     imperialismMap.genSVG()
 
 if __name__ == '__main__':
-    #generateDensityCountyMap()
-    generateUndefeatedCountyMap()
-    generateImperialismCountyMap()
+    generateDensityCountyMap()
+    #generateUndefeatedCountyMap()
+    #generateImperialismCountyMap()

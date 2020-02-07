@@ -58,7 +58,7 @@ class CountyMap:
                 else:
                     team_county_counts[team] = 1
         # sort, ordered list of tuples [(team, team_count)] w/ top ranked team first and last ranked team last
-        team_county_counts = {(team, team_count) for team, team_count in sorted(team_county_counts.items(), key = lambda item: item[1], reverse=True)}
+        team_county_counts = [(team, team_count) for team, team_count in sorted(team_county_counts.items(), key = lambda item: item[1], reverse=True)]
         # create string to write to file
         file_str = "Team,# Counties\n"
         for team, team_count in team_county_counts:
@@ -74,6 +74,17 @@ class DensityCountyMap(CountyMap):
         self.frc_county_data_loc = frc_county_data_loc
         self.min_color_val = 30
     
+    def genCountyCountList(self, teams_in_county):
+        print("Generating density ranked list.")
+        dest_file = self.dest_map_loc[:-4] + "_ownership.csv"
+        county_counts = [(county, len(team_count)) for county, team_count in sorted(teams_in_county.items(), key = lambda item: len(item[1]), reverse=True)]
+        output_str = "County,# Teams\n"
+        for county, count in county_counts:
+            output_str += county + "," + str(count) + "\n"
+        writer = open(dest_file, "w")
+        writer.write(output_str)
+        writer.close()
+
     def genSVG(self):
         print("Generating density map.")
         frc_counties = pd.read_csv(self.frc_county_data_loc)
@@ -86,6 +97,7 @@ class DensityCountyMap(CountyMap):
                     teams_in_county[county].append(row["Team Number"])
                 else:
                     teams_in_county[county] = [row["Team Number"]]
+        self.genCountyCountList(teams_in_county)
         # convert teams_in_county into county_labels
         county_labels = {}
         max_teams_in_one_county = -1
@@ -121,7 +133,7 @@ class UndefeatedCountyMap(CountyMap):
                     teams_in_county[county] = [row["Team Number"]]
         # get undefeated teams
         #undefeated_teams = [254, 4944, 1332, 5254]
-        undefeated_teams = getUndefeatedTeams(2020, quiet=False)
+        undefeated_teams = getUndefeatedTeams(2019, curdate="2019-04-15", quiet=False)
         undef_teams_in_county = {}
         for county in teams_in_county:
             county_teams = teams_in_county[county]
@@ -149,7 +161,7 @@ class ImperialismCountyMap(CountyMap):
                 else:
                     self.teams_in_county[county] = [row["Team Number"]]
         # grab all teams active in this year
-        active_teams = getTeamsParticipating(year=2020)
+        active_teams = getTeamsParticipating(year=2019)
         tic_next = {}
         for county in self.teams_in_county:
             tic_next[county] = [team for team in self.teams_in_county[county] if team in active_teams]
@@ -157,7 +169,7 @@ class ImperialismCountyMap(CountyMap):
         # expand outwards to fill map
         self.teams_in_county = expandTeamsInCountyIntoBlankByClosest(self.teams_in_county, self.county_location_info_loc)
         # load in all events, sort, and filter
-        events = getEventsInOrder(year=2020)
+        events = getEventsInOrder(year=2019, curdate="2019-04-15")
         num_event = 1
         for event in events:
             winner, partners, losers = getWinnerPartersLosersAtEvent(event)
@@ -167,7 +179,7 @@ class ImperialismCountyMap(CountyMap):
             num_event += 1
         self.genSVGWithTeamColors(self.teams_in_county)
 
-    def landClaim(self, winner, losers):
+    def landClaim(self, winner, losers, frc_counties = None):
         for county in self.teams_in_county:
             countyOwners = self.teams_in_county[county]
             for loser in [loser for loser in losers if loser in countyOwners]:
